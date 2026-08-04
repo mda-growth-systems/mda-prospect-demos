@@ -1,0 +1,18 @@
+Recipient email
+info@ajindustrial.co.uk
+
+Subject
+Re: A survey-ready enquiry system for AJ Industrial Roofing
+
+Main message
+Hi AJ Industrial Roofing team,
+
+Just following up on the roof-survey concept: [NETLIFY URL TO BE ADDED AFTER DEPLOYMENT]
+
+The photo/document upload is a practical addition—it gives your team useful context before deciding whether the next step is an urgent visit, survey or planned quotation.
+
+Would you like a brief walkthrough?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com

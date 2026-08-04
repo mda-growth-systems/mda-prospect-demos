@@ -1,0 +1,20 @@
+Recipient email
+mphtechltd@gmail.co.uk
+
+Subject
+A structured project-intake concept for MPH Elec
+
+Main message
+Hi MPH Elec team,
+
+I reviewed your commercial and industrial electrical offer, including HV systems up to 220kV, data-centre work, testing, maintenance and renewable-energy projects. That technical range is strong, but the current one-page site gives every new opportunity the same basic contact route.
+
+I prepared an unofficial concept that captures project stage, voltage, live-site constraints, shutdown requirements and target dates before the first technical call. It could route each lead into a CRM and automate tender follow-up.
+
+Demo: [NETLIFY URL TO BE ADDED AFTER DEPLOYMENT]
+
+Would a 10–15 minute walkthrough be useful?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com

@@ -1,0 +1,20 @@
+Recipient email
+service@abbeyfireprotection.com
+
+Subject
+A service-reminder and booking concept for Abbey Fire Protection
+
+Main message
+Hi Abbey Fire Protection team,
+
+I reviewed your extinguisher maintenance, testing, refilling, equipment supply and training offer. Your mobile engineers support everything from single sites to multi-site organisations, but the current enquiry step does not capture the number of sites, extinguisher estimate or next service date.
+
+I prepared an unofficial concept that turns the website into a service-intake system and could connect to a CRM for annual reminders and follow-up.
+
+Demo: [NETLIFY URL TO BE ADDED AFTER DEPLOYMENT]
+
+Would a 10–15 minute walkthrough be useful?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com

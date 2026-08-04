@@ -1,0 +1,20 @@
+Recipient email
+info@ajindustrial.co.uk
+
+Subject
+A survey-ready enquiry system for AJ Industrial Roofing
+
+Main message
+Hi AJ Industrial Roofing team,
+
+I reviewed your industrial roofing and cladding coverage across Southern England and the Midlands. For a survey or repair, the first useful details are usually the building type, active-leak urgency, access constraints, postcode and any available photos—but those are not all captured in one structured route.
+
+I prepared an unofficial concept that turns the website into a survey-ready intake and could route urgent repairs, inspections and planned projects into separate CRM pipelines.
+
+Demo: [NETLIFY URL TO BE ADDED AFTER DEPLOYMENT]
+
+Would a 10–15 minute walkthrough be useful?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com

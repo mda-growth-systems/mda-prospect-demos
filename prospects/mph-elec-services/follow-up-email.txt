@@ -1,0 +1,18 @@
+Recipient email
+mphtechltd@gmail.co.uk
+
+Subject
+Re: A structured project-intake concept for MPH Elec
+
+Main message
+Hi MPH Elec team,
+
+A quick follow-up on the technical-intake concept: [NETLIFY URL TO BE ADDED AFTER DEPLOYMENT]
+
+The live-site and shutdown question is especially useful because it tells your team about programme risk before reviewing the full scope.
+
+Would you like a brief walkthrough?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com

@@ -1,0 +1,33 @@
+BUSINESS VERIFICATION NOTES
+
+Business: Independent Fire Safety Services
+Legal entity: Independent Fire Safety Services Limited
+Website: https://independentfire.co.uk/
+Email: enquiries@independentfire.co.uk
+Phone: 0161 302 9861
+Location: Rochdale, Lancashire · UK service delivery
+Contact: Deborah Cavanagh (Companies House director)
+Commercial capability assessment: Strong (reasoned assessment, not proven financial data)
+Prospect score: 93/100
+Previous MDA contact found: No, after Gmail and GitHub checks on 4 August 2026.
+
+VERIFIED FACTS
+- Official site lists fire-door inspection, fire-risk assessment, fire-stopping survey, clerk-of-works and compliance-dashboard services.
+- Public phone: 0161 302 9861. Public email: enquiries@independentfire.co.uk.
+- Companies House company 09742950 is active; Deborah Cavanagh is an active director.
+
+OBSERVED OPPORTUNITY
+The official site presents specialist compliance services and a dashboard, but the general contact route does not visibly capture property type, estate size, duty-holder role, deadline, existing reports or recurring inspection needs.
+
+RECOMMENDED MDA SYSTEM
+A structured compliance intake connected to a CRM, with separate routes for inspections, surveys and consultancy, automatic document requests, recurring reminders and service-area SEO pages.
+
+SOURCES
+- https://independentfire.co.uk/contact-us/
+- https://find-and-update.company-information.service.gov.uk/company/09742950
+- https://find-and-update.company-information.service.gov.uk/officers/V-ctd9DsWDgtHPcJ7f5SfgBWfWo/appointments
+
+LIMITATIONS
+- Public sources can change after the research date.
+- No financial claim is made.
+- The demo uses custom original vector artwork rather than copying protected website photography.

@@ -1,0 +1,1 @@
+(async()=>{try{const b=Uint8Array.from(atob(window.MDA_DATA),c=>c.charCodeAt(0));const s=new DecompressionStream('gzip');const h=await new Response(new Blob([b]).stream().pipeThrough(s)).text();document.open();document.write(h);document.close()}catch(e){document.body.innerHTML='<p style="font:16px Arial;padding:2rem">This concept requires a modern browser.</p>'}})();

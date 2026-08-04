@@ -1,0 +1,19 @@
+Recipient: sales@pump-services.co.uk
+Subject: Pump faults, ready for dispatch
+
+Hi Pump Services team,
+
+Your site communicates a wide pump capability, 24/7 support and a trading history extending back to 1977. I saw an opportunity for each enquiry to arrive with an asset passport covering pump type, duty, alarm, site impact and maintenance history.
+
+I built an unofficial concept around that idea:
+https://ruan-vv.github.io/mda-prospect-demos/prospects/pump-services-surrey/
+
+Would this give your engineers a better first brief?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Status: do not send until public link QA passes.

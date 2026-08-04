@@ -1,0 +1,19 @@
+Recipient: info@lev-testing.org
+Subject: Your next LEV test journey
+
+Hi LEV Testing team,
+
+Your site makes the depth in examination, inspection, maintenance and repair clear, backed by more than 21 years in LEV. I saw an opportunity to organise the first request around the last report, number of systems and next test due date.
+
+I built an unofficial compliance-booking concept:
+https://ruan-vv.github.io/mda-prospect-demos/prospects/lev-testing/
+
+Would this make repeat testing easier to arrange?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Status: do not send until public link QA passes.

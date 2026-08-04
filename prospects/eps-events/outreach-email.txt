@@ -1,0 +1,19 @@
+Recipient: wayne@epsevents.co.uk
+Subject: An event brief for EPS
+
+Hi Wayne,
+
+EPS combines mobile staging, sound, lighting and event management across the UK. The current callback route is quick, but it does not collect the venue, audience, production scope, power, access or running-order details your team needs to shape a quote.
+
+I built an unofficial event-brief concept for EPS:
+https://ruan-vv.github.io/mda-prospect-demos/prospects/eps-events/
+
+Would this make the first production conversation more useful?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Status: do not send until public link QA passes.

@@ -1,0 +1,1 @@
+Directions considered: aerial survey board; weather-response dashboard; building-envelope specification. Selected: aerial survey board with building type, urgency, access and image-ready inspection scoping.

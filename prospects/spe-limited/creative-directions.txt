@@ -1,0 +1,1 @@
+Directions considered: incident control panel; pumping-station map; maintenance lifecycle. Selected: incident control panel separating operational impact, alarm state and asset details for faster pump-station fault routing.

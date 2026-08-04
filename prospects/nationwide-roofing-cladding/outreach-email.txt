@@ -1,0 +1,19 @@
+Recipient: info@nrclimited.co.uk
+Subject: A survey-ready roofing brief
+
+Hi Nationwide Roofing & Cladding team,
+
+Your site covers industrial roof installation, refurbishment, repairs, overcladding, guttering and rooflights. A survey request could arrive with the building type, active-leak status, access constraints, approximate scope and photos already organised.
+
+I built an unofficial inspection-first concept around that idea:
+https://ruan-vv.github.io/mda-prospect-demos/prospects/nationwide-roofing-cladding/
+
+Would this help your team qualify surveys more quickly?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Status: do not send until public link QA passes.

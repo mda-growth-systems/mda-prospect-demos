@@ -1,0 +1,19 @@
+Recipient: info@konfloor.com
+Subject: A technical slab enquiry for KonFloor
+
+Hi KonFloor team,
+
+KonFloor’s specialist focus on high-tolerance industrial concrete floors is clear across the UK and European project work. A technical enquiry could arrive with slab area, building use, tolerance, loading, reinforcement, programme, access and drawings already structured.
+
+I built an unofficial tender-intake concept around that brief:
+https://ruan-vv.github.io/mda-prospect-demos/prospects/konfloor/
+
+Would this make early project review more efficient?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Status: do not send until public link QA passes.

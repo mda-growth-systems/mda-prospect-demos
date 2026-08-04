@@ -1,0 +1,1 @@
+Directions considered: asset passport; emergency dispatch card; maintenance planner. Selected: asset passport that captures pump type, duty, fault symptoms, site access and service history.

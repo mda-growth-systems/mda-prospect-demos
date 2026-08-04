@@ -1,0 +1,19 @@
+Recipient: info@accessdoorservicesltd.co.uk
+Subject: A faster door-fault brief
+
+Hi Access Door Services team,
+
+You cover both automatic and manual entrance repairs around Hertfordshire and London, including 24-hour support. When a door fails, the most important first detail is often whether it is stuck open, stuck closed or creating an access risk.
+
+I built an unofficial concept around that first decision:
+https://ruan-vv.github.io/mda-prospect-demos/prospects/access-door-services/
+
+Would a brief like this make emergency routing easier?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Status: do not send until public link QA passes.

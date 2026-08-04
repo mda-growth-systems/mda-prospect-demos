@@ -1,0 +1,20 @@
+Recipient email
+info@waterhygieneservices.co.uk
+
+Subject
+A more complete compliance brief for Water Hygiene Services
+
+Main message
+Hi Water Hygiene Services team,
+
+I reviewed your monitoring/PPM, Legionella risk assessment, sampling, cleaning, disinfection and training services. Because the work ranges from single assessments to ongoing estate programmes, a general enquiry can leave your team asking for the site type, number of locations and current compliance status afterwards.
+
+I prepared an unofficial concept that captures those details upfront and could connect to a CRM for programme routing, document tracking and recurring reminders.
+
+Demo: [NETLIFY URL TO BE ADDED AFTER DEPLOYMENT]
+
+Would a 10–15 minute walkthrough be useful?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com

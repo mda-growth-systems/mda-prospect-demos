@@ -1,0 +1,40 @@
+{
+  "selected": [
+    {
+      "name": "CC Door Systems",
+      "score": 88,
+      "rating": "Strong",
+      "slug": "cc-door-systems"
+    },
+    {
+      "name": "Abbey Fire Protection",
+      "score": 86,
+      "rating": "Strong",
+      "slug": "abbey-fire-protection"
+    },
+    {
+      "name": "Refrigeration U.K Ltd",
+      "score": 91,
+      "rating": "Strong",
+      "slug": "refrigeration-uk"
+    },
+    {
+      "name": "Water Hygiene Services",
+      "score": 93,
+      "rating": "Strong",
+      "slug": "water-hygiene-services"
+    },
+    {
+      "name": "MPH Elec Services LTD",
+      "score": 82,
+      "rating": "Moderate",
+      "slug": "mph-elec-services"
+    },
+    {
+      "name": "AJ Industrial Roofing & Cladding Ltd",
+      "score": 87,
+      "rating": "Strong",
+      "slug": "aj-industrial-roofing"
+    }
+  ]
+}

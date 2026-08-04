@@ -1,0 +1,20 @@
+Recipient email
+refrigerationuk@live.co.uk
+
+Subject
+A better breakdown brief for Refrigeration U.K Ltd
+
+Main message
+Hi Refrigeration U.K team,
+
+I reviewed your installation, repair, servicing and planned-maintenance work for commercial refrigeration and air conditioning across the North West. The current contact form is simple, but it does not capture the equipment, temperature issue, operational risk or urgency.
+
+I prepared an unofficial concept that separates critical breakdowns from planned projects and sends a structured engineer brief into a CRM, with automated acknowledgement and maintenance follow-up.
+
+Demo: [NETLIFY URL TO BE ADDED AFTER DEPLOYMENT]
+
+Would a 10–15 minute walkthrough be useful?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com

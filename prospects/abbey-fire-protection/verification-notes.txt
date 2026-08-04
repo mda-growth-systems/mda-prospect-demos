@@ -1,0 +1,31 @@
+BUSINESS: Abbey Fire Protection
+OFFICIAL WEBSITE: https://abbeyfireprotection.com/
+INDUSTRY: Fire protection and extinguisher servicing
+LOCATION / COVERAGE: Swindon, serving customers across the United Kingdom
+PUBLIC EMAIL: service@abbeyfireprotection.com
+PUBLIC PHONE: 01793 726 818
+VERIFIED CONTACT PERSON: David Michael Brookes (director, Companies House)
+PROSPECT SCORE: 86/100
+COMMERCIAL CAPABILITY ASSESSMENT: Strong
+
+OPERATING EVIDENCE
+- Official site states over 25 years of experience, UK-wide service and a mobile engineer fleet.
+- Companies House lists ABBEY FIRE AND SECURITY (SWINDON) LIMITED as active (company 11486565).
+- Public contact: service@abbeyfireprotection.com and 01793 726 818.
+
+OBSERVED WEBSITE OPPORTUNITY
+The site contains useful service information but the enquiry journey does not visibly collect service due dates, site count, extinguisher quantity or multi-site requirements.
+
+RECOMMENDED MDA SOLUTION
+A compliance-focused service request that captures contract scope, schedules recurring reminders, and routes annual servicing, supply and training leads into a CRM.
+
+AFFORDABILITY RATIONALE
+Recurring statutory servicing, commercial clients, mobile engineers and multi-site work indicate a strong recurring-revenue fit.
+
+DUPLICATE CHECK
+No matching business name, domain or public email was found in the connected Gmail search or the searched MDA GitHub repositories on 4 August 2026.
+
+FACTUAL LIMITS
+- Financial capability is an assessment based on observable commercial signals, not verified financial information.
+- No testimonials, customer logos, awards, prices or project claims were invented for this concept.
+- All branding and business content remain subject to the prospect's review and approval.

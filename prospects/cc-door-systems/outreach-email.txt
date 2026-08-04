@@ -1,0 +1,20 @@
+Recipient email
+info@ccdoorsystems.co.uk
+
+Subject
+A faster fault-to-engineer route for CC Door Systems
+
+Main message
+Hi CC Door Systems team,
+
+I reviewed your automatic and manual door work across Liverpool, Manchester, Warrington and Chester. The current site explains the services, but a customer with a failed entrance still has to send a fairly general enquiry.
+
+I prepared an unofficial concept showing a faster route: entrance type, fault, urgency, postcode and maintenance status captured before your team responds. That could feed directly into a CRM, trigger an acknowledgement and separate emergency call-outs from planned work.
+
+Demo: [NETLIFY URL TO BE ADDED AFTER DEPLOYMENT]
+
+Would a 10–15 minute walkthrough be useful?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com

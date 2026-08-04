@@ -1,0 +1,18 @@
+Recipient email
+service@abbeyfireprotection.com
+
+Subject
+Re: A service-reminder and booking concept for Abbey Fire Protection
+
+Main message
+Hi Abbey Fire Protection team,
+
+Just following up on the fire-service booking concept: [NETLIFY URL TO BE ADDED AFTER DEPLOYMENT]
+
+The useful part is capturing the current service due date, which creates a natural route for automated annual reminders without adding admin for your team.
+
+Would you like a brief walkthrough?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com

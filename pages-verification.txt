@@ -1,0 +1,10 @@
+GitHub Pages verification
+Verified by GitHub Actions in UTC: 2026-08-04T08:36:17Z
+
+PASS https://ruan-vv.github.io/mda-prospect-demos/
+PASS https://ruan-vv.github.io/mda-prospect-demos/prospects/cc-door-systems/
+PASS https://ruan-vv.github.io/mda-prospect-demos/prospects/abbey-fire-protection/
+PASS https://ruan-vv.github.io/mda-prospect-demos/prospects/refrigeration-uk/
+PASS https://ruan-vv.github.io/mda-prospect-demos/prospects/water-hygiene-services/
+PASS https://ruan-vv.github.io/mda-prospect-demos/prospects/mph-elec-services/
+PASS https://ruan-vv.github.io/mda-prospect-demos/prospects/aj-industrial-roofing/

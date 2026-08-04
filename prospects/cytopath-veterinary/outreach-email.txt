@@ -1,0 +1,22 @@
+Recipient email
+admin@cytopath.co.uk
+
+Subject
+A clearer practice-onboarding journey for Cytopath
+
+Main message
+Hi Emma,
+
+I spent time on Cytopath’s six diagnostic disciplines, the detailed sampling advice and the downloadable general and ophthalmic submission forms. The technical depth is excellent, but a new veterinary practice currently has to assemble the journey across test pages, forms, supplies, courier guidance and contact information.
+
+I built a personalised concept focused on practice onboarding and sample logistics—not patient data:
+
+https://ruan-vv.github.io/mda-prospect-demos/prospects/cytopath-veterinary/
+
+MDA Growth Systems could develop this into a privacy-conscious portal journey with structured practice enquiries, secure document workflows, CRM organisation, automated status communication, SEO, hosting and support while preserving direct access to your pathologists.
+
+Would a 10–15 minute walkthrough be useful?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com

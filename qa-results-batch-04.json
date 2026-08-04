@@ -1,0 +1,14 @@
+{
+  "batch": "04",
+  "tested_at": "2026-08-04",
+  "viewports": ["desktop", "390px mobile"],
+  "checks": ["required files", "correct business identity", "no cross-prospect content", "no placeholders", "SEO title and meta description", "Netlify form markup", "GitHub Pages demo-form intercept", "concept disclaimer", "no horizontal overflow", "accessible labels", "images and alt text", "anchors", "mobile menu", "thank-you page", "console and page errors"],
+  "results": [
+    {"slug":"independent-pest-control","pass":true,"desktop":"PASS","mobile":"PASS","errors":[]},
+    {"slug":"contact-power-cornwall","pass":true,"desktop":"PASS","mobile":"PASS","errors":[]},
+    {"slug":"kd-doors","pass":true,"desktop":"PASS","mobile":"PASS","errors":[]},
+    {"slug":"pro-laundry-catering","pass":true,"desktop":"PASS","mobile":"PASS","errors":[]},
+    {"slug":"cytopath-veterinary","pass":true,"desktop":"PASS","mobile":"PASS","errors":[]},
+    {"slug":"alpha-pumping-solutions","pass":true,"desktop":"PASS","mobile":"PASS","errors":[]}
+  ]
+}

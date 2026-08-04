@@ -1,0 +1,20 @@
+Business: Cytopath Veterinary Pathology
+Official website: https://www.cytopath.co.uk/
+Public email: admin@cytopath.co.uk
+Public phone: 01531 630063
+Location / coverage: Ledbury, Herefordshire; UK and international service
+Verified contact: Emma Scurrell (director and veterinary pathologist)
+Commercial capability assessment: Strong (reasoned assessment, not proven finances)
+Prospect score: 94/100
+Duplicate check: No Gmail or GitHub match found before selection on 2026-08-04.
+
+Observed opportunity:
+The site provides deep technical guidance and downloadable submission forms, but the journey is document-led. A practice must navigate several pages to choose a discipline, find sampling advice, obtain forms, arrange supplies or courier support and understand reporting. There is no visible unified practice-onboarding or logistics workflow.
+
+Recommended MDA system:
+A privacy-conscious veterinary-practice portal journey with onboarding, test/service guidance, courier and supply requests, secure document workflows, CRM organisation and automated status communications. The public demo deliberately avoids collecting patient data.
+
+Source summary:
+- Official website and contact/service pages reviewed on 2026-08-04.
+- Companies House or official company information used where a registered company/contact person was available.
+- No unverified awards, customer logos, prices, testimonials or statistics were added to the demo.

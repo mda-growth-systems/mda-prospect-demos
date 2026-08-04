@@ -1,0 +1,20 @@
+Recipient email
+service@prolaundrycatering.co.uk
+
+Subject
+Re: A better equipment-and-service enquiry system for Pro Laundry
+
+Main message
+Hi David and Caroline,
+
+Just following up on the personalised equipment concept:
+
+https://ruan-vv.github.io/mda-prospect-demos/prospects/pro-laundry-catering/
+
+The main idea is to stop a new-installation, lease-purchase, breakdown and annual-service request entering the same generic path. Each can arrive with capacity, utilities, site access and timing already organised for the correct CRM pipeline.
+
+Would you like a brief walkthrough?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com

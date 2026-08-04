@@ -1,0 +1,20 @@
+Business: Alpha Pumping Solutions
+Official website: https://alphapumpingsolutions.co.uk/
+Public email: admin@alphapumpingsolutions.co.uk
+Public phone: 07946 200259
+Location / coverage: Essex, London and the South East
+Verified contact: Edward O'Donoghue and Liam O'Donoghue (directors)
+Commercial capability assessment: Strong (reasoned assessment, not proven finances)
+Prospect score: 95/100
+Duplicate check: No Gmail or GitHub match found before selection on 2026-08-04.
+
+Observed opportunity:
+The current website has strong service and project material, but visible template remnants—including generic construction wording, inconsistent system/client statistics and placeholder testimonial text—undermine trust. The contact form also does not visibly classify system type, outage impact, alarm status, BMS connection, access or maintenance history.
+
+Recommended MDA system:
+A technical pump-support website with urgent/planned routing, system qualification, photo and document upload, CRM assignment, missed-enquiry follow-up, planned-maintenance reminders and service-area SEO.
+
+Source summary:
+- Official website and contact/service pages reviewed on 2026-08-04.
+- Companies House or official company information used where a registered company/contact person was available.
+- No unverified awards, customer logos, prices, testimonials or statistics were added to the demo.

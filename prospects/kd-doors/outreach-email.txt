@@ -1,0 +1,22 @@
+Recipient email
+contact@kddoors.co.uk
+
+Subject
+A fault-to-engineer website system for KD Doors
+
+Main message
+Hi KD Doors team,
+
+I read through the breadth of the operation—from roller shutters and sectional doors to automatic entrances, gates, dock equipment and 24/7 breakdowns across the UK. Your existing form identifies the service, but an engineer could receive the asset condition and operational risk before the first callback.
+
+I built a personalised concept that asks whether the entrance is stuck open or closed, whether the site is unsecured or blocked, the door type, quantity, access window and maintenance status:
+
+https://ruan-vv.github.io/mda-prospect-demos/prospects/kd-doors/
+
+MDA Growth Systems can connect this to urgent CRM routing, automated acknowledgements, engineer assignment, maintenance-renewal reminders, service-area SEO, hosting and support.
+
+Would a 10–15 minute walkthrough be useful?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com

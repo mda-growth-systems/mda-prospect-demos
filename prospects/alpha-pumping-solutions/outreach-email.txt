@@ -1,0 +1,22 @@
+Recipient email
+admin@alphapumpingsolutions.co.uk
+
+Subject
+A technical fault-intake system for Alpha Pumping
+
+Main message
+Hi Alpha Pumping team,
+
+I reviewed the project material around booster sets, foul-water stations, HVAC circulation and planned maintenance across London and the South East. The technical capability is clear, but the current website still shows some inherited template wording and placeholder testimonial content, while the first form does not capture the system or outage context an engineer needs.
+
+I created a personalised concept that qualifies system type, fault status, operational impact, BMS/control details, access and service history:
+
+https://ruan-vv.github.io/mda-prospect-demos/prospects/alpha-pumping-solutions/
+
+MDA Growth Systems can connect this to urgent CRM routing, missed-enquiry follow-up, maintenance reminders, service-area SEO, hosting and ongoing technical support.
+
+Would a 10–15 minute walkthrough be useful?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com

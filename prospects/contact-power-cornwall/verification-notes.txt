@@ -1,0 +1,20 @@
+Business: Contact Power
+Official website: https://contact-power.co.uk/
+Public email: info@contactelec.co.uk
+Public phone: 01326 722339
+Location / coverage: Helston, Cornwall and the South West
+Verified contact: No public operational contact verified
+Commercial capability assessment: Strong (reasoned assessment, not proven finances)
+Prospect score: 91/100
+Duplicate check: No Gmail or GitHub match found before selection on 2026-08-04.
+
+Observed opportunity:
+The site shows hire, event power, emergency support, long-term rental, servicing, fuelling, cabling and loadbanking, but the enquiry journey does not visibly collect kVA/load, phase, event or outage dates, run time, fuel strategy, distribution requirements or delivery access. Some page copy also contains unfinished or inconsistent wording.
+
+Recommended MDA system:
+A temporary-power specification builder connected to a response CRM, with emergency prioritisation, quote automation, availability follow-up, service reminders and South West SEO pages.
+
+Source summary:
+- Official website and contact/service pages reviewed on 2026-08-04.
+- Companies House or official company information used where a registered company/contact person was available.
+- No unverified awards, customer logos, prices, testimonials or statistics were added to the demo.

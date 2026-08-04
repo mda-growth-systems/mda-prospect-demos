@@ -1,0 +1,25 @@
+MDA GROWTH SYSTEMS — BATCH 06 DEPLOYMENT AND APPROVAL STEPS
+
+Current status
+- Code is merged into mda-growth-systems/mda-prospect-demos through PR #6.
+- A gh-pages branch was created at the merged commit.
+- No public Pages deployment could be verified with the available integrations.
+- No Gmail first-contact drafts were created and no email was sent.
+
+Manual GitHub Pages route
+1. Open the repository mda-growth-systems/mda-prospect-demos.
+2. Open Settings → Pages.
+3. Under Build and deployment, choose Deploy from a branch.
+4. Select branch gh-pages and folder /(root), then save.
+5. Confirm the Pages build completes successfully.
+6. Open the Batch 06 index while signed out.
+7. Open all ten prospect paths while signed out and check SSL, desktop, mobile, menu, links, signature interaction and thank-you page.
+8. Record each exact working public URL in outreach-email.txt and follow-up-email.txt, replacing the PUBLIC DEMO URL placeholder.
+9. Re-test https://mdagrowthsystems.com and the exact prospect URL from the final email text.
+10. Only after both links pass should the ten Gmail first-contact drafts be created.
+
+Preferred production route
+Map the demos to a verified branded host such as demos.mdagrowthsystems.com, with DNS and SSL verified, instead of relying on a developer-looking Pages URL.
+
+Follow-ups
+After an approved first email is actually sent, wait five business days and create the follow-up as a genuine reply draft in the original Gmail thread. Do not create a standalone message with a misleading Re: subject.

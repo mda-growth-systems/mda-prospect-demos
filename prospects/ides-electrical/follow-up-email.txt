@@ -1,0 +1,19 @@
+Recipient email
+enquiry@idesuk.com
+
+Subject
+Re: A structured project-intake system for IDES
+
+Main message
+Hi Garth,
+
+A quick follow-up on the IDES project-intake concept:
+https://ruan-vv.github.io/mda-prospect-demos/prospects/ides-electrical/
+
+One useful detail is the project-stage field. It separates early feasibility, live tenders and ready-to-start work, allowing the CRM to score and follow up each opportunity differently.
+
+Would you be open to a short walkthrough?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com

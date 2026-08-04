@@ -1,0 +1,20 @@
+Recipient email
+contact@kddoors.co.uk
+
+Subject
+Re: A fault-to-engineer website system for KD Doors
+
+Main message
+Hi KD Doors team,
+
+A quick follow-up on the industrial-door concept:
+
+https://ruan-vv.github.io/mda-prospect-demos/prospects/kd-doors/
+
+The key improvement is the operating-status route—stuck open, stuck closed, unsecured or loading-bay blocked—so urgent work can be prioritised before an engineer calls, while planned servicing and installations enter separate CRM pipelines.
+
+Would a brief walkthrough help?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com

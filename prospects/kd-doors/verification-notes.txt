@@ -1,0 +1,20 @@
+Business: KD Doors Ltd
+Official website: https://www.kddoors.co.uk/
+Public email: contact@kddoors.co.uk
+Public phone: 01698 744010
+Location / coverage: Bellshill, Scotland; UK-wide service
+Verified contact: Terence Mitchell (director)
+Commercial capability assessment: Strong (reasoned assessment, not proven finances)
+Prospect score: 94/100
+Duplicate check: No Gmail or GitHub match found before selection on 2026-08-04.
+
+Observed opportunity:
+The current form captures a service category and general information, but it does not visibly ask whether the door is stuck open or closed, whether the site can trade securely, the asset quantity, opening dimensions, loading-bay impact, access window or maintenance-contract status.
+
+Recommended MDA system:
+An urgent-versus-planned door workflow with asset-level qualification, photo upload, CRM routing, engineer acknowledgements, maintenance renewal reminders and service-area SEO.
+
+Source summary:
+- Official website and contact/service pages reviewed on 2026-08-04.
+- Companies House or official company information used where a registered company/contact person was available.
+- No unverified awards, customer logos, prices, testimonials or statistics were added to the demo.

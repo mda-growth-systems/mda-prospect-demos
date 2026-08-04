@@ -4,15 +4,17 @@ on:
   push:
     branches:
       - main
+    paths-ignore:
+      - pages-verification-batch-06.txt
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
 concurrency:
-  group: pages
+  group: pages-${{ github.repository }}
   cancel-in-progress: true
 
 jobs:
@@ -32,7 +34,50 @@ jobs:
         uses: actions/upload-pages-artifact@v4
         with:
           path: .
+          name: github-pages-${{ github.run_id }}-${{ github.run_attempt }}
 
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+        with:
+          artifact_name: github-pages-${{ github.run_id }}-${{ github.run_attempt }}
+
+      - name: Verify Batch 06 public pages
+        shell: bash
+        run: |
+          set -euo pipefail
+          base="${{ steps.deployment.outputs.page_url }}"
+          paths=(
+            prospects/access-door-services/
+            prospects/auto-extract-systems/
+            prospects/bw-fabrications/
+            prospects/eps-events/
+            prospects/konfloor/
+            prospects/lev-testing/
+            prospects/nationwide-roofing-cladding/
+            prospects/pump-services-surrey/
+            prospects/spe-limited/
+            prospects/water-drop/
+          )
+          sleep 15
+          {
+            echo "Batch 06 GitHub Pages verification"
+            echo "Deployment: $base"
+            echo "Commit: $GITHUB_SHA"
+            echo "Verified UTC: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            echo
+          } > pages-verification-batch-06.txt
+          for path in "${paths[@]}"; do
+            url="${base%/}/$path"
+            curl --fail --silent --show-error --location --retry 8 --retry-delay 5 --retry-all-errors "$url" >/dev/null
+            echo "PASS $url" >> pages-verification-batch-06.txt
+          done
+
+      - name: Save verification record
+        shell: bash
+        run: |
+          git config user.name "mda-growth-systems"
+          git config user.email "michael@mdagrowthsystems.info"
+          git add pages-verification-batch-06.txt
+          git commit -m "Verify Batch 06 public pages" || exit 0
+          git push

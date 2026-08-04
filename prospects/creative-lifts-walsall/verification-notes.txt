@@ -1,0 +1,33 @@
+BUSINESS VERIFICATION NOTES
+
+Business: Creative Lifts
+Legal entity: Creative Lifts Ltd
+Website: https://creativelifts.co.uk/
+Email: admin@creativelifts.co.uk
+Phone: 0330 133 1832
+Location: Walsall, West Midlands
+Contact: Anthony Clarke (Companies House director)
+Commercial capability assessment: Strong (reasoned assessment, not proven financial data)
+Prospect score: 90/100
+Previous MDA contact found: No, after Gmail and GitHub checks on 4 August 2026.
+
+VERIFIED FACTS
+- Official site states more than 20 years in the lift industry and engineers available 24/7.
+- Public phone: 0330 133 1832. Public email: admin@creativelifts.co.uk.
+- Companies House company 11185167 is active; Anthony Clarke is an active director.
+
+OBSERVED OPPORTUNITY
+The official website communicates 24-hour support, broad lift expertise and four maintenance packages, but enquiries are still directed through a general contact path without lift type, operational status, site access or contract information.
+
+RECOMMENDED MDA SYSTEM
+A lift-specific response desk that classifies breakdowns, repairs and maintenance opportunities, records equipment and site details, and triggers CRM acknowledgements and maintenance-renewal follow-up.
+
+SOURCES
+- https://creativelifts.co.uk/
+- https://find-and-update.company-information.service.gov.uk/company/11185167
+- https://find-and-update.company-information.service.gov.uk/officers/ORf_sFNBK8-32cIV6f7OA84yyRE/appointments
+
+LIMITATIONS
+- Public sources can change after the research date.
+- No financial claim is made.
+- The demo uses custom original vector artwork rather than copying protected website photography.

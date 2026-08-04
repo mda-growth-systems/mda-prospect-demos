@@ -1,0 +1,21 @@
+Recipient email
+enquiries@tjplanthire.co.uk
+
+Subject
+A faster equipment brief for T.J. Plant
+
+Main message
+Hi T.J. Plant team,
+
+I looked through the range on your website—from compact plant and access equipment to generators, concrete tools, landscaping machinery and delivery/collection. With that much stock, a customer often needs help turning “I need a machine for this job” into a complete hire request.
+
+I built an unofficial concept showing an equipment-and-dates job builder:
+https://ruan-vv.github.io/mda-prospect-demos/prospects/tj-plant-hire/
+
+MDA Growth Systems could develop the live catalogue, connect requests to a CRM, automate quote follow-up, route delivery requirements and build local SEO pages around the Guildford and Surrey hire market, with hosting and support included.
+
+Would a 10–15-minute walkthrough be useful?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com

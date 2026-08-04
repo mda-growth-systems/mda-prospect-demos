@@ -11,7 +11,7 @@ I reviewed your installation, repair, servicing and planned-maintenance work for
 
 I prepared an unofficial concept that separates critical breakdowns from planned projects and sends a structured engineer brief into a CRM, with automated acknowledgement and maintenance follow-up.
 
-Demo: [NETLIFY URL TO BE ADDED AFTER DEPLOYMENT]
+Demo: https://ruan-vv.github.io/mda-prospect-demos/prospects/refrigeration-uk/
 
 Would a 10–15 minute walkthrough be useful?
 

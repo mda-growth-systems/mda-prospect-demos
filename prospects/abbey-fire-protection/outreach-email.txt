@@ -11,7 +11,7 @@ I reviewed your extinguisher maintenance, testing, refilling, equipment supply a
 
 I prepared an unofficial concept that turns the website into a service-intake system and could connect to a CRM for annual reminders and follow-up.
 
-Demo: [NETLIFY URL TO BE ADDED AFTER DEPLOYMENT]
+Demo: https://ruan-vv.github.io/mda-prospect-demos/prospects/abbey-fire-protection/
 
 Would a 10–15 minute walkthrough be useful?
 

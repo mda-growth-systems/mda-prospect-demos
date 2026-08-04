@@ -11,7 +11,7 @@ I reviewed your industrial roofing and cladding coverage across Southern England
 
 I prepared an unofficial concept that turns the website into a survey-ready intake and could route urgent repairs, inspections and planned projects into separate CRM pipelines.
 
-Demo: [NETLIFY URL TO BE ADDED AFTER DEPLOYMENT]
+Demo: https://ruan-vv.github.io/mda-prospect-demos/prospects/aj-industrial-roofing/
 
 Would a 10–15 minute walkthrough be useful?
 

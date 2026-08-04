@@ -11,7 +11,7 @@ I reviewed your commercial and industrial electrical offer, including HV systems
 
 I prepared an unofficial concept that captures project stage, voltage, live-site constraints, shutdown requirements and target dates before the first technical call. It could route each lead into a CRM and automate tender follow-up.
 
-Demo: [NETLIFY URL TO BE ADDED AFTER DEPLOYMENT]
+Demo: https://ruan-vv.github.io/mda-prospect-demos/prospects/mph-elec-services/
 
 Would a 10–15 minute walkthrough be useful?
 

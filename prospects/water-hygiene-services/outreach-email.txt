@@ -11,7 +11,7 @@ I reviewed your monitoring/PPM, Legionella risk assessment, sampling, cleaning, 
 
 I prepared an unofficial concept that captures those details upfront and could connect to a CRM for programme routing, document tracking and recurring reminders.
 
-Demo: [NETLIFY URL TO BE ADDED AFTER DEPLOYMENT]
+Demo: https://ruan-vv.github.io/mda-prospect-demos/prospects/water-hygiene-services/
 
 Would a 10–15 minute walkthrough be useful?
 

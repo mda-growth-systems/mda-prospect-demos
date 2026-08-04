@@ -7,7 +7,7 @@ Re: A better breakdown brief for Refrigeration U.K Ltd
 Main message
 Hi Refrigeration U.K team,
 
-A quick follow-up on the cooling-system concept: [NETLIFY URL TO BE ADDED AFTER DEPLOYMENT]
+A quick follow-up on the cooling-system concept: https://ruan-vv.github.io/mda-prospect-demos/prospects/refrigeration-uk/
 
 The key idea is asking whether stock or operations are at risk, so genuinely critical breakdowns can be separated from routine maintenance before the first call-back.
 

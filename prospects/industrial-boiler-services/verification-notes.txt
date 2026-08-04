@@ -1,0 +1,13 @@
+Verification notes — Industrial Boiler Services (UK) Ltd
+Date researched: 2026-08-04
+Official website: https://www.industrialboilerservices.com/
+Public email: info@industrialboilerservices.com
+Public phone: 01284 386878
+Company number: 08585002
+Verified contact: Graham Oxley (Companies House director)
+Operating evidence: live official website plus active Companies House record.
+Commercial capability assessment: Strong — specialist B2B services, technical projects, recurring maintenance/compliance or capital equipment, and multi-region or UK-wide work. This is an observable commercial assessment, not a claim about finances.
+Observed opportunity: The current site has strong service depth and a category-led form, but the visible enquiry journey does not clearly capture plant type, fuel, output/pressure, current operating status, process criticality, temporary-hire dates or access/shutdown constraints before routing the enquiry.
+Recommended MDA system: A plant-critical intake system with reactive/planned/hire routing, asset and outage qualification, CRM engineer assignment, automated acknowledgements, maintenance-plan reminders and regional service pages.
+Duplicate check: no match found in connected Gmail or Ruan-vv/mda-prospect-demos before selection.
+Fact control: no invented testimonials, awards, customer logos, prices or project statistics are used.

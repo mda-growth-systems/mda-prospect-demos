@@ -1,0 +1,49 @@
+name: Verify Batch 05 public pages
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'batch-05.html'
+      - 'prospects/ventilation-hygiene-specialists/**'
+      - 'prospects/compressor-maintenance-systems/**'
+      - 'prospects/medical-gas-pipelines/**'
+      - 'prospects/niveus-data-cabling/**'
+      - 'prospects/industrial-boiler-services/**'
+      - 'prospects/dust-systems/**'
+permissions:
+  contents: write
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Wait for GitHub Pages and verify
+        shell: bash
+        run: |
+          set -euo pipefail
+          urls=(
+            'https://ruan-vv.github.io/mda-prospect-demos/batch-05.html'
+            'https://ruan-vv.github.io/mda-prospect-demos/prospects/ventilation-hygiene-specialists/'
+            'https://ruan-vv.github.io/mda-prospect-demos/prospects/compressor-maintenance-systems/'
+            'https://ruan-vv.github.io/mda-prospect-demos/prospects/medical-gas-pipelines/'
+            'https://ruan-vv.github.io/mda-prospect-demos/prospects/niveus-data-cabling/'
+            'https://ruan-vv.github.io/mda-prospect-demos/prospects/industrial-boiler-services/'
+            'https://ruan-vv.github.io/mda-prospect-demos/prospects/dust-systems/'
+          )
+          printf 'Batch 05 GitHub Pages verification\nVerified in UTC: %s\n\n' "$(date -u +'%Y-%m-%dT%H:%M:%SZ')" > pages-verification-batch-05.txt
+          for url in "${urls[@]}"; do
+            passed=false
+            for attempt in {1..18}; do
+              if curl --fail --silent --show-error --location --max-time 20 "$url" >/dev/null; then passed=true; break; fi
+              sleep 10
+            done
+            if [ "$passed" != true ]; then echo "FAIL $url" >> pages-verification-batch-05.txt; exit 1; fi
+            echo "PASS $url" >> pages-verification-batch-05.txt
+          done
+      - name: Commit verification record
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add pages-verification-batch-05.txt
+          git commit -m 'Verify Batch 05 public GitHub Pages websites'
+          git push

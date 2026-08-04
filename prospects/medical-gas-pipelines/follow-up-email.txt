@@ -1,0 +1,19 @@
+Recipient email
+info@medicalgaspipelines.com
+
+Subject
+Re: A clearer medical-gas project intake for MGP
+
+Main message
+Hi Simon,
+
+A quick follow-up on the MGP concept:
+https://ruan-vv.github.io/mda-prospect-demos/prospects/medical-gas-pipelines/
+
+The continuity/shutdown question could be especially useful. It allows a live healthcare environment to be identified before the first call, while drawings and project-stage information can be requested through a safer controlled workflow rather than a generic public message box.
+
+Would you be open to a brief walkthrough?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com

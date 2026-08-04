@@ -1,0 +1,21 @@
+Recipient email
+info@medicalgaspipelines.com
+
+Subject
+A clearer medical-gas project intake for MGP
+
+Main message
+Hi Simon,
+
+I reviewed how Medical Gas Pipelines supports hospitals, laboratories, dental practices and veterinary facilities across design, installation, maintenance, quality control and 24/7 response. The technical offer is substantial, but the current site contains repeated placeholder sections and generic forms that do not reflect the complexity of the work.
+
+I built a personalised website and enquiry-system concept to show a clearer route:
+https://ruan-vv.github.io/mda-prospect-demos/prospects/medical-gas-pipelines/
+
+The concept separates planned projects from live faults and asks for facility type, gas services, project stage, continuity constraints and available drawings. MDA could turn that into a controlled project pipeline with document requests, automatic acknowledgements, stage-based follow-up and maintenance reminders—while keeping sensitive clinical or patient information out of the public form.
+
+Would a 10–15 minute walkthrough be useful?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com

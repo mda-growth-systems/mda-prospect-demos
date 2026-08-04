@@ -1,0 +1,21 @@
+Recipient email
+enquiries@niveusltd.com
+
+Subject
+A survey-ready fibre and cabling brief for Niveus
+
+Main message
+Hi Jonathan,
+
+I looked through Niveus’s copper and fibre installation, testing, repair and upgrade offer, including the way you work alongside contractors, estate managers and IT teams. The capability is clear, but the current contact form does not collect the quantities, building status or programme information needed to prepare a useful survey.
+
+I built a personalised website and enquiry-system concept to show a clearer route:
+https://ruan-vv.github.io/mda-prospect-demos/prospects/niveus-data-cabling/
+
+The concept captures project type, site count, outlet or fibre-link quantity, live-site status, completion date and available drawings. MDA could route that into a project CRM, keep tender and survey stages visible, automate follow-up on outstanding plans, and create structured handover records for testing and certification. Focused sector and service-area pages could also generate more relevant contractor and estate enquiries.
+
+Would a 10–15 minute walkthrough be useful?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com

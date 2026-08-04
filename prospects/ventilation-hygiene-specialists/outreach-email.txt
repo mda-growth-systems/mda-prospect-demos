@@ -1,0 +1,21 @@
+Recipient email
+info@vhs.uk.com
+
+Subject
+A compliance-ready site brief for VHS
+
+Main message
+Hi Martin,
+
+I reviewed VHS’s combination of kitchen extract cleaning, air-duct hygiene, AHU refurbishment, fire-damper testing and LEV examination. That is a much broader compliance offer than a normal cleaning contractor, but the current email-led journey does not collect the technical details needed to scope the first visit.
+
+I built a personalised website and enquiry-system concept to show a clearer route:
+https://ruan-vv.github.io/mda-prospect-demos/prospects/ventilation-hygiene-specialists/
+
+The concept asks for site type, system scale, last clean or test, access restrictions and the reporting deadline. MDA could then route each request into a compliance CRM, automatically acknowledge it, request missing documents and remind clients when fire-damper, LEV or extract-cleaning work is due again. Sector and location pages could also strengthen search visibility without turning the site into a generic cleaning website.
+
+Would a 10–15 minute walkthrough be useful?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com

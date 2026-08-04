@@ -1,0 +1,21 @@
+Recipient email
+info@dustsystems.co.uk
+
+Subject
+A factory-ready dust extraction project brief
+
+Main message
+Hi Manus,
+
+I reviewed Dust Systems’ unusually broad mix of extraction, biomass, chipping, briquetting, kiln drying, spray booths and spark suppression. Those are engineered capital projects, yet the current contact journey is still a general message form and the consultation page is presented as a deposit appointment.
+
+I built a personalised website and enquiry-system concept to show a clearer route:
+https://ruan-vv.github.io/mda-prospect-demos/prospects/dust-systems/
+
+The concept captures the manufacturing process, material, machine count, new-system versus upgrade status, and ATEX or spark-risk constraints before a survey. MDA could connect this to a staged engineering CRM for survey, design, proposal and follow-up; request drawings automatically; and build dedicated search pages around extraction, biomass and spark-control applications. Ongoing service reminders could sit in the same client record after installation.
+
+Would a 10–15 minute walkthrough be useful?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com

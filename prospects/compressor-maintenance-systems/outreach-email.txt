@@ -1,0 +1,21 @@
+Recipient email
+enquiries@cms-ltd.org
+
+Subject
+An engineer-ready compressor enquiry system for CMS
+
+Main message
+Hi Adam,
+
+I spent time on CMS’s mix of compressor sales, servicing, pipework, air treatment, condensate management and refurbished machinery. The range is strong, but a production-stopping fault and a planned new system currently enter through essentially the same basic message form.
+
+I built a personalised website and enquiry-system concept to show a clearer route:
+https://ruan-vv.github.io/mda-prospect-demos/prospects/compressor-maintenance-systems/
+
+The concept separates breakdowns, servicing, new systems, pipework, air quality and parts, then captures make/model, pressure and whether production is affected. MDA could connect that brief to an asset-aware CRM, prioritise downtime automatically, track quotations and service history, and trigger maintenance reminders or parts follow-up for the right equipment. Search pages could also target compressor servicing and emergency support by region.
+
+Would a 10–15 minute walkthrough be useful?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com

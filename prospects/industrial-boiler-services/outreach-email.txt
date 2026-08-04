@@ -1,0 +1,21 @@
+Recipient email
+info@industrialboilerservices.com
+
+Subject
+A plant-critical enquiry route for Industrial Boiler Services
+
+Main message
+Hi Graham,
+
+I reviewed the breadth of Industrial Boiler Services’ offer—from temporary hire and full plantrooms to operational cover, reactive maintenance, safety inspections and steam or hot-water servicing. The site explains the services well, but the first enquiry could arrive with much more information about the plant and the operational impact.
+
+I built a personalised website and enquiry-system concept to show a clearer route:
+https://ruan-vv.github.io/mda-prospect-demos/prospects/industrial-boiler-services/
+
+The concept asks for plant type, fuel, output or pressure, operating status, the process affected and the required response date. MDA could use those answers to prioritise a shutdown, route temporary-hire enquiries separately, assign the right follow-up in a CRM and remind customers about planned servicing or statutory inspection dates. Regional landing pages could support high-intent boiler-hire and emergency searches.
+
+Would a 10–15 minute walkthrough be useful?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com

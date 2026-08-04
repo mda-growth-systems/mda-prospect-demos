@@ -1,0 +1,21 @@
+Recipient email
+admin@creativelifts.co.uk
+
+Subject
+A lift enquiry route organised around downtime
+
+Main message
+Hi Anthony,
+
+I reviewed Creative Lifts’ 24-hour call-out offer, repair capability and the four maintenance-package levels. That range gives clients useful choice, but the website could qualify the first request by lift type, operating status, number of stops, access window and whether a maintenance agreement already exists.
+
+I prepared an unofficial concept around that workflow:
+https://ruan-vv.github.io/mda-prospect-demos/prospects/creative-lifts-walsall/
+
+MDA Growth Systems could build the live site, connect every enquiry to a CRM, route lift-down cases separately, automate acknowledgements and maintenance-renewal reminders, and manage hosting, SEO and support.
+
+Would a 10–15-minute walkthrough be useful?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com

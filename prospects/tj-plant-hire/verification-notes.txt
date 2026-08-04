@@ -1,0 +1,33 @@
+BUSINESS VERIFICATION NOTES
+
+Business: T.J. Plant & Tool Hire
+Legal entity: T.J. Plant Limited
+Website: https://www.tjplanthire.co.uk/
+Email: enquiries@tjplanthire.co.uk
+Phone: 01483 573174
+Location: Guildford, Surrey
+Contact: No public operational contact person verified
+Commercial capability assessment: Strong (reasoned assessment, not proven financial data)
+Prospect score: 92/100
+Previous MDA contact found: No, after Gmail and GitHub checks on 4 August 2026.
+
+VERIFIED FACTS
+- Official site states more than 25 years in tool hire, a broad equipment range and delivery/collection service.
+- Public phone: 01483 573174. Public email: enquiries@tjplanthire.co.uk.
+- Companies House company 04035675 has 2025 accounts and confirmation filings and is shown active in public records.
+
+OBSERVED OPPORTUNITY
+The official site confirms more than 25 years of experience and an extensive range, but the visual presentation is dated and the general enquiry does not collect equipment, quantity, dates, delivery postcode or site conditions.
+
+RECOMMENDED MDA SYSTEM
+A searchable hire catalogue with a job-builder form, availability routing, quote tracking, delivery details, automated follow-up and local service-area SEO.
+
+SOURCES
+- https://www.tjplanthire.co.uk/
+- https://www.tjplanthire.co.uk/contact-us.html
+- https://find-and-update.company-information.service.gov.uk/company/04035675/filing-history
+
+LIMITATIONS
+- Public sources can change after the research date.
+- No financial claim is made.
+- The demo uses custom original vector artwork rather than copying protected website photography.

@@ -1,0 +1,21 @@
+Recipient email
+mgdrains@blockage.co.uk
+
+Subject
+A faster emergency-to-engineer route for MG Drainage
+
+Main message
+Hi Rebecca,
+
+I looked through MG Drainage’s unusually broad service range—blocked pipes, CCTV surveys, jetting, tankering, lining, excavations, flood cleaning and preventative maintenance for domestic through industrial clients. The opportunity is to stop urgent incidents and planned commercial work entering through the same general journey.
+
+I built an unofficial concept with an emergency/planned split:
+https://ruan-vv.github.io/mda-prospect-demos/prospects/mg-drainage/
+
+MDA Growth Systems could make it live, connect enquiries to a CRM, trigger rapid missed-enquiry follow-up, schedule maintenance reminders and build local service pages for stronger search visibility, with hosting and support included.
+
+Would a 10–15-minute walkthrough be useful?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com

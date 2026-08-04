@@ -1,0 +1,33 @@
+BUSINESS VERIFICATION NOTES
+
+Business: MG Drainage
+Legal entity: MG Drainage Limited
+Website: https://www.blockage.co.uk/
+Email: mgdrains@blockage.co.uk
+Phone: 01442 211967
+Location: Hemel Hempstead · Domestic, commercial and industrial clients
+Contact: Rebecca Grant (Companies House director and PSC)
+Commercial capability assessment: Strong (reasoned assessment, not proven financial data)
+Prospect score: 93/100
+Previous MDA contact found: No, after Gmail and GitHub checks on 4 August 2026.
+
+VERIFIED FACTS
+- Official site states the business was established in 2000 and serves domestic, residential, commercial and industrial clients.
+- Public phone: 01442 211967. Public email: mgdrains@blockage.co.uk.
+- Companies House company 03929972 is active; Rebecca Grant is an active director and PSC.
+
+OBSERVED OPPORTUNITY
+The official site shows a very broad drainage and environmental service range, but its design and news content are dated and the enquiry journey does not visibly separate emergencies from surveys, projects and maintenance contracts.
+
+RECOMMENDED MDA SYSTEM
+A mobile emergency/planned-work split with photo uploads, site and access details, commercial maintenance scheduling, CRM routing, rapid missed-enquiry follow-up and local SEO pages.
+
+SOURCES
+- https://www.blockage.co.uk/
+- https://find-and-update.company-information.service.gov.uk/company/03929972
+- https://find-and-update.company-information.service.gov.uk/company/03929972/officers
+
+LIMITATIONS
+- Public sources can change after the research date.
+- No financial claim is made.
+- The demo uses custom original vector artwork rather than copying protected website photography.

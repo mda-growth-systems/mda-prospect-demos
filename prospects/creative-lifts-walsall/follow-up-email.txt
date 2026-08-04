@@ -1,0 +1,19 @@
+Recipient email
+admin@creativelifts.co.uk
+
+Subject
+Re: A lift enquiry route organised around downtime
+
+Main message
+Hi Anthony,
+
+Just following up on the Creative Lifts concept:
+https://ruan-vv.github.io/mda-prospect-demos/prospects/creative-lifts-walsall/
+
+The operating-status question is the key detail: it lets an out-of-service lift enter an urgent response path while routine maintenance requests stay organised separately in the CRM.
+
+Would you like a quick walkthrough?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com

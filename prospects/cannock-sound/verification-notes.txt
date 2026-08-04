@@ -1,0 +1,33 @@
+BUSINESS VERIFICATION NOTES
+
+Business: Cannock Sound
+Legal entity: Cannock Sound Hire Ltd
+Website: https://www.cannocksound.co.uk/
+Email: info@cannocksound.co.uk
+Phone: 01543 503535
+Location: Staffordshire · UK-wide events
+Contact: Alan Dawkins (Companies House director)
+Commercial capability assessment: Strong (reasoned assessment, not proven financial data)
+Prospect score: 91/100
+Previous MDA contact found: No, after Gmail and GitHub checks on 4 August 2026.
+
+VERIFIED FACTS
+- Official site lists audio, lighting, staging, touring, theatre, corporate, installation and live-streaming services.
+- Public phone: 01543 503535. Public email: info@cannocksound.co.uk.
+- Companies House company 11850882 is active; Alan Dawkins is the active director.
+
+OBSERVED OPPORTUNITY
+The official site shows a large service and equipment range, but the main form is generic. It does not visibly qualify audience size, venue, event date, production scope, power, rigging, streaming or budget stage.
+
+RECOMMENDED MDA SYSTEM
+An event-specification builder connected to a production CRM, with service routing, automated brief acknowledgements, quotation follow-up, project pipelines and SEO landing pages for corporate, festival and touring work.
+
+SOURCES
+- https://www.cannocksound.co.uk/
+- https://find-and-update.company-information.service.gov.uk/company/11850882
+- https://find-and-update.company-information.service.gov.uk/company/11850882/officers
+
+LIMITATIONS
+- Public sources can change after the research date.
+- No financial claim is made.
+- The demo uses custom original vector artwork rather than copying protected website photography.

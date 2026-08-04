@@ -1,0 +1,53 @@
+name: Update public demo links
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - .github/workflows/update-public-links.yml
+
+permissions:
+  contents: write
+
+jobs:
+  update-links:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out main
+        uses: actions/checkout@v6
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Insert GitHub Pages links
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          urls = {
+              'cc-door-systems': 'https://ruan-vv.github.io/mda-prospect-demos/prospects/cc-door-systems/',
+              'abbey-fire-protection': 'https://ruan-vv.github.io/mda-prospect-demos/prospects/abbey-fire-protection/',
+              'refrigeration-uk': 'https://ruan-vv.github.io/mda-prospect-demos/prospects/refrigeration-uk/',
+              'water-hygiene-services': 'https://ruan-vv.github.io/mda-prospect-demos/prospects/water-hygiene-services/',
+              'mph-elec-services': 'https://ruan-vv.github.io/mda-prospect-demos/prospects/mph-elec-services/',
+              'aj-industrial-roofing': 'https://ruan-vv.github.io/mda-prospect-demos/prospects/aj-industrial-roofing/',
+          }
+          placeholder = '[NETLIFY URL TO BE ADDED AFTER DEPLOYMENT]'
+          for slug, url in urls.items():
+              for filename in ('outreach-email.txt', 'follow-up-email.txt'):
+                  path = Path('prospects') / slug / filename
+                  text = path.read_text(encoding='utf-8')
+                  path.write_text(text.replace(placeholder, url), encoding='utf-8')
+          PY
+          rm .github/workflows/update-public-links.yml
+
+      - name: Commit public links
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add prospects .github/workflows/update-public-links.yml
+          git commit -m "Add public GitHub Pages links to outreach emails"
+          git push origin main

@@ -1,0 +1,1 @@
+Directions considered: kitchen-line blueprint; fabrication workshop board; extraction capacity calculator. Selected: kitchen-line blueprint to capture canopy dimensions, appliance line, extract route and site constraints.

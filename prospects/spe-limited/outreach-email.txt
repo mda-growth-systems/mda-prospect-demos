@@ -1,0 +1,19 @@
+Recipient: info@spe.ltd.uk
+Subject: A clearer pump-station fault brief
+
+Hi SPE team,
+
+Your site covers sewage pumps, pumping stations, treatment plants and wider off-mains drainage maintenance. When something fails, the first useful details are the asset, alarm state, wastewater level, site access and operational impact.
+
+I built an unofficial fault-triage concept around that brief:
+https://ruan-vv.github.io/mda-prospect-demos/prospects/spe-limited/
+
+Would this help your team assess urgent calls more quickly?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Status: do not send until public link QA passes.

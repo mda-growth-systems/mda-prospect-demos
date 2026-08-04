@@ -1,0 +1,1 @@
+SPE Limited — unofficial static website concept. No build step. Prototype form redirects to thank-you.html and transmits no data. Full verified research, deployment notes and email records are stored in this folder.

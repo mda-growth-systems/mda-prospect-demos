@@ -1,1 +1,0 @@
-Temporary staging files for MDA Prospect Demo Batch 02. The one-time GitHub Actions expansion workflow removes this directory after merging into main.

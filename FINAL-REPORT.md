@@ -50,4 +50,4 @@ Every demo contains `index.html`, `thank-you.html`, `README.txt`, `verification-
 
 ## Safety notes
 
-No email was sent or scheduled. No Netlify deployment was claimed. Commercial-capability ratings are reasoned assessments based on public signals, not proven financial information. The demos contain no fabricated reviews, customer logos, awards or certifications.
+No email was sent or scheduled. No Netlify deployment was claimed. Commercial-capability ratings are reasoned assessments based on public signals, not proven financial information. The demos contain no fabricated reviews, customer logos, awards or certifications. Before sending, update the connected Gmail account’s display name from “Ruan .” to “Michael”; the draft bodies and signatures already use Michael.

@@ -46,3 +46,5 @@ jobs:
           git add -A
           git commit -m "Expand Batch 02 prospect website source files"
           git push origin main
+
+# Triggered directly on main after PR merge.

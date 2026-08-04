@@ -1,0 +1,6 @@
+Business/contact,Email or domain,Reason,Date recorded,Action
+Camtec Security,camteccctv@aol.com,Message blocked / delivery failure,2026-08-04,Do not reuse without fresh official verification
+MPH Elec Services,mphtechltd@gmail.co.uk,Domain gmail.co.uk not found,2026-08-04,Suppressed
+GTS / Teamwork,sales@teamworkgts.co.uk,Domain not found,2026-07-28,Suppressed
+MRZ Services,admin@mrzservices.co.uk,Address not found; repeated bounce,2026-07-28,Suppressed
+Generator Company,generatorcompany.co.uk,Official website explicitly asks that listed addresses not be used to solicit business,2026-08-04,Excluded / suppress prospecting

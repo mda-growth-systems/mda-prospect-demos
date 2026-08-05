@@ -33,8 +33,12 @@ jobs:
         run: |
           set -euo pipefail
           cat \
-            batch-13-payload/chunk-00 \
-            batch-13-payload/chunk-01 \
+            batch-13-payload/prefix-00 \
+            batch-13-payload/prefix-01 \
+            batch-13-payload/prefix-02 \
+            batch-13-payload/prefix-03 \
+            batch-13-payload/prefix-04 \
+            batch-13-payload/prefix-05 \
             batch-13-payload/repair-02a \
             batch-13-payload/repair-02b \
             batch-13-payload/repair-02c \

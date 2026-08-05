@@ -1,0 +1,29 @@
+Recipient email
+info@rollsrefrigeration.co.uk
+
+Contact person
+Refrigeration service team — General business inbox
+
+Subject
+Cold-room faults, scoped upfront
+
+Main message
+Hi Refrigeration service team,
+
+Rolls supports cold rooms, walk-ins, displays and air conditioning across the North West, where a temperature fault can quickly become a stock and service issue.
+
+I built an unofficial concept around plant-critical fault triage and ppm enquiry routing:
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/rolls-refrigeration/
+
+Would this make first-response triage easier for your team?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com/
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/rolls-refrigeration/
+MDA Growth Systems URL: https://mdagrowthsystems.com/
+Status: Text prepared; Gmail draft and final public-link verification pending deployment gate.

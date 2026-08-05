@@ -1,0 +1,106 @@
+{
+  "batch": "09",
+  "date": "2026-08-05",
+  "prospects": [
+    {
+      "slug": "rolls-refrigeration",
+      "name": "Rolls Refrigeration",
+      "domain": "rollsrefrigeration.co.uk",
+      "email": "info@rollsrefrigeration.co.uk",
+      "phone": "0161 486 0828",
+      "score": 91,
+      "capability": "Strong",
+      "demo": "https://mda-growth-systems.github.io/mda-prospect-demos/prospects/rolls-refrigeration/"
+    },
+    {
+      "slug": "thor-fire",
+      "name": "Thor Fire",
+      "domain": "thor-fire.co.uk",
+      "email": "info@thor-fire.co.uk",
+      "phone": "0161 339 7736",
+      "score": 90,
+      "capability": "Strong",
+      "demo": "https://mda-growth-systems.github.io/mda-prospect-demos/prospects/thor-fire/"
+    },
+    {
+      "slug": "academy-lifts",
+      "name": "Academy Lifts",
+      "domain": "academylift.co.uk",
+      "email": "info@academylift.co.uk",
+      "phone": "01925 242227",
+      "score": 89,
+      "capability": "Strong",
+      "demo": "https://mda-growth-systems.github.io/mda-prospect-demos/prospects/academy-lifts/"
+    },
+    {
+      "slug": "hire-depot",
+      "name": "Hire Depot",
+      "domain": "hire-depot.com",
+      "email": "info@hire-depot.com",
+      "phone": "01344 577644",
+      "score": 88,
+      "capability": "Strong",
+      "demo": "https://mda-growth-systems.github.io/mda-prospect-demos/prospects/hire-depot/"
+    },
+    {
+      "slug": "photon-renewables",
+      "name": "Photon Renewables",
+      "domain": "photon-renewables.co.uk",
+      "email": "info@photon-renewables.co.uk",
+      "phone": "02392 795063",
+      "score": 87,
+      "capability": "Moderate",
+      "demo": "https://mda-growth-systems.github.io/mda-prospect-demos/prospects/photon-renewables/"
+    },
+    {
+      "slug": "bond-security",
+      "name": "Bond Security",
+      "domain": "bondsecurityltd.co.uk",
+      "email": "info@bondsecurityltd.co.uk",
+      "phone": "01234 756022",
+      "score": 90,
+      "capability": "Strong",
+      "demo": "https://mda-growth-systems.github.io/mda-prospect-demos/prospects/bond-security/"
+    },
+    {
+      "slug": "arch-services",
+      "name": "Arch Services",
+      "domain": "archservices.co.uk",
+      "email": "info@archservices.co.uk",
+      "phone": "0800 707 6771",
+      "score": 92,
+      "capability": "Strong",
+      "demo": "https://mda-growth-systems.github.io/mda-prospect-demos/prospects/arch-services/"
+    },
+    {
+      "slug": "eps-oxford",
+      "name": "Event Production Services",
+      "domain": "epsoxford.com",
+      "email": "info@epsoxford.com",
+      "phone": "01844 278446",
+      "score": 89,
+      "capability": "Strong",
+      "demo": "https://mda-growth-systems.github.io/mda-prospect-demos/prospects/eps-oxford/"
+    },
+    {
+      "slug": "fpf-warehousing",
+      "name": "FPF Warehousing",
+      "domain": "fpfw.co.uk",
+      "email": "sales@fpfw.co.uk",
+      "phone": "01256 672727",
+      "score": 88,
+      "capability": "Strong",
+      "demo": "https://mda-growth-systems.github.io/mda-prospect-demos/prospects/fpf-warehousing/"
+    },
+    {
+      "slug": "thomas-nagy",
+      "name": "Thomas Nagy Ltd",
+      "domain": "thomasnagy.uk",
+      "email": "info@thomasnagy.uk",
+      "phone": "020 7060 3873",
+      "score": 90,
+      "capability": "Strong",
+      "demo": "https://mda-growth-systems.github.io/mda-prospect-demos/prospects/thomas-nagy/"
+    }
+  ]
+}

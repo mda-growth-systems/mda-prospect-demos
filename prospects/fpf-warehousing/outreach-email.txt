@@ -1,0 +1,29 @@
+Recipient email
+sales@fpfw.co.uk
+
+Contact person
+Sales team — Sales inbox
+
+Subject
+Warehousing quotes, complete first time
+
+Main message
+Hi Sales team,
+
+FPF combines pallet storage, container devanning, fulfilment, consolidation, Amazon FBA and UK distribution from its Hampshire facility.
+
+I built an unofficial concept around warehousing quote brief with volumes, handling and distribution needs:
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/fpf-warehousing/
+
+Would this reduce the clarification needed before quoting?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com/
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/fpf-warehousing/
+MDA Growth Systems URL: https://mdagrowthsystems.com/
+Status: Text prepared; Gmail draft and final public-link verification pending deployment gate.

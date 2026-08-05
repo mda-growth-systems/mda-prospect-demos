@@ -1,0 +1,28 @@
+CREATIVE DIRECTIONS — Thomas Nagy Ltd
+
+DIRECTION 1: Project readiness blueprint
+Visual style: Technical drawing grid
+Layout approach: Sector, stage and outage lead
+Primary customer journey: Sector-specific electrical project and maintenance intake
+Signature interactive feature: Project readiness board
+Why it fits: Fits complex electrical work
+Difference from the other demos: Blueprint grid and tender-style structure
+
+DIRECTION 2: Live-site operations brief
+Visual style: Facilities control aesthetic
+Layout approach: Operational impact before scope
+Primary customer journey: Sector-specific electrical project and maintenance intake
+Signature interactive feature: Shutdown-window planner
+Why it fits: Fits maintenance buyers
+Difference from the other demos: Operations-first rather than marketing-first
+
+DIRECTION 3: Infrastructure capability map
+Visual style: Highways/rail/commercial route map
+Layout approach: Sector selection reorganises content
+Primary customer journey: Sector-specific electrical project and maintenance intake
+Signature interactive feature: Sector route switcher
+Why it fits: Shows specialist breadth
+Difference from the other demos: Three-sector navigation experience
+
+SELECTED: Project readiness blueprint
+Reason: Fits complex electrical work. Blueprint grid and tender-style structure.

@@ -1,0 +1,32 @@
+Recipient email
+info@academylift.co.uk
+
+Intended subject
+Re: Lift downtime, diagnosed sooner
+
+Follow-up timing
+Five business days after the approved first email is sent.
+
+Main message
+Hi Lift support team,
+
+A quick follow-up on the personalised concept:
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/academy-lifts/
+
+The asset and operating-state fields could tell the support team whether the lift is trapped, out of service or still operating with an intermittent fault.
+
+Worth a brief look?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com/
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Threading status
+Prepared — genuine Gmail reply-thread creation pending until the original first email is sent.
+
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/academy-lifts/
+MDA Growth Systems URL: https://mdagrowthsystems.com/
+Status: Text prepared; final public-link verification pending deployment gate.

@@ -1,0 +1,32 @@
+Recipient email
+info@archservices.co.uk
+
+Intended subject
+Re: Drainage surveys, scoped before arrival
+
+Follow-up timing
+Five business days after the approved first email is sent.
+
+Main message
+Hi Commercial drainage team,
+
+A quick follow-up on the personalised concept:
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/arch-services/
+
+The required-output field could distinguish a quick fault location from a formal survey package for maintenance, purchase or construction records.
+
+Worth a brief look?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com/
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Threading status
+Prepared — genuine Gmail reply-thread creation pending until the original first email is sent.
+
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/arch-services/
+MDA Growth Systems URL: https://mdagrowthsystems.com/
+Status: Text prepared; final public-link verification pending deployment gate.

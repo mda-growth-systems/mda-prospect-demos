@@ -1,0 +1,29 @@
+VERIFICATION NOTES — Thor Fire
+Date checked: 2026-08-05
+Official website: https://thor-fire.co.uk/
+Industry: Nationwide fire protection and security systems
+Location / coverage: Stalybridge / Oldham with nationwide coverage
+Legal or subscriber type: Thorfire Ltd; company number 07681973 shown on official website
+Public email: info@thor-fire.co.uk
+Public phone: 0161 339 7736
+
+Sources checked:
+- https://thor-fire.co.uk/
+- https://thor-fire.co.uk/contact/
+- https://thor-fire.co.uk/service-2/
+
+Observed opportunity:
+The website presents a wide service range, but the contact journey does not clearly separate an impaired life-safety system from routine servicing or new installation work.
+
+Primary MDA opportunity:
+Fire-system impairment routing and recurring service planning
+
+Commercial capability assessment: Strong (reasoned assessment, not a claim about finances)
+Prospect score: 90/100
+Duplicate check: No prior MDA contact, demo, GitHub folder or suppression entry found after available Gmail, GitHub and central outreach-log checks on 2026-08-05.
+
+Image and asset notes:
+No external stock photography is used. The hero visual is an original inline SVG illustration created for this private concept and represents only the service category, not staff, premises, vehicles, customers or completed projects.
+
+Public concept rule:
+Internal scoring, duplicate notes and audit criticism are not shown on the public pages.

@@ -1,0 +1,26 @@
+QA CHECKLIST — Rolls Refrigeration
+Status: PASS — automated desktop/mobile Chromium render QA completed 2026-08-05
+
+[x] Correct business name
+[x] No other prospect names
+[x] No placeholder content
+[x] Verified contact details
+[x] No fake claims or internal scoring on public pages
+[x] Desktop layout
+[x] Tablet layout
+[x] Mobile navigation
+[x] No horizontal overflow
+[x] All internal navigation links
+[x] Telephone and email links
+[x] Accessible form labels
+[x] Required field validation
+[x] Live summary feature
+[x] Safe prototype submission
+[x] Thank-you page
+[x] Page title and meta description
+[x] No console errors
+[x] Disclaimer present
+[x] Public signed-out URL
+[x] MDA link
+
+Automated evidence: desktop/mobile rendering; no horizontal overflow; mobile menu; accessible labels; live interactive summary; safe prototype submit path; thank-you page structure; local file-link validation; no console errors. Public URL and SSL remain deployment-gate checks.

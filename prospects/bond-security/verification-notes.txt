@@ -1,0 +1,29 @@
+VERIFICATION NOTES — Bond Security
+Date checked: 2026-08-05
+Official website: https://www.bondsecurityltd.co.uk/
+Industry: Commercial access control, CCTV and door automation
+Location / coverage: Cranfield with UK commercial coverage
+Legal or subscriber type: Bond Security Ltd
+Public email: info@bondsecurityltd.co.uk
+Public phone: 01234 756022
+
+Sources checked:
+- https://www.bondsecurityltd.co.uk/
+- https://www.bondsecurityltd.co.uk/services/access-control/
+- https://www.bondsecurityltd.co.uk/services/service-installation/
+
+Observed opportunity:
+The site explains specialist platforms and services, but the enquiry route does not capture site count, door count, current platform, integrations or project stage.
+
+Primary MDA opportunity:
+Multi-site access-control and CCTV survey qualification
+
+Commercial capability assessment: Strong (reasoned assessment, not a claim about finances)
+Prospect score: 90/100
+Duplicate check: No prior MDA contact, demo, GitHub folder or suppression entry found after available Gmail, GitHub and central outreach-log checks on 2026-08-05.
+
+Image and asset notes:
+No external stock photography is used. The hero visual is an original inline SVG illustration created for this private concept and represents only the service category, not staff, premises, vehicles, customers or completed projects.
+
+Public concept rule:
+Internal scoring, duplicate notes and audit criticism are not shown on the public pages.

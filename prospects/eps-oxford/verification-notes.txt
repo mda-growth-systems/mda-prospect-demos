@@ -1,0 +1,29 @@
+VERIFICATION NOTES — Event Production Services
+Date checked: 2026-08-05
+Official website: https://epsoxford.com/
+Industry: Technical event production, hire, AV installation and venue services
+Location / coverage: Oxfordshire with nationwide event support
+Legal or subscriber type: Event Production Services is a trading name of EPS Oxford Limited; company number 09017219
+Public email: info@epsoxford.com
+Public phone: 01844 278446
+
+Sources checked:
+- https://epsoxford.com/
+- https://epsoxford.com/about
+- https://epsoxford.com/services/hire-production
+
+Observed opportunity:
+The contact form is general and does not capture event date, venue status, audience, production scope, power, staging, crew or delivery requirements.
+
+Primary MDA opportunity:
+Event production brief builder separating dry hire, full production and installation
+
+Commercial capability assessment: Strong (reasoned assessment, not a claim about finances)
+Prospect score: 89/100
+Duplicate check: No prior MDA contact, demo, GitHub folder or suppression entry found after available Gmail, GitHub and central outreach-log checks on 2026-08-05.
+
+Image and asset notes:
+No external stock photography is used. The hero visual is an original inline SVG illustration created for this private concept and represents only the service category, not staff, premises, vehicles, customers or completed projects.
+
+Public concept rule:
+Internal scoring, duplicate notes and audit criticism are not shown on the public pages.

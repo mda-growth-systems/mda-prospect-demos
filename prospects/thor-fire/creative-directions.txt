@@ -1,0 +1,28 @@
+CREATIVE DIRECTIONS — Thor Fire
+
+DIRECTION 1: Incident command panel
+Visual style: High-contrast black and red control-room style
+Layout approach: Impairment status before service selection
+Primary customer journey: Fire-system impairment routing and recurring service planning
+Signature interactive feature: Fire-system impairment route
+Why it fits: Fits life-safety urgency
+Difference from the other demos: Command-panel interface unique to fire response
+
+DIRECTION 2: Compliance calendar
+Visual style: Warm professional editorial layout
+Layout approach: Recurring inspections and certificates
+Primary customer journey: Fire-system impairment routing and recurring service planning
+Signature interactive feature: Renewal timeline
+Why it fits: Strong for planned servicing
+Difference from the other demos: Calendar rather than emergency-led experience
+
+DIRECTION 3: System map
+Visual style: Technical schematic layout
+Layout approach: Choose alarm, riser, pump or security system
+Primary customer journey: Fire-system impairment routing and recurring service planning
+Signature interactive feature: Site-system mapper
+Why it fits: Shows breadth without clutter
+Difference from the other demos: Interactive infrastructure map
+
+SELECTED: Incident command panel
+Reason: Fits life-safety urgency. Command-panel interface unique to fire response.

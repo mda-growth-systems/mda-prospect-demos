@@ -1,0 +1,28 @@
+CREATIVE DIRECTIONS — Academy Lifts
+
+DIRECTION 1: Vertical lift shaft
+Visual style: Tall architectural composition
+Layout approach: Operating state leads the journey
+Primary customer journey: Lift downtime, entrapment-risk and estate qualification
+Signature interactive feature: Lift status diagnostic
+Why it fits: Directly mirrors lift movement
+Difference from the other demos: Vertical visual rhythm unlike other sites
+
+DIRECTION 2: Estate control centre
+Visual style: Facilities dashboard
+Layout approach: Multi-lift portfolio before single fault
+Primary customer journey: Lift downtime, entrapment-risk and estate qualification
+Signature interactive feature: Estate asset register preview
+Why it fits: Fits property managers
+Difference from the other demos: Portfolio-first rather than single-job flow
+
+DIRECTION 3: Modernisation story
+Visual style: Before/after editorial panels
+Layout approach: Age and reliability lead to options
+Primary customer journey: Lift downtime, entrapment-risk and estate qualification
+Signature interactive feature: Modernisation readiness score
+Why it fits: Supports higher-value upgrades
+Difference from the other demos: Transformation-led content structure
+
+SELECTED: Vertical lift shaft
+Reason: Directly mirrors lift movement. Vertical visual rhythm unlike other sites.

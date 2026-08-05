@@ -1,0 +1,28 @@
+CREATIVE DIRECTIONS — Arch Services
+
+DIRECTION 1: Drainage flow map
+Visual style: Deep blue pipe-network visual
+Layout approach: Urgency and output before contact
+Primary customer journey: Commercial drainage survey and emergency scope builder
+Signature interactive feature: Drainage scope route
+Why it fits: Fits underground infrastructure
+Difference from the other demos: Flow diagram drives the experience
+
+DIRECTION 2: Survey deliverables studio
+Visual style: Clean technical report aesthetic
+Layout approach: Required report output leads
+Primary customer journey: Commercial drainage survey and emergency scope builder
+Signature interactive feature: Deliverables selector
+Why it fits: Targets commercial survey buyers
+Difference from the other demos: Document-output led structure
+
+DIRECTION 3: Emergency response map
+Visual style: Regional dispatch layout
+Layout approach: Impact and access lead
+Primary customer journey: Commercial drainage survey and emergency scope builder
+Signature interactive feature: Response-readiness card
+Why it fits: Fits 24/7 services
+Difference from the other demos: Location and disruption first
+
+SELECTED: Drainage flow map
+Reason: Fits underground infrastructure. Flow diagram drives the experience.

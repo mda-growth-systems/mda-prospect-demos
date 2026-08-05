@@ -1,0 +1,29 @@
+Recipient email
+info@bondsecurityltd.co.uk
+
+Contact person
+Commercial security team — General business inbox
+
+Subject
+Access-control surveys, better briefed
+
+Main message
+Hi Commercial security team,
+
+Bond Security specialises in commercial access control, CCTV and door automation, including Hirsch Identiv and Galaxy systems.
+
+I built an unofficial concept around multi-site access-control and cctv survey qualification:
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/bond-security/
+
+Would this make site surveys easier to prepare for?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com/
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/bond-security/
+MDA Growth Systems URL: https://mdagrowthsystems.com/
+Status: Text prepared; Gmail draft and final public-link verification pending deployment gate.

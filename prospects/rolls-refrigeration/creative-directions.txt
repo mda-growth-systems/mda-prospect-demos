@@ -1,0 +1,28 @@
+CREATIVE DIRECTIONS — Rolls Refrigeration
+
+DIRECTION 1: Cold-chain operations dashboard
+Visual style: Dark technical interface with live-status cues
+Layout approach: Fault-first hero followed by PPM pathways
+Primary customer journey: Plant-critical fault triage and PPM enquiry routing
+Signature interactive feature: Temperature and stock-risk triage
+Why it fits: Matches operational urgency and cold-chain risk
+Difference from the other demos: Uses a dashboard rather than a standard service homepage
+
+DIRECTION 2: Clean food-service confidence
+Visual style: Bright hygienic editorial layout
+Layout approach: Equipment categories lead into service booking
+Primary customer journey: Plant-critical fault triage and PPM enquiry routing
+Signature interactive feature: Maintenance-calendar preview
+Why it fits: Supports restaurants and food retail
+Difference from the other demos: Focuses on compliance and calm reassurance
+
+DIRECTION 3: Engineer dispatch map
+Visual style: Regional coverage and van-route visual
+Layout approach: Location first, then asset and fault
+Primary customer journey: Plant-critical fault triage and PPM enquiry routing
+Signature interactive feature: Engineer-ready dispatch card
+Why it fits: Highlights North West response
+Difference from the other demos: Uses route planning as the central metaphor
+
+SELECTED: Cold-chain operations dashboard
+Reason: Matches operational urgency and cold-chain risk. Uses a dashboard rather than a standard service homepage.

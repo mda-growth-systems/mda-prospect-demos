@@ -1,0 +1,28 @@
+CREATIVE DIRECTIONS — FPF Warehousing
+
+DIRECTION 1: Warehouse slot planner
+Visual style: Racking visual and orange logistics accents
+Layout approach: Volume and duration lead
+Primary customer journey: Warehousing quote brief with volumes, handling and distribution needs
+Signature interactive feature: Space and handling planner
+Why it fits: Directly reflects operational capacity
+Difference from the other demos: Grid based on warehouse bays
+
+DIRECTION 2: Inbound-to-outbound journey
+Visual style: Supply-chain timeline
+Layout approach: Container arrival to dispatch
+Primary customer journey: Warehousing quote brief with volumes, handling and distribution needs
+Signature interactive feature: Flow-path builder
+Why it fits: Shows one-stop service
+Difference from the other demos: Process line rather than static services
+
+DIRECTION 3: FBA readiness desk
+Visual style: Marketplace fulfilment aesthetic
+Layout approach: SKU and carton profile first
+Primary customer journey: Warehousing quote brief with volumes, handling and distribution needs
+Signature interactive feature: FBA prep checklist
+Why it fits: Fits a core customer segment
+Difference from the other demos: Marketplace-specific conversion path
+
+SELECTED: Warehouse slot planner
+Reason: Directly reflects operational capacity. Grid based on warehouse bays.

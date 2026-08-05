@@ -1,0 +1,28 @@
+CREATIVE DIRECTIONS — Photon Renewables
+
+DIRECTION 1: Energy feasibility canvas
+Visual style: Warm daylight palette and roof geometry
+Layout approach: Building profile before technology
+Primary customer journey: Commercial solar and battery feasibility qualification
+Signature interactive feature: Feasibility canvas
+Why it fits: Matches consultative solar sale
+Difference from the other demos: Roof-and-energy data shapes the journey
+
+DIRECTION 2: Carbon roadmap
+Visual style: Corporate sustainability editorial
+Layout approach: Targets and time horizon first
+Primary customer journey: Commercial solar and battery feasibility qualification
+Signature interactive feature: Roadmap milestones
+Why it fits: Fits commercial ESG buyers
+Difference from the other demos: Outcome timeline rather than product grid
+
+DIRECTION 3: Generation dashboard
+Visual style: Data-led dark interface
+Layout approach: Usage and tariff create indicative fit
+Primary customer journey: Commercial solar and battery feasibility qualification
+Signature interactive feature: Day/night energy profile
+Why it fits: Supports battery discussions
+Difference from the other demos: Analytical dashboard experience
+
+SELECTED: Energy feasibility canvas
+Reason: Matches consultative solar sale. Roof-and-energy data shapes the journey.

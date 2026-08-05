@@ -1,0 +1,32 @@
+Recipient email
+info@rollsrefrigeration.co.uk
+
+Intended subject
+Re: Cold-room faults, scoped upfront
+
+Follow-up timing
+Five business days after the approved first email is sent.
+
+Main message
+Hi Refrigeration service team,
+
+A quick follow-up on the personalised concept:
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/rolls-refrigeration/
+
+The stock-risk and current-temperature fields could help your team distinguish an urgent call-out from a planned maintenance request before the callback.
+
+Worth a brief look?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com/
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Threading status
+Prepared — genuine Gmail reply-thread creation pending until the original first email is sent.
+
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/rolls-refrigeration/
+MDA Growth Systems URL: https://mdagrowthsystems.com/
+Status: Text prepared; final public-link verification pending deployment gate.

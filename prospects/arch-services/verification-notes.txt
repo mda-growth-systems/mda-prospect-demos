@@ -1,0 +1,29 @@
+VERIFICATION NOTES — Arch Services
+Date checked: 2026-08-05
+Official website: https://www.archservices.co.uk/
+Industry: Commercial drainage, surveys and infrastructure services
+Location / coverage: South Wales, South West England and West Midlands
+Legal or subscriber type: Commercial trading entity represented on official website; legal registration not relied upon in this concept
+Public email: info@archservices.co.uk
+Public phone: 0800 707 6771
+
+Sources checked:
+- https://www.archservices.co.uk/
+- https://www.archservices.co.uk/commercial-services
+- https://www.archservices.co.uk/contact-us
+
+Observed opportunity:
+The generic form includes a category and free-text field, but does not capture urgency, asset type, survey purpose, required outputs, access restrictions or multi-site context.
+
+Primary MDA opportunity:
+Commercial drainage survey and emergency scope builder
+
+Commercial capability assessment: Strong (reasoned assessment, not a claim about finances)
+Prospect score: 92/100
+Duplicate check: No prior MDA contact, demo, GitHub folder or suppression entry found after available Gmail, GitHub and central outreach-log checks on 2026-08-05.
+
+Image and asset notes:
+No external stock photography is used. The hero visual is an original inline SVG illustration created for this private concept and represents only the service category, not staff, premises, vehicles, customers or completed projects.
+
+Public concept rule:
+Internal scoring, duplicate notes and audit criticism are not shown on the public pages.

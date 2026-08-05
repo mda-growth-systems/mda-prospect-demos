@@ -1,0 +1,32 @@
+Recipient email
+info@hire-depot.com
+
+Intended subject
+Re: Hire requests, ready for dispatch
+
+Follow-up timing
+Five business days after the approved first email is sent.
+
+Main message
+Hi Hire desk,
+
+A quick follow-up on the personalised concept:
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/hire-depot/
+
+Adding delivery access and hire dates upfront could prevent the hire desk from chasing basic logistics before confirming availability.
+
+Worth a brief look?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com/
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Threading status
+Prepared — genuine Gmail reply-thread creation pending until the original first email is sent.
+
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/hire-depot/
+MDA Growth Systems URL: https://mdagrowthsystems.com/
+Status: Text prepared; final public-link verification pending deployment gate.

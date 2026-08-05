@@ -1,0 +1,29 @@
+VERIFICATION NOTES — Hire Depot
+Date checked: 2026-08-05
+Official website: https://www.hire-depot.com/
+Industry: Plant, tool and non-mechanical equipment hire
+Location / coverage: Ascot, Berkshire and Southern England
+Legal or subscriber type: Hire Depot Ltd; company number 02913895
+Public email: info@hire-depot.com
+Public phone: 01344 577644
+
+Sources checked:
+- https://www.hire-depot.com/
+- https://www.hire-depot.com/book-now
+- https://www.hire-depot.com/contact
+
+Observed opportunity:
+The current booking form captures the requested equipment and a message, but not hire dates, quantity, delivery postcode or site-access conditions.
+
+Primary MDA opportunity:
+Equipment matching with dates, delivery and site-access qualification
+
+Commercial capability assessment: Strong (reasoned assessment, not a claim about finances)
+Prospect score: 88/100
+Duplicate check: No prior MDA contact, demo, GitHub folder or suppression entry found after available Gmail, GitHub and central outreach-log checks on 2026-08-05.
+
+Image and asset notes:
+No external stock photography is used. The hero visual is an original inline SVG illustration created for this private concept and represents only the service category, not staff, premises, vehicles, customers or completed projects.
+
+Public concept rule:
+Internal scoring, duplicate notes and audit criticism are not shown on the public pages.

@@ -1,0 +1,29 @@
+Recipient email
+info@epsoxford.com
+
+Contact person
+Production team — General business inbox
+
+Subject
+Event briefs, production-ready
+
+Main message
+Hi Production team,
+
+EPS handles hire, full technical production, AV installation, venue services and crew from Oxfordshire for events nationwide.
+
+I built an unofficial concept around event production brief builder separating dry hire, full production and installation:
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/eps-oxford/
+
+Would a brief walkthrough be useful?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com/
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/eps-oxford/
+MDA Growth Systems URL: https://mdagrowthsystems.com/
+Status: Text prepared; Gmail draft and final public-link verification pending deployment gate.

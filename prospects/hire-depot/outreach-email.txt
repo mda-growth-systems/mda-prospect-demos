@@ -1,0 +1,29 @@
+Recipient email
+info@hire-depot.com
+
+Contact person
+Hire desk — General business inbox
+
+Subject
+Hire requests, ready for dispatch
+
+Main message
+Hi Hire desk,
+
+Hire Depot supplies plant, non-mechanical equipment and tools from Ascot, with collection or delivery and next-day availability on suitable stock.
+
+I built an unofficial concept around equipment matching with dates, delivery and site-access qualification:
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/hire-depot/
+
+Worth a quick look?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com/
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/hire-depot/
+MDA Growth Systems URL: https://mdagrowthsystems.com/
+Status: Text prepared; Gmail draft and final public-link verification pending deployment gate.

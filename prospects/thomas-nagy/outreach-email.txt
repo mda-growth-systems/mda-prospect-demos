@@ -1,0 +1,29 @@
+Recipient email
+info@thomasnagy.uk
+
+Contact person
+Commercial projects team — General business inbox
+
+Subject
+Live-site electrical briefs, organised
+
+Main message
+Hi Commercial projects team,
+
+Thomas Nagy works across commercial facilities, highways and rail, where access, shutdowns and compliance dates can shape the job before an engineer attends.
+
+I built an unofficial concept around sector-specific electrical project and maintenance intake:
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/thomas-nagy/
+
+Worth showing this to the person handling new project enquiries?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com/
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/thomas-nagy/
+MDA Growth Systems URL: https://mdagrowthsystems.com/
+Status: Text prepared; Gmail draft and final public-link verification pending deployment gate.

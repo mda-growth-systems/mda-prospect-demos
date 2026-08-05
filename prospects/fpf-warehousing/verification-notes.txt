@@ -1,0 +1,29 @@
+VERIFICATION NOTES — FPF Warehousing
+Date checked: 2026-08-05
+Official website: https://fpfw.co.uk/
+Industry: Warehousing, fulfilment and distribution
+Location / coverage: Hook, Hampshire serving UK and overseas clients
+Legal or subscriber type: FPF Warehousing Limited; company number 10423172
+Public email: sales@fpfw.co.uk
+Public phone: 01256 672727
+
+Sources checked:
+- https://fpfw.co.uk/
+- https://fpfw.co.uk/about-us/
+- https://fpfw.co.uk/get-a-quote/
+
+Observed opportunity:
+The quote form asks for the service and free-text details but does not consistently structure pallet counts, SKU profile, storage duration, container arrivals, handling or outbound transport.
+
+Primary MDA opportunity:
+Warehousing quote brief with volumes, handling and distribution needs
+
+Commercial capability assessment: Strong (reasoned assessment, not a claim about finances)
+Prospect score: 88/100
+Duplicate check: No prior MDA contact, demo, GitHub folder or suppression entry found after available Gmail, GitHub and central outreach-log checks on 2026-08-05.
+
+Image and asset notes:
+No external stock photography is used. The hero visual is an original inline SVG illustration created for this private concept and represents only the service category, not staff, premises, vehicles, customers or completed projects.
+
+Public concept rule:
+Internal scoring, duplicate notes and audit criticism are not shown on the public pages.

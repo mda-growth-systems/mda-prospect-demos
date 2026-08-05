@@ -1,0 +1,29 @@
+VERIFICATION NOTES — Photon Renewables
+Date checked: 2026-08-05
+Official website: https://photon-renewables.co.uk/
+Industry: Commercial and residential renewable-energy installations
+Location / coverage: South of England with wider UK commercial coverage
+Legal or subscriber type: Trading entity represented on official website; legal company number not relied upon in this concept
+Public email: info@photon-renewables.co.uk
+Public phone: 02392 795063
+
+Sources checked:
+- https://photon-renewables.co.uk/
+- https://photon-renewables.co.uk/commercial-solar-panel-installation-3/
+- https://photon-renewables.co.uk/contact-solar-panel-installer/
+
+Observed opportunity:
+The contact route is broad and does not gather roof type, energy spend, occupancy, battery or EV requirements, or project stage before a consultation.
+
+Primary MDA opportunity:
+Commercial solar and battery feasibility qualification
+
+Commercial capability assessment: Moderate (reasoned assessment, not a claim about finances)
+Prospect score: 87/100
+Duplicate check: No prior MDA contact, demo, GitHub folder or suppression entry found after available Gmail, GitHub and central outreach-log checks on 2026-08-05.
+
+Image and asset notes:
+No external stock photography is used. The hero visual is an original inline SVG illustration created for this private concept and represents only the service category, not staff, premises, vehicles, customers or completed projects.
+
+Public concept rule:
+Internal scoring, duplicate notes and audit criticism are not shown on the public pages.

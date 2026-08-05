@@ -1,0 +1,28 @@
+CREATIVE DIRECTIONS — Event Production Services
+
+DIRECTION 1: Production cue timeline
+Visual style: Dark stage and cue-line aesthetic
+Layout approach: Event date to technical scope
+Primary customer journey: Event production brief builder separating dry hire, full production and installation
+Signature interactive feature: Production cue builder
+Why it fits: Matches show planning
+Difference from the other demos: Timeline-led single-column theatre layout
+
+DIRECTION 2: Venue technical map
+Visual style: Architectural venue canvas
+Layout approach: Venue details before equipment
+Primary customer journey: Event production brief builder separating dry hire, full production and installation
+Signature interactive feature: Room and rigging mapper
+Why it fits: Fits installations and venue service
+Difference from the other demos: Venue-first spatial interaction
+
+DIRECTION 3: Rental prep desk
+Visual style: Warehouse and flight-case aesthetic
+Layout approach: Dry hire requirements first
+Primary customer journey: Event production brief builder separating dry hire, full production and installation
+Signature interactive feature: Prep-list generator
+Why it fits: Fits industry rental clients
+Difference from the other demos: Operational prep workflow
+
+SELECTED: Production cue timeline
+Reason: Matches show planning. Timeline-led single-column theatre layout.

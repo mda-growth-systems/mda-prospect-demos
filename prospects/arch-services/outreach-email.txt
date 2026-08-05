@@ -1,0 +1,29 @@
+Recipient email
+info@archservices.co.uk
+
+Contact person
+Commercial drainage team — General business inbox
+
+Subject
+Drainage surveys, scoped before arrival
+
+Main message
+Hi Commercial drainage team,
+
+Arch covers commercial blockages, CCTV surveys, liquid waste, traffic management, no-dig work and civil engineering across multiple regions.
+
+I built an unofficial concept around commercial drainage survey and emergency scope builder:
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/arch-services/
+
+Is this the right kind of brief for your commercial team?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com/
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/arch-services/
+MDA Growth Systems URL: https://mdagrowthsystems.com/
+Status: Text prepared; Gmail draft and final public-link verification pending deployment gate.

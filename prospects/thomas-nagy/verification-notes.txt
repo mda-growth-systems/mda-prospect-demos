@@ -1,0 +1,29 @@
+VERIFICATION NOTES — Thomas Nagy Ltd
+Date checked: 2026-08-05
+Official website: https://thomasnagy.uk/
+Industry: Commercial, rail and highways electrical contracting
+Location / coverage: Watford with nationwide project coverage
+Legal or subscriber type: Thomas Nagy Ltd; company number 10709064
+Public email: info@thomasnagy.uk
+Public phone: 020 7060 3873
+
+Sources checked:
+- https://thomasnagy.uk/
+- https://thomasnagy.uk/commercial/
+- https://thomasnagy.uk/contact/
+
+Observed opportunity:
+The current form accepts general details and a message, but does not visibly route commercial, highways and rail projects by stage, shutdown, access, compliance date or drawing availability.
+
+Primary MDA opportunity:
+Sector-specific electrical project and maintenance intake
+
+Commercial capability assessment: Strong (reasoned assessment, not a claim about finances)
+Prospect score: 90/100
+Duplicate check: No prior MDA contact, demo, GitHub folder or suppression entry found after available Gmail, GitHub and central outreach-log checks on 2026-08-05.
+
+Image and asset notes:
+No external stock photography is used. The hero visual is an original inline SVG illustration created for this private concept and represents only the service category, not staff, premises, vehicles, customers or completed projects.
+
+Public concept rule:
+Internal scoring, duplicate notes and audit criticism are not shown on the public pages.

@@ -1,0 +1,29 @@
+VERIFICATION NOTES — Academy Lifts
+Date checked: 2026-08-05
+Official website: https://www.academylift.co.uk/
+Industry: Lift maintenance, repair, modernisation and consultancy
+Location / coverage: Warrington with UK-wide support
+Legal or subscriber type: Academy Lifts Ltd
+Public email: info@academylift.co.uk
+Public phone: 01925 242227
+
+Sources checked:
+- https://www.academylift.co.uk/
+- https://www.academylift.co.uk/about-us/
+- https://www.academylift.co.uk/contact-us
+
+Observed opportunity:
+The contact form asks for the nature of the query but does not capture lift type, operating state, entrapment risk, service contract or multi-lift estate context.
+
+Primary MDA opportunity:
+Lift downtime, entrapment-risk and estate qualification
+
+Commercial capability assessment: Strong (reasoned assessment, not a claim about finances)
+Prospect score: 89/100
+Duplicate check: No prior MDA contact, demo, GitHub folder or suppression entry found after available Gmail, GitHub and central outreach-log checks on 2026-08-05.
+
+Image and asset notes:
+No external stock photography is used. The hero visual is an original inline SVG illustration created for this private concept and represents only the service category, not staff, premises, vehicles, customers or completed projects.
+
+Public concept rule:
+Internal scoring, duplicate notes and audit criticism are not shown on the public pages.

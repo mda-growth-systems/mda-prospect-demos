@@ -1,0 +1,29 @@
+Recipient email
+info@photon-renewables.co.uk
+
+Contact person
+Renewables team — General business inbox
+
+Subject
+Commercial solar, qualified earlier
+
+Main message
+Hi Renewables team,
+
+Photon combines commercial solar, batteries and EV charging, so the strongest first conversation starts with the building and its energy profile—not a generic quote box.
+
+I built an unofficial concept around commercial solar and battery feasibility qualification:
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/photon-renewables/
+
+Should I send over the key changes I mapped out?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com/
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/photon-renewables/
+MDA Growth Systems URL: https://mdagrowthsystems.com/
+Status: Text prepared; Gmail draft and final public-link verification pending deployment gate.

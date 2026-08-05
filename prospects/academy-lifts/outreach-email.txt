@@ -1,0 +1,29 @@
+Recipient email
+info@academylift.co.uk
+
+Contact person
+Lift support team — General business inbox
+
+Subject
+Lift downtime, diagnosed sooner
+
+Main message
+Hi Lift support team,
+
+Academy supports passenger, goods, platform and service lifts across commercial, residential and public-sector buildings throughout the UK.
+
+I built an unofficial concept around lift downtime, entrapment-risk and estate qualification:
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/academy-lifts/
+
+Would a two-minute walkthrough be useful?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com/
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/academy-lifts/
+MDA Growth Systems URL: https://mdagrowthsystems.com/
+Status: Text prepared; Gmail draft and final public-link verification pending deployment gate.

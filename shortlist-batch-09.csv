@@ -1,0 +1,23 @@
+Business name,Normalised root domain,Score,Decision
+Rolls Refrigeration,rollsrefrigeration.co.uk,91,Selected
+Thor Fire,thor-fire.co.uk,90,Selected
+Academy Lifts,academylift.co.uk,89,Selected
+Hire Depot,hire-depot.com,88,Selected
+Photon Renewables,photon-renewables.co.uk,87,Selected
+Bond Security,bondsecurityltd.co.uk,90,Selected
+Arch Services,archservices.co.uk,92,Selected
+Event Production Services,epsoxford.com,89,Selected
+FPF Warehousing,fpfw.co.uk,88,Selected
+Thomas Nagy Ltd,thomasnagy.uk,90,Selected
+Industrial Cleaning Contractors,industrial-clean.co.uk,0,Rejected — prior sent email and follow-up draft
+DBL Door Solutions,dbldoorsltd.co.uk,0,Rejected — prior sent email and follow-up draft
+Elite Water Treatment,elitewatertreatment.co.uk,68,Rejected — legal-entity match was ambiguous
+R Perkins & Sons,rperkinsandsons.co.uk,78,Rejected — Rolls offered a clearer PPM and stock-risk journey
+Controlled Cooling,controlledcooling.com,77,Rejected — weaker differentiated demo opportunity
+Prima Fire & Security,primafireandsecurity.co.uk,79,Rejected — Thor offered broader fire-system routing
+Strata Fire Protection,stratafire.co.uk,76,Rejected — current journey already relatively modern
+Universal Lift Repairs,universalliftrepairs.co.uk,80,Rejected — Academy had stronger nationwide estate opportunity
+Day Plant Hire,dayplanthire.co.uk,77,Rejected — Hire Depot had clearer logistics and trade-account signals
+Byfield Services,byfieldservices.co.uk,75,Rejected — weaker public commercial evidence
+DACT Fire & Security,dact-fire-security.co.uk,78,Rejected — current service pages already conversion focused
+Limitless Event Production,limitlesseventproduction.co.uk,79,Rejected — EPS had stronger verified legal and operational evidence

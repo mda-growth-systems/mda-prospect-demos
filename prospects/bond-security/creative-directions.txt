@@ -1,0 +1,28 @@
+CREATIVE DIRECTIONS — Bond Security
+
+DIRECTION 1: Security estate map
+Visual style: Dark network topology
+Layout approach: Sites, doors and platform lead
+Primary customer journey: Multi-site access-control and CCTV survey qualification
+Signature interactive feature: Security estate mapper
+Why it fits: Fits integrated access control
+Difference from the other demos: Node-based system map
+
+DIRECTION 2: Control room brief
+Visual style: CCTV wall visual language
+Layout approach: Threat and monitoring needs first
+Primary customer journey: Multi-site access-control and CCTV survey qualification
+Signature interactive feature: Coverage matrix
+Why it fits: Fits surveillance projects
+Difference from the other demos: Camera-grid interaction
+
+DIRECTION 3: Migration planner
+Visual style: Technical comparison layout
+Layout approach: Current platform to target platform
+Primary customer journey: Multi-site access-control and CCTV survey qualification
+Signature interactive feature: Migration path preview
+Why it fits: Strong for legacy upgrades
+Difference from the other demos: Before/after platform architecture
+
+SELECTED: Security estate map
+Reason: Fits integrated access control. Node-based system map.

@@ -1,0 +1,28 @@
+CREATIVE DIRECTIONS — Hire Depot
+
+DIRECTION 1: Trade counter catalogue
+Visual style: Safety-yellow modular catalogue
+Layout approach: Equipment category to logistics
+Primary customer journey: Equipment matching with dates, delivery and site-access qualification
+Signature interactive feature: Equipment match planner
+Why it fits: Feels familiar to hire customers
+Difference from the other demos: Product-grid hero and square utilitarian styling
+
+DIRECTION 2: Site logistics board
+Visual style: Map and delivery route aesthetic
+Layout approach: Postcode and access before equipment
+Primary customer journey: Equipment matching with dates, delivery and site-access qualification
+Signature interactive feature: Delivery-readiness check
+Why it fits: Reduces dispatch friction
+Difference from the other demos: Logistics-first interaction
+
+DIRECTION 3: Project kit builder
+Visual style: Checklist-led construction planner
+Layout approach: Project type creates equipment bundle
+Primary customer journey: Equipment matching with dates, delivery and site-access qualification
+Signature interactive feature: Suggested kit summary
+Why it fits: Helps less-experienced hirers
+Difference from the other demos: Bundle creation instead of product browsing
+
+SELECTED: Trade counter catalogue
+Reason: Feels familiar to hire customers. Product-grid hero and square utilitarian styling.

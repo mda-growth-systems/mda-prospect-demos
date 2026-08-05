@@ -1,0 +1,29 @@
+Recipient email
+info@thor-fire.co.uk
+
+Contact person
+Fire and security team — General business inbox
+
+Subject
+Fire impairments, routed clearly
+
+Main message
+Hi Fire and security team,
+
+Thor Fire covers alarms, sprinklers, risers, extinguishers, pumps and security systems nationwide, including 24/7 support.
+
+I built an unofficial concept around fire-system impairment routing and recurring service planning:
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/thor-fire/
+
+Is this close to how your service desk currently prioritises calls?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com/
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/thor-fire/
+MDA Growth Systems URL: https://mdagrowthsystems.com/
+Status: Text prepared; Gmail draft and final public-link verification pending deployment gate.

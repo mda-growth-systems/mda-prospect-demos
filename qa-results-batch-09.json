@@ -1,0 +1,242 @@
+[
+  {
+    "slug": "academy-lifts",
+    "static_broken_links": [],
+    "thank_you_static": true,
+    "desktop": {
+      "overflow": false,
+      "disclaimer": true,
+      "menu_ok": true,
+      "labels": 8,
+      "summary_updated": true,
+      "submit_path": true,
+      "console_errors": []
+    },
+    "mobile": {
+      "overflow": false,
+      "disclaimer": true,
+      "menu_ok": true,
+      "labels": 8,
+      "summary_updated": true,
+      "submit_path": true,
+      "console_errors": []
+    },
+    "passed": true
+  },
+  {
+    "slug": "arch-services",
+    "static_broken_links": [],
+    "thank_you_static": true,
+    "desktop": {
+      "overflow": false,
+      "disclaimer": true,
+      "menu_ok": true,
+      "labels": 8,
+      "summary_updated": true,
+      "submit_path": true,
+      "console_errors": []
+    },
+    "mobile": {
+      "overflow": false,
+      "disclaimer": true,
+      "menu_ok": true,
+      "labels": 8,
+      "summary_updated": true,
+      "submit_path": true,
+      "console_errors": []
+    },
+    "passed": true
+  },
+  {
+    "slug": "bond-security",
+    "static_broken_links": [],
+    "thank_you_static": true,
+    "desktop": {
+      "overflow": false,
+      "disclaimer": true,
+      "menu_ok": true,
+      "labels": 9,
+      "summary_updated": true,
+      "submit_path": true,
+      "console_errors": []
+    },
+    "mobile": {
+      "overflow": false,
+      "disclaimer": true,
+      "menu_ok": true,
+      "labels": 9,
+      "summary_updated": true,
+      "submit_path": true,
+      "console_errors": []
+    },
+    "passed": true
+  },
+  {
+    "slug": "eps-oxford",
+    "static_broken_links": [],
+    "thank_you_static": true,
+    "desktop": {
+      "overflow": false,
+      "disclaimer": true,
+      "menu_ok": true,
+      "labels": 9,
+      "summary_updated": true,
+      "submit_path": true,
+      "console_errors": []
+    },
+    "mobile": {
+      "overflow": false,
+      "disclaimer": true,
+      "menu_ok": true,
+      "labels": 9,
+      "summary_updated": true,
+      "submit_path": true,
+      "console_errors": []
+    },
+    "passed": true
+  },
+  {
+    "slug": "fpf-warehousing",
+    "static_broken_links": [],
+    "thank_you_static": true,
+    "desktop": {
+      "overflow": false,
+      "disclaimer": true,
+      "menu_ok": true,
+      "labels": 9,
+      "summary_updated": true,
+      "submit_path": true,
+      "console_errors": []
+    },
+    "mobile": {
+      "overflow": false,
+      "disclaimer": true,
+      "menu_ok": true,
+      "labels": 9,
+      "summary_updated": true,
+      "submit_path": true,
+      "console_errors": []
+    },
+    "passed": true
+  },
+  {
+    "slug": "hire-depot",
+    "static_broken_links": [],
+    "thank_you_static": true,
+    "desktop": {
+      "overflow": false,
+      "disclaimer": true,
+      "menu_ok": true,
+      "labels": 9,
+      "summary_updated": true,
+      "submit_path": true,
+      "console_errors": []
+    },
+    "mobile": {
+      "overflow": false,
+      "disclaimer": true,
+      "menu_ok": true,
+      "labels": 9,
+      "summary_updated": true,
+      "submit_path": true,
+      "console_errors": []
+    },
+    "passed": true
+  },
+  {
+    "slug": "photon-renewables",
+    "static_broken_links": [],
+    "thank_you_static": true,
+    "desktop": {
+      "overflow": false,
+      "disclaimer": true,
+      "menu_ok": true,
+      "labels": 8,
+      "summary_updated": true,
+      "submit_path": true,
+      "console_errors": []
+    },
+    "mobile": {
+      "overflow": false,
+      "disclaimer": true,
+      "menu_ok": true,
+      "labels": 8,
+      "summary_updated": true,
+      "submit_path": true,
+      "console_errors": []
+    },
+    "passed": true
+  },
+  {
+    "slug": "rolls-refrigeration",
+    "static_broken_links": [],
+    "thank_you_static": true,
+    "desktop": {
+      "overflow": false,
+      "disclaimer": true,
+      "menu_ok": true,
+      "labels": 8,
+      "summary_updated": true,
+      "submit_path": true,
+      "console_errors": []
+    },
+    "mobile": {
+      "overflow": false,
+      "disclaimer": true,
+      "menu_ok": true,
+      "labels": 8,
+      "summary_updated": true,
+      "submit_path": true,
+      "console_errors": []
+    },
+    "passed": true
+  },
+  {
+    "slug": "thomas-nagy",
+    "static_broken_links": [],
+    "thank_you_static": true,
+    "desktop": {
+      "overflow": false,
+      "disclaimer": true,
+      "menu_ok": true,
+      "labels": 9,
+      "summary_updated": true,
+      "submit_path": true,
+      "console_errors": []
+    },
+    "mobile": {
+      "overflow": false,
+      "disclaimer": true,
+      "menu_ok": true,
+      "labels": 9,
+      "summary_updated": true,
+      "submit_path": true,
+      "console_errors": []
+    },
+    "passed": true
+  },
+  {
+    "slug": "thor-fire",
+    "static_broken_links": [],
+    "thank_you_static": true,
+    "desktop": {
+      "overflow": false,
+      "disclaimer": true,
+      "menu_ok": true,
+      "labels": 8,
+      "summary_updated": true,
+      "submit_path": true,
+      "console_errors": []
+    },
+    "mobile": {
+      "overflow": false,
+      "disclaimer": true,
+      "menu_ok": true,
+      "labels": 8,
+      "summary_updated": true,
+      "submit_path": true,
+      "console_errors": []
+    },
+    "passed": true
+  }
+]

@@ -1,0 +1,29 @@
+VERIFICATION NOTES — Rolls Refrigeration
+Date checked: 2026-08-05
+Official website: https://www.rollsrefrigeration.co.uk/
+Industry: Commercial refrigeration repair and maintenance
+Location / coverage: Manchester, Cheshire, Stockport and the North West
+Legal or subscriber type: Rolls Refrigeration Ltd; company registration shown on official website
+Public email: info@rollsrefrigeration.co.uk
+Public phone: 0161 486 0828
+
+Sources checked:
+- https://www.rollsrefrigeration.co.uk/
+- https://www.rollsrefrigeration.co.uk/commercial-maintenance
+- https://www.rollsrefrigeration.co.uk/contact
+
+Observed opportunity:
+The current contact form collects only general contact details and a message, without equipment, temperature, stock-risk or service-contract context.
+
+Primary MDA opportunity:
+Plant-critical fault triage and PPM enquiry routing
+
+Commercial capability assessment: Strong (reasoned assessment, not a claim about finances)
+Prospect score: 91/100
+Duplicate check: No prior MDA contact, demo, GitHub folder or suppression entry found after available Gmail, GitHub and central outreach-log checks on 2026-08-05.
+
+Image and asset notes:
+No external stock photography is used. The hero visual is an original inline SVG illustration created for this private concept and represents only the service category, not staff, premises, vehicles, customers or completed projects.
+
+Public concept rule:
+Internal scoring, duplicate notes and audit criticism are not shown on the public pages.

@@ -30,15 +30,15 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v4
 
-      - name: Expand and save Batch 09 payload
+      - name: Finalize Batch 09 Gmail and outreach records
         shell: bash
         run: |
           set -euo pipefail
-          if [ -d batch-09-payload-v2 ]; then
-            cat batch-09-payload-v2/chunk-* > /tmp/batch-09.tar.gz.b64
-            base64 --decode /tmp/batch-09.tar.gz.b64 > /tmp/batch-09.tar.gz
-            tar -xzf /tmp/batch-09.tar.gz
-            rm -rf batch-09-payload-v2 batch-09-payload
+          if [ -d batch-09-finalize-payload ]; then
+            cat batch-09-finalize-payload/chunk-* > /tmp/batch-09-finalize.tar.gz.b64
+            base64 --decode /tmp/batch-09-finalize.tar.gz.b64 > /tmp/batch-09-finalize.tar.gz
+            tar -xzf /tmp/batch-09-finalize.tar.gz
+            rm -rf batch-09-finalize-payload
             python - <<'PY'
           import csv
           from pathlib import Path
@@ -70,7 +70,7 @@ jobs:
             git config user.name "mda-growth-systems"
             git config user.email "michael@mdagrowthsystems.info"
             git add -A
-            git commit -m "Add Batch 09 prospect demos and outreach records [skip ci]"
+            git commit -m "Finalize Batch 09 Gmail draft and outreach status [skip ci]"
             git push
           fi
 
@@ -130,5 +130,5 @@ jobs:
           git config user.name "mda-growth-systems"
           git config user.email "michael@mdagrowthsystems.info"
           git add pages-verification-batch-09.txt
-          git commit -m "Verify Batch 09 public pages [skip ci]" || exit 0
+          git commit -m "Verify finalized Batch 09 public pages [skip ci]" || exit 0
           git push

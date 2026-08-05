@@ -1,78 +1,19 @@
-=== 1. Rolls Refrigeration — FIRST CONTACT ===
-info@rollsrefrigeration.co.uk
-Cold-room faults, scoped upfront
-Hi Refrigeration service team,
+Batch 09 Gmail status
+Exactly 20 drafts created in connected Gmail: 10 first-contact and 10 standalone Re: follow-ups. No email sent. Genuine threading remains pending until originals are sent.
 
-Rolls supports cold rooms, walk-ins, displays and air conditioning across the North West, where a temperature fault can quickly become a stock and service issue.
-
-I built an unofficial concept around plant-critical fault triage and ppm enquiry routing:
-https://mda-growth-systems.github.io/mda-prospect-demos/prospects/rolls-refrigeration/
-
-Would this make first-response triage easier for your team?
-
-Michael
-MDA Growth Systems
-https://mdagrowthsystems.com/
-
-Not relevant? Reply “no thanks” and I will not contact you again.
-
-=== 1. Rolls Refrigeration — FOLLOW-UP ===
-info@rollsrefrigeration.co.uk
-Re: Cold-room faults, scoped upfront
-Hi Refrigeration service team,
-
-A quick follow-up on the personalised concept:
-https://mda-growth-systems.github.io/mda-prospect-demos/prospects/rolls-refrigeration/
-
-The stock-risk and current-temperature fields could help your team distinguish an urgent call-out from a planned maintenance request before the callback.
-
-Worth a brief look?
-
-Michael
-MDA Growth Systems
-https://mdagrowthsystems.com/
-
-Not relevant? Reply “no thanks” and I will not contact you again.
-
-=== 2. Thor Fire — FIRST CONTACT ===
-info@thor-fire.co.uk
-Fire impairments, routed clearly
-Hi Fire and security team,
-
-Thor Fire covers alarms, sprinklers, risers, extinguishers, pumps and security systems nationwide, including 24/7 support.
-
-I built an unofficial concept around fire-system impairment routing and recurring service planning:
-https://mda-growth-systems.github.io/mda-prospect-demos/prospects/thor-fire/
-
-Is this close to how your service desk currently prioritises calls?
-
-Michael
-MDA Growth Systems
-https://mdagrowthsystems.com/
-
-Not relevant? Reply “no thanks” and I will not contact you again.
-
-=== 2. Thor Fire — FOLLOW-UP ===
-info@thor-fire.co.uk
-Re: Fire impairments, routed clearly
-Hi Fire and security team,
-
-A quick follow-up on the personalised concept:
-https://mda-growth-systems.github.io/mda-prospect-demos/prospects/thor-fire/
-
-The impairment-status question gives your team an immediate view of whether a system is offline, partially affected or simply due for service.
-
-Worth a brief look?
-
-Michael
-MDA Growth Systems
-https://mdagrowthsystems.com/
-
-Not relevant? Reply “no thanks” and I will not contact you again.
-
-=== 3. Academy Lifts — FIRST CONTACT ===
+========================================================================
+academy-lifts — FIRST CONTACT
+========================================================================
+Recipient email
 info@academylift.co.uk
+
+Contact person
+Lift support team — General business inbox
+
+Subject
 Lift downtime, diagnosed sooner
+
+Main message
 Hi Lift support team,
 
 Academy supports passenger, goods, platform and service lifts across commercial, residential and public-sector buildings throughout the UK.
@@ -88,9 +29,24 @@ https://mdagrowthsystems.com/
 
 Not relevant? Reply “no thanks” and I will not contact you again.
 
-=== 3. Academy Lifts — FOLLOW-UP ===
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/academy-lifts/
+MDA Growth Systems URL: https://mdagrowthsystems.com/
+Status: Public prospect demo and MDA website verified at 2026-08-05T11:18:42Z; Gmail first-contact draft created; not sent.
+
+========================================================================
+academy-lifts — FOLLOW-UP
+========================================================================
+Recipient email
 info@academylift.co.uk
+
+Intended subject
 Re: Lift downtime, diagnosed sooner
+
+Follow-up timing
+Five business days after the approved first email is sent.
+
+Main message
 Hi Lift support team,
 
 A quick follow-up on the personalised concept:
@@ -106,117 +62,27 @@ https://mdagrowthsystems.com/
 
 Not relevant? Reply “no thanks” and I will not contact you again.
 
-=== 4. Hire Depot — FIRST CONTACT ===
-info@hire-depot.com
-Hire requests, ready for dispatch
-Hi Hire desk,
+Threading status
+Prepared — genuine Gmail reply-thread creation pending until the original first email is sent.
 
-Hire Depot supplies plant, non-mechanical equipment and tools from Ascot, with collection or delivery and next-day availability on suitable stock.
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/academy-lifts/
+MDA Growth Systems URL: https://mdagrowthsystems.com/
+Status: Public prospect demo and MDA website verified at 2026-08-05T11:18:42Z; follow-up text prepared; genuine Gmail reply-thread creation pending until the original first email is sent.
 
-I built an unofficial concept around equipment matching with dates, delivery and site-access qualification:
-https://mda-growth-systems.github.io/mda-prospect-demos/prospects/hire-depot/
-
-Worth a quick look?
-
-Michael
-MDA Growth Systems
-https://mdagrowthsystems.com/
-
-Not relevant? Reply “no thanks” and I will not contact you again.
-
-=== 4. Hire Depot — FOLLOW-UP ===
-info@hire-depot.com
-Re: Hire requests, ready for dispatch
-Hi Hire desk,
-
-A quick follow-up on the personalised concept:
-https://mda-growth-systems.github.io/mda-prospect-demos/prospects/hire-depot/
-
-Adding delivery access and hire dates upfront could prevent the hire desk from chasing basic logistics before confirming availability.
-
-Worth a brief look?
-
-Michael
-MDA Growth Systems
-https://mdagrowthsystems.com/
-
-Not relevant? Reply “no thanks” and I will not contact you again.
-
-=== 5. Photon Renewables — FIRST CONTACT ===
-info@photon-renewables.co.uk
-Commercial solar, qualified earlier
-Hi Renewables team,
-
-Photon combines commercial solar, batteries and EV charging, so the strongest first conversation starts with the building and its energy profile—not a generic quote box.
-
-I built an unofficial concept around commercial solar and battery feasibility qualification:
-https://mda-growth-systems.github.io/mda-prospect-demos/prospects/photon-renewables/
-
-Should I send over the key changes I mapped out?
-
-Michael
-MDA Growth Systems
-https://mdagrowthsystems.com/
-
-Not relevant? Reply “no thanks” and I will not contact you again.
-
-=== 5. Photon Renewables — FOLLOW-UP ===
-info@photon-renewables.co.uk
-Re: Commercial solar, qualified earlier
-Hi Renewables team,
-
-A quick follow-up on the personalised concept:
-https://mda-growth-systems.github.io/mda-prospect-demos/prospects/photon-renewables/
-
-The roof-context and annual-energy fields could help identify which enquiries are ready for a feasibility conversation and which need more information first.
-
-Worth a brief look?
-
-Michael
-MDA Growth Systems
-https://mdagrowthsystems.com/
-
-Not relevant? Reply “no thanks” and I will not contact you again.
-
-=== 6. Bond Security — FIRST CONTACT ===
-info@bondsecurityltd.co.uk
-Access-control surveys, better briefed
-Hi Commercial security team,
-
-Bond Security specialises in commercial access control, CCTV and door automation, including Hirsch Identiv and Galaxy systems.
-
-I built an unofficial concept around multi-site access-control and cctv survey qualification:
-https://mda-growth-systems.github.io/mda-prospect-demos/prospects/bond-security/
-
-Would this make site surveys easier to prepare for?
-
-Michael
-MDA Growth Systems
-https://mdagrowthsystems.com/
-
-Not relevant? Reply “no thanks” and I will not contact you again.
-
-=== 6. Bond Security — FOLLOW-UP ===
-info@bondsecurityltd.co.uk
-Re: Access-control surveys, better briefed
-Hi Commercial security team,
-
-A quick follow-up on the personalised concept:
-https://mda-growth-systems.github.io/mda-prospect-demos/prospects/bond-security/
-
-The existing-platform field could separate an extension or migration project from a completely new installation before the survey is booked.
-
-Worth a brief look?
-
-Michael
-MDA Growth Systems
-https://mdagrowthsystems.com/
-
-Not relevant? Reply “no thanks” and I will not contact you again.
-
-=== 7. Arch Services — FIRST CONTACT ===
+========================================================================
+arch-services — FIRST CONTACT
+========================================================================
+Recipient email
 info@archservices.co.uk
+
+Contact person
+Commercial drainage team — General business inbox
+
+Subject
 Drainage surveys, scoped before arrival
+
+Main message
 Hi Commercial drainage team,
 
 Arch covers commercial blockages, CCTV surveys, liquid waste, traffic management, no-dig work and civil engineering across multiple regions.
@@ -232,9 +98,24 @@ https://mdagrowthsystems.com/
 
 Not relevant? Reply “no thanks” and I will not contact you again.
 
-=== 7. Arch Services — FOLLOW-UP ===
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/arch-services/
+MDA Growth Systems URL: https://mdagrowthsystems.com/
+Status: Public prospect demo and MDA website verified at 2026-08-05T11:18:42Z; Gmail first-contact draft created; not sent.
+
+========================================================================
+arch-services — FOLLOW-UP
+========================================================================
+Recipient email
 info@archservices.co.uk
+
+Intended subject
 Re: Drainage surveys, scoped before arrival
+
+Follow-up timing
+Five business days after the approved first email is sent.
+
+Main message
 Hi Commercial drainage team,
 
 A quick follow-up on the personalised concept:
@@ -250,9 +131,96 @@ https://mdagrowthsystems.com/
 
 Not relevant? Reply “no thanks” and I will not contact you again.
 
-=== 8. Event Production Services — FIRST CONTACT ===
+Threading status
+Prepared — genuine Gmail reply-thread creation pending until the original first email is sent.
+
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/arch-services/
+MDA Growth Systems URL: https://mdagrowthsystems.com/
+Status: Public prospect demo and MDA website verified at 2026-08-05T11:18:42Z; follow-up text prepared; genuine Gmail reply-thread creation pending until the original first email is sent.
+
+========================================================================
+bond-security — FIRST CONTACT
+========================================================================
+Recipient email
+info@bondsecurityltd.co.uk
+
+Contact person
+Commercial security team — General business inbox
+
+Subject
+Access-control surveys, better briefed
+
+Main message
+Hi Commercial security team,
+
+Bond Security specialises in commercial access control, CCTV and door automation, including Hirsch Identiv and Galaxy systems.
+
+I built an unofficial concept around multi-site access-control and cctv survey qualification:
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/bond-security/
+
+Would this make site surveys easier to prepare for?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com/
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/bond-security/
+MDA Growth Systems URL: https://mdagrowthsystems.com/
+Status: Public prospect demo and MDA website verified at 2026-08-05T11:18:42Z; Gmail first-contact draft created; not sent.
+
+========================================================================
+bond-security — FOLLOW-UP
+========================================================================
+Recipient email
+info@bondsecurityltd.co.uk
+
+Intended subject
+Re: Access-control surveys, better briefed
+
+Follow-up timing
+Five business days after the approved first email is sent.
+
+Main message
+Hi Commercial security team,
+
+A quick follow-up on the personalised concept:
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/bond-security/
+
+The existing-platform field could separate an extension or migration project from a completely new installation before the survey is booked.
+
+Worth a brief look?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com/
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Threading status
+Prepared — genuine Gmail reply-thread creation pending until the original first email is sent.
+
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/bond-security/
+MDA Growth Systems URL: https://mdagrowthsystems.com/
+Status: Public prospect demo and MDA website verified at 2026-08-05T11:18:42Z; follow-up text prepared; genuine Gmail reply-thread creation pending until the original first email is sent.
+
+========================================================================
+eps-oxford — FIRST CONTACT
+========================================================================
+Recipient email
 info@epsoxford.com
+
+Contact person
+Production team — General business inbox
+
+Subject
 Event briefs, production-ready
+
+Main message
 Hi Production team,
 
 EPS handles hire, full technical production, AV installation, venue services and crew from Oxfordshire for events nationwide.
@@ -268,9 +236,24 @@ https://mdagrowthsystems.com/
 
 Not relevant? Reply “no thanks” and I will not contact you again.
 
-=== 8. Event Production Services — FOLLOW-UP ===
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/eps-oxford/
+MDA Growth Systems URL: https://mdagrowthsystems.com/
+Status: Public prospect demo and MDA website verified at 2026-08-05T11:18:42Z; Gmail first-contact draft created; not sent.
+
+========================================================================
+eps-oxford — FOLLOW-UP
+========================================================================
+Recipient email
 info@epsoxford.com
+
+Intended subject
 Re: Event briefs, production-ready
+
+Follow-up timing
+Five business days after the approved first email is sent.
+
+Main message
 Hi Production team,
 
 A quick follow-up on the personalised concept:
@@ -286,9 +269,27 @@ https://mdagrowthsystems.com/
 
 Not relevant? Reply “no thanks” and I will not contact you again.
 
-=== 9. FPF Warehousing — FIRST CONTACT ===
+Threading status
+Prepared — genuine Gmail reply-thread creation pending until the original first email is sent.
+
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/eps-oxford/
+MDA Growth Systems URL: https://mdagrowthsystems.com/
+Status: Public prospect demo and MDA website verified at 2026-08-05T11:18:42Z; follow-up text prepared; genuine Gmail reply-thread creation pending until the original first email is sent.
+
+========================================================================
+fpf-warehousing — FIRST CONTACT
+========================================================================
+Recipient email
 sales@fpfw.co.uk
+
+Contact person
+Sales team — Sales inbox
+
+Subject
 Warehousing quotes, complete first time
+
+Main message
 Hi Sales team,
 
 FPF combines pallet storage, container devanning, fulfilment, consolidation, Amazon FBA and UK distribution from its Hampshire facility.
@@ -304,9 +305,24 @@ https://mdagrowthsystems.com/
 
 Not relevant? Reply “no thanks” and I will not contact you again.
 
-=== 9. FPF Warehousing — FOLLOW-UP ===
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/fpf-warehousing/
+MDA Growth Systems URL: https://mdagrowthsystems.com/
+Status: Public prospect demo and MDA website verified at 2026-08-05T11:18:42Z; Gmail first-contact draft created; not sent.
+
+========================================================================
+fpf-warehousing — FOLLOW-UP
+========================================================================
+Recipient email
 sales@fpfw.co.uk
+
+Intended subject
 Re: Warehousing quotes, complete first time
+
+Follow-up timing
+Five business days after the approved first email is sent.
+
+Main message
 Hi Sales team,
 
 A quick follow-up on the personalised concept:
@@ -322,9 +338,234 @@ https://mdagrowthsystems.com/
 
 Not relevant? Reply “no thanks” and I will not contact you again.
 
-=== 10. Thomas Nagy Ltd — FIRST CONTACT ===
+Threading status
+Prepared — genuine Gmail reply-thread creation pending until the original first email is sent.
+
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/fpf-warehousing/
+MDA Growth Systems URL: https://mdagrowthsystems.com/
+Status: Public prospect demo and MDA website verified at 2026-08-05T11:18:42Z; follow-up text prepared; genuine Gmail reply-thread creation pending until the original first email is sent.
+
+========================================================================
+hire-depot — FIRST CONTACT
+========================================================================
+Recipient email
+info@hire-depot.com
+
+Contact person
+Hire desk — General business inbox
+
+Subject
+Hire requests, ready for dispatch
+
+Main message
+Hi Hire desk,
+
+Hire Depot supplies plant, non-mechanical equipment and tools from Ascot, with collection or delivery and next-day availability on suitable stock.
+
+I built an unofficial concept around equipment matching with dates, delivery and site-access qualification:
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/hire-depot/
+
+Worth a quick look?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com/
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/hire-depot/
+MDA Growth Systems URL: https://mdagrowthsystems.com/
+Status: Public prospect demo and MDA website verified at 2026-08-05T11:18:42Z; Gmail first-contact draft created; not sent.
+
+========================================================================
+hire-depot — FOLLOW-UP
+========================================================================
+Recipient email
+info@hire-depot.com
+
+Intended subject
+Re: Hire requests, ready for dispatch
+
+Follow-up timing
+Five business days after the approved first email is sent.
+
+Main message
+Hi Hire desk,
+
+A quick follow-up on the personalised concept:
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/hire-depot/
+
+Adding delivery access and hire dates upfront could prevent the hire desk from chasing basic logistics before confirming availability.
+
+Worth a brief look?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com/
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Threading status
+Prepared — genuine Gmail reply-thread creation pending until the original first email is sent.
+
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/hire-depot/
+MDA Growth Systems URL: https://mdagrowthsystems.com/
+Status: Public prospect demo and MDA website verified at 2026-08-05T11:18:42Z; follow-up text prepared; genuine Gmail reply-thread creation pending until the original first email is sent.
+
+========================================================================
+photon-renewables — FIRST CONTACT
+========================================================================
+Recipient email
+info@photon-renewables.co.uk
+
+Contact person
+Renewables team — General business inbox
+
+Subject
+Commercial solar, qualified earlier
+
+Main message
+Hi Renewables team,
+
+Photon combines commercial solar, batteries and EV charging, so the strongest first conversation starts with the building and its energy profile—not a generic quote box.
+
+I built an unofficial concept around commercial solar and battery feasibility qualification:
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/photon-renewables/
+
+Should I send over the key changes I mapped out?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com/
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/photon-renewables/
+MDA Growth Systems URL: https://mdagrowthsystems.com/
+Status: Public prospect demo and MDA website verified at 2026-08-05T11:18:42Z; Gmail first-contact draft created; not sent.
+
+========================================================================
+photon-renewables — FOLLOW-UP
+========================================================================
+Recipient email
+info@photon-renewables.co.uk
+
+Intended subject
+Re: Commercial solar, qualified earlier
+
+Follow-up timing
+Five business days after the approved first email is sent.
+
+Main message
+Hi Renewables team,
+
+A quick follow-up on the personalised concept:
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/photon-renewables/
+
+The roof-context and annual-energy fields could help identify which enquiries are ready for a feasibility conversation and which need more information first.
+
+Worth a brief look?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com/
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Threading status
+Prepared — genuine Gmail reply-thread creation pending until the original first email is sent.
+
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/photon-renewables/
+MDA Growth Systems URL: https://mdagrowthsystems.com/
+Status: Public prospect demo and MDA website verified at 2026-08-05T11:18:42Z; follow-up text prepared; genuine Gmail reply-thread creation pending until the original first email is sent.
+
+========================================================================
+rolls-refrigeration — FIRST CONTACT
+========================================================================
+Recipient email
+info@rollsrefrigeration.co.uk
+
+Contact person
+Refrigeration service team — General business inbox
+
+Subject
+Cold-room faults, scoped upfront
+
+Main message
+Hi Refrigeration service team,
+
+Rolls supports cold rooms, walk-ins, displays and air conditioning across the North West, where a temperature fault can quickly become a stock and service issue.
+
+I built an unofficial concept around plant-critical fault triage and ppm enquiry routing:
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/rolls-refrigeration/
+
+Would this make first-response triage easier for your team?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com/
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/rolls-refrigeration/
+MDA Growth Systems URL: https://mdagrowthsystems.com/
+Status: Public prospect demo and MDA website verified at 2026-08-05T11:18:42Z; Gmail first-contact draft created; not sent.
+
+========================================================================
+rolls-refrigeration — FOLLOW-UP
+========================================================================
+Recipient email
+info@rollsrefrigeration.co.uk
+
+Intended subject
+Re: Cold-room faults, scoped upfront
+
+Follow-up timing
+Five business days after the approved first email is sent.
+
+Main message
+Hi Refrigeration service team,
+
+A quick follow-up on the personalised concept:
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/rolls-refrigeration/
+
+The stock-risk and current-temperature fields could help your team distinguish an urgent call-out from a planned maintenance request before the callback.
+
+Worth a brief look?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com/
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Threading status
+Prepared — genuine Gmail reply-thread creation pending until the original first email is sent.
+
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/rolls-refrigeration/
+MDA Growth Systems URL: https://mdagrowthsystems.com/
+Status: Public prospect demo and MDA website verified at 2026-08-05T11:18:42Z; follow-up text prepared; genuine Gmail reply-thread creation pending until the original first email is sent.
+
+========================================================================
+thomas-nagy — FIRST CONTACT
+========================================================================
+Recipient email
 info@thomasnagy.uk
+
+Contact person
+Commercial projects team — General business inbox
+
+Subject
 Live-site electrical briefs, organised
+
+Main message
 Hi Commercial projects team,
 
 Thomas Nagy works across commercial facilities, highways and rail, where access, shutdowns and compliance dates can shape the job before an engineer attends.
@@ -340,9 +581,24 @@ https://mdagrowthsystems.com/
 
 Not relevant? Reply “no thanks” and I will not contact you again.
 
-=== 10. Thomas Nagy Ltd — FOLLOW-UP ===
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/thomas-nagy/
+MDA Growth Systems URL: https://mdagrowthsystems.com/
+Status: Public prospect demo and MDA website verified at 2026-08-05T11:18:42Z; Gmail first-contact draft created; not sent.
+
+========================================================================
+thomas-nagy — FOLLOW-UP
+========================================================================
+Recipient email
 info@thomasnagy.uk
+
+Intended subject
 Re: Live-site electrical briefs, organised
+
+Follow-up timing
+Five business days after the approved first email is sent.
+
+Main message
 Hi Commercial projects team,
 
 A quick follow-up on the personalised concept:
@@ -357,3 +613,80 @@ MDA Growth Systems
 https://mdagrowthsystems.com/
 
 Not relevant? Reply “no thanks” and I will not contact you again.
+
+Threading status
+Prepared — genuine Gmail reply-thread creation pending until the original first email is sent.
+
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/thomas-nagy/
+MDA Growth Systems URL: https://mdagrowthsystems.com/
+Status: Public prospect demo and MDA website verified at 2026-08-05T11:18:42Z; follow-up text prepared; genuine Gmail reply-thread creation pending until the original first email is sent.
+
+========================================================================
+thor-fire — FIRST CONTACT
+========================================================================
+Recipient email
+info@thor-fire.co.uk
+
+Contact person
+Fire and security team — General business inbox
+
+Subject
+Fire impairments, routed clearly
+
+Main message
+Hi Fire and security team,
+
+Thor Fire covers alarms, sprinklers, risers, extinguishers, pumps and security systems nationwide, including 24/7 support.
+
+I built an unofficial concept around fire-system impairment routing and recurring service planning:
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/thor-fire/
+
+Is this close to how your service desk currently prioritises calls?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com/
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/thor-fire/
+MDA Growth Systems URL: https://mdagrowthsystems.com/
+Status: Public prospect demo and MDA website verified at 2026-08-05T11:18:42Z; Gmail first-contact draft created; not sent.
+
+========================================================================
+thor-fire — FOLLOW-UP
+========================================================================
+Recipient email
+info@thor-fire.co.uk
+
+Intended subject
+Re: Fire impairments, routed clearly
+
+Follow-up timing
+Five business days after the approved first email is sent.
+
+Main message
+Hi Fire and security team,
+
+A quick follow-up on the personalised concept:
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/thor-fire/
+
+The impairment-status question gives your team an immediate view of whether a system is offline, partially affected or simply due for service.
+
+Worth a brief look?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com/
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Threading status
+Prepared — genuine Gmail reply-thread creation pending until the original first email is sent.
+
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/thor-fire/
+MDA Growth Systems URL: https://mdagrowthsystems.com/
+Status: Public prospect demo and MDA website verified at 2026-08-05T11:18:42Z; follow-up text prepared; genuine Gmail reply-thread creation pending until the original first email is sent.

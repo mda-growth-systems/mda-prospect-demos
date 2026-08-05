@@ -15,5 +15,5 @@ QA CHECKLIST — Process Control Panels Ltd
 [PASS] SEO title, description and heading structure
 [PASS] No external JavaScript or asset dependency
 [PASS] Unofficial concept disclaimer
-[PENDING] Signed-out public HTTPS verification after GitHub deployment
+[PASS] Signed-out public HTTPS verification after GitHub deployment
 [PENDING] Manual visual review in a full browser across common device widths

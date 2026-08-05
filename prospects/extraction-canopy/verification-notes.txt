@@ -20,4 +20,6 @@ Asset notes:
 - No staff, premises, vehicles, client logos, awards or project images were invented.
 - No third-party stock imagery or externally hosted assets are used.
 
-Public deployment: pending.
+Public deployment: PASS — https://mda-growth-systems.github.io/mda-prospect-demos/prospects/extraction-canopy/ verified signed out at 2026-08-05T20:45:25Z.
+
+Gmail first-contact draft: Created in Gmail; not sent.

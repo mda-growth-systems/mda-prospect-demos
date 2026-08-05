@@ -25,4 +25,4 @@ Not relevant? Reply “no thanks” and I will not contact you again.
 Links verified
 Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/doorcheck-fire-door-inspections/
 MDA Growth Systems URL: https://mdagrowthsystems.com/
-Public verification: pending GitHub Pages deployment and signed-out HTTPS test.
+Public verification: PASS — GitHub Pages signed-out HTTPS workflow verified the demo and MDA link at 2026-08-05T20:45:25Z.

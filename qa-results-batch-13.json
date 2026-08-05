@@ -245,5 +245,11 @@
       },
       "passed": true
     }
-  ]
+  ],
+  "public_deployment": "PASS",
+  "signed_out_link_verification": "PASS",
+  "verified_utc": "2026-08-05T20:45:25Z",
+  "gmail_first_contact_drafts": 10,
+  "gmail_follow_up_threaded_drafts": 0,
+  "external_emails_sent": 0
 }

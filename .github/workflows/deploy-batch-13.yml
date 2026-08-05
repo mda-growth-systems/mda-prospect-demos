@@ -32,7 +32,16 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          cat batch-13-payload/chunk-* > /tmp/batch-13.tar.gz.b64
+          cat \
+            batch-13-payload/chunk-00 \
+            batch-13-payload/chunk-01 \
+            batch-13-payload/repair-02a \
+            batch-13-payload/repair-02b \
+            batch-13-payload/repair-02c \
+            batch-13-payload/repair-02d \
+            batch-13-payload/chunk-03 \
+            batch-13-payload/chunk-04 \
+            > /tmp/batch-13.tar.gz.b64
           base64 --decode /tmp/batch-13.tar.gz.b64 > /tmp/batch-13.tar.gz
           echo "cd72e5f81e04c95318cd9444a171a868c4009714c92946b493ecd270552e2e0f  /tmp/batch-13.tar.gz" | sha256sum -c -
           gzip -t /tmp/batch-13.tar.gz

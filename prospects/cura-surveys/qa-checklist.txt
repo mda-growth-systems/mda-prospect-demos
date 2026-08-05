@@ -1,0 +1,16 @@
+QA CHECKLIST
+[x] Correct business name and contact details
+[x] No other prospect name or placeholder remains
+[x] Navigation and mobile menu work
+[x] Signature interaction updates the live preview
+[x] Form labels and required fields work
+[x] Confirmation page loads
+[x] No horizontal mobile overflow
+[x] No console errors
+[x] Official phone, email and website links are correct
+[x] Prospect demo and MDA links publicly tested before Gmail draft creation
+[x] Disclaimer visible
+[x] No internal score, affordability or criticism appears publicly
+[x] No sensitive data is transmitted or stored
+
+Local browser QA completed: 2026-08-05. Desktop 1440×900 and mobile 390×844 passed. Public-link checks remain gated on GitHub Pages deployment.

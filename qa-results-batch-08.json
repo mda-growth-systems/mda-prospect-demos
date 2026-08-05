@@ -1,0 +1,232 @@
+[
+  {
+    "slug": "aqua-ease",
+    "desktop": {
+      "overflow": false,
+      "console_errors": [],
+      "title": "Aqua Ease | Compliance timeline concept",
+      "summary": "Single property \u00b7 Risk assessment \u00b7 New requirement \u00b7 Urgent",
+      "menu_open": true,
+      "confirmation_ok": true,
+      "screenshot": "/mnt/data/mda-batch-08/screenshots/aqua-ease-desktop.png"
+    },
+    "mobile": {
+      "overflow": false,
+      "console_errors": [],
+      "title": "Aqua Ease | Compliance timeline concept",
+      "summary": "Single property \u00b7 Risk assessment \u00b7 New requirement \u00b7 Urgent",
+      "menu_open": true,
+      "confirmation_ok": true,
+      "screenshot": "/mnt/data/mda-batch-08/screenshots/aqua-ease-mobile.png"
+    },
+    "pass": true,
+    "errors": []
+  },
+  {
+    "slug": "cura-surveys",
+    "desktop": {
+      "overflow": false,
+      "console_errors": [],
+      "title": "Cura Surveys | Deliverables configurator concept",
+      "summary": "Feasibility or acquisition \u00b7 Drainage CCTV \u00b7 Single building \u00b7 PDF report",
+      "menu_open": true,
+      "confirmation_ok": true,
+      "screenshot": "/mnt/data/mda-batch-08/screenshots/cura-surveys-desktop.png"
+    },
+    "mobile": {
+      "overflow": false,
+      "console_errors": [],
+      "title": "Cura Surveys | Deliverables configurator concept",
+      "summary": "Feasibility or acquisition \u00b7 Drainage CCTV \u00b7 Single building \u00b7 PDF report",
+      "menu_open": true,
+      "confirmation_ok": true,
+      "screenshot": "/mnt/data/mda-batch-08/screenshots/cura-surveys-mobile.png"
+    },
+    "pass": true,
+    "errors": []
+  },
+  {
+    "slug": "door-maintenance-co",
+    "desktop": {
+      "overflow": false,
+      "console_errors": [],
+      "title": "Door Maintenance Co | Door fault triage concept",
+      "summary": "Roller shutter \u00b7 Stuck open \u00b7 Site unsecured \u00b7 24-hour access",
+      "menu_open": true,
+      "confirmation_ok": true,
+      "screenshot": "/mnt/data/mda-batch-08/screenshots/door-maintenance-co-desktop.png"
+    },
+    "mobile": {
+      "overflow": false,
+      "console_errors": [],
+      "title": "Door Maintenance Co | Door fault triage concept",
+      "summary": "Roller shutter \u00b7 Stuck open \u00b7 Site unsecured \u00b7 24-hour access",
+      "menu_open": true,
+      "confirmation_ok": true,
+      "screenshot": "/mnt/data/mda-batch-08/screenshots/door-maintenance-co-mobile.png"
+    },
+    "pass": true,
+    "errors": []
+  },
+  {
+    "slug": "harlequin-pest-control",
+    "desktop": {
+      "overflow": false,
+      "console_errors": [],
+      "title": "Harlequin Pest Control | Pest risk route concept",
+      "summary": "Food or hospitality \u00b7 Active infestation \u00b7 One site \u00b7 Standard service report",
+      "menu_open": true,
+      "confirmation_ok": true,
+      "screenshot": "/mnt/data/mda-batch-08/screenshots/harlequin-pest-control-desktop.png"
+    },
+    "mobile": {
+      "overflow": false,
+      "console_errors": [],
+      "title": "Harlequin Pest Control | Pest risk route concept",
+      "summary": "Food or hospitality \u00b7 Active infestation \u00b7 One site \u00b7 Standard service report",
+      "menu_open": true,
+      "confirmation_ok": true,
+      "screenshot": "/mnt/data/mda-batch-08/screenshots/harlequin-pest-control-mobile.png"
+    },
+    "pass": true,
+    "errors": []
+  },
+  {
+    "slug": "intielectric",
+    "desktop": {
+      "overflow": false,
+      "console_errors": [],
+      "title": "Intielectric Ltd | Shutdown planner concept",
+      "summary": "Early feasibility \u00b7 Office or retail \u00b7 No shutdown available \u00b7 Power and distribution",
+      "menu_open": true,
+      "confirmation_ok": true,
+      "screenshot": "/mnt/data/mda-batch-08/screenshots/intielectric-desktop.png"
+    },
+    "mobile": {
+      "overflow": false,
+      "console_errors": [],
+      "title": "Intielectric Ltd | Shutdown planner concept",
+      "summary": "Early feasibility \u00b7 Office or retail \u00b7 No shutdown available \u00b7 Power and distribution",
+      "menu_open": true,
+      "confirmation_ok": true,
+      "screenshot": "/mnt/data/mda-batch-08/screenshots/intielectric-mobile.png"
+    },
+    "pass": true,
+    "errors": []
+  },
+  {
+    "slug": "mc-refrigeration",
+    "desktop": {
+      "overflow": false,
+      "console_errors": [],
+      "title": "MC Refrigeration | Cold-chain alarm board concept",
+      "summary": "Cold room \u00b7 Not cooling \u00b7 Immediate stock risk \u00b7 Open trading site",
+      "menu_open": true,
+      "confirmation_ok": true,
+      "screenshot": "/mnt/data/mda-batch-08/screenshots/mc-refrigeration-desktop.png"
+    },
+    "mobile": {
+      "overflow": false,
+      "console_errors": [],
+      "title": "MC Refrigeration | Cold-chain alarm board concept",
+      "summary": "Cold room \u00b7 Not cooling \u00b7 Immediate stock risk \u00b7 Open trading site",
+      "menu_open": true,
+      "confirmation_ok": true,
+      "screenshot": "/mnt/data/mda-batch-08/screenshots/mc-refrigeration-mobile.png"
+    },
+    "pass": true,
+    "errors": []
+  },
+  {
+    "slug": "one-group-services",
+    "desktop": {
+      "overflow": false,
+      "console_errors": [],
+      "title": "One Group Services | Site scope planner concept",
+      "summary": "Factory or warehouse \u00b7 Routine planned clean \u00b7 Single area \u00b7 Working hours",
+      "menu_open": true,
+      "confirmation_ok": true,
+      "screenshot": "/mnt/data/mda-batch-08/screenshots/one-group-services-desktop.png"
+    },
+    "mobile": {
+      "overflow": false,
+      "console_errors": [],
+      "title": "One Group Services | Site scope planner concept",
+      "summary": "Factory or warehouse \u00b7 Routine planned clean \u00b7 Single area \u00b7 Working hours",
+      "menu_open": true,
+      "confirmation_ok": true,
+      "screenshot": "/mnt/data/mda-batch-08/screenshots/one-group-services-mobile.png"
+    },
+    "pass": true,
+    "errors": []
+  },
+  {
+    "slug": "stageworks-events",
+    "desktop": {
+      "overflow": false,
+      "console_errors": [],
+      "title": "Stageworks Events | Event brief builder concept",
+      "summary": "Corporate event \u00b7 Under 100 \u00b7 Sound only \u00b7 Venue confirmed",
+      "menu_open": true,
+      "confirmation_ok": true,
+      "screenshot": "/mnt/data/mda-batch-08/screenshots/stageworks-events-desktop.png"
+    },
+    "mobile": {
+      "overflow": false,
+      "console_errors": [],
+      "title": "Stageworks Events | Event brief builder concept",
+      "summary": "Corporate event \u00b7 Under 100 \u00b7 Sound only \u00b7 Venue confirmed",
+      "menu_open": true,
+      "confirmation_ok": true,
+      "screenshot": "/mnt/data/mda-batch-08/screenshots/stageworks-events-mobile.png"
+    },
+    "pass": true,
+    "errors": []
+  },
+  {
+    "slug": "thomas-fire-consultancy",
+    "desktop": {
+      "overflow": false,
+      "console_errors": [],
+      "title": "Thomas Fire Consultancy | Compliance pathway concept",
+      "summary": "Risk assessment \u00b7 Office or retail \u00b7 First assessment \u00b7 Occupied and operating",
+      "menu_open": true,
+      "confirmation_ok": true,
+      "screenshot": "/mnt/data/mda-batch-08/screenshots/thomas-fire-consultancy-desktop.png"
+    },
+    "mobile": {
+      "overflow": false,
+      "console_errors": [],
+      "title": "Thomas Fire Consultancy | Compliance pathway concept",
+      "summary": "Risk assessment \u00b7 Office or retail \u00b7 First assessment \u00b7 Occupied and operating",
+      "menu_open": true,
+      "confirmation_ok": true,
+      "screenshot": "/mnt/data/mda-batch-08/screenshots/thomas-fire-consultancy-mobile.png"
+    },
+    "pass": true,
+    "errors": []
+  },
+  {
+    "slug": "uk-solar-services",
+    "desktop": {
+      "overflow": false,
+      "console_errors": [],
+      "title": "UK Solar Services Ltd | Energy feasibility route concept",
+      "summary": "Office or retail \u00b7 Small roof \u00b7 Under \u00a31,000/month \u00b7 Solar PV",
+      "menu_open": true,
+      "confirmation_ok": true,
+      "screenshot": "/mnt/data/mda-batch-08/screenshots/uk-solar-services-desktop.png"
+    },
+    "mobile": {
+      "overflow": false,
+      "console_errors": [],
+      "title": "UK Solar Services Ltd | Energy feasibility route concept",
+      "summary": "Office or retail \u00b7 Small roof \u00b7 Under \u00a31,000/month \u00b7 Solar PV",
+      "menu_open": true,
+      "confirmation_ok": true,
+      "screenshot": "/mnt/data/mda-batch-08/screenshots/uk-solar-services-mobile.png"
+    },
+    "pass": true,
+    "errors": []
+  }
+]

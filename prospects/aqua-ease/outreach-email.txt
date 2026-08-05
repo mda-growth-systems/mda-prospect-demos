@@ -1,0 +1,28 @@
+Recipient email
+info@aquaease.co.uk
+
+Contact person
+Relevant Aqua Ease team (no named recipient used without a verified direct mailbox)
+
+Subject
+A water-compliance timeline idea
+
+Main message
+Hi Aqua Ease team,
+
+Aqua Ease covers Legionella risk assessment, sampling, treatment and cooling-tower services, which means the next step depends heavily on the estate and current control position. I created an unofficial concept that focuses on portfolio compliance planner with recurring inspection and monitoring reminders.
+
+Demo: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/aqua-ease/
+
+Worth a quick look?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/aqua-ease/
+MDA Growth Systems URL: https://mdagrowthsystems.com
+Status at preparation: Pending public GitHub Pages QA; Gmail draft only after successful test.

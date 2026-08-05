@@ -1,0 +1,28 @@
+Recipient email
+info@uksolarservicesltd.co.uk
+
+Contact person
+Relevant UK Solar Services Ltd team (no named recipient used without a verified direct mailbox)
+
+Subject
+Commercial energy feasibility route
+
+Main message
+Hi UK Solar Services Ltd team,
+
+UK Solar Services covers PV, batteries, heat pumps, inverter repair and maintenance across Staffordshire and Cheshire. I created an unofficial concept that focuses on commercial feasibility intake with roof, energy-spend and technology qualification.
+
+Demo: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/uk-solar-services/
+
+Worth a quick look?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/uk-solar-services/
+MDA Growth Systems URL: https://mdagrowthsystems.com
+Status at preparation: Pending public GitHub Pages QA; Gmail draft only after successful test.

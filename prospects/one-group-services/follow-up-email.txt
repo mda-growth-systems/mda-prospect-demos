@@ -1,0 +1,26 @@
+Recipient email
+info@onegroupuk.co.uk
+
+Contact person
+Relevant One Group Services team (no named recipient used without a verified direct mailbox)
+
+Subject
+Re: A clearer specialist-cleaning brief
+
+Main message
+Hi One Group Services team,
+
+A quick follow-up on the personalised concept: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/one-group-services/
+
+The access-window field helps distinguish an occupied-site clean from work that needs a shutdown or weekend team. Is this close to how your team currently qualifies enquiries?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/one-group-services/
+MDA Growth Systems URL: https://mdagrowthsystems.com
+Status at preparation: Pending public GitHub Pages QA; Gmail draft only after successful test.

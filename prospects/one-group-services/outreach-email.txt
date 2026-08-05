@@ -1,0 +1,28 @@
+Recipient email
+info@onegroupuk.co.uk
+
+Contact person
+Relevant One Group Services team (no named recipient used without a verified direct mailbox)
+
+Subject
+A clearer specialist-cleaning brief
+
+Main message
+Hi One Group Services team,
+
+One Group combines routine commercial cleaning with industrial, specialist and emergency work, so two enquiries can require completely different preparation. I created an unofficial concept that focuses on site-scoping form with service-frequency and risk routing.
+
+Demo: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/one-group-services/
+
+Worth a quick look?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/one-group-services/
+MDA Growth Systems URL: https://mdagrowthsystems.com
+Status at preparation: Pending public GitHub Pages QA; Gmail draft only after successful test.

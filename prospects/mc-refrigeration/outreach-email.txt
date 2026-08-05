@@ -1,0 +1,28 @@
+Recipient email
+info@mcrefrigeration.co.uk
+
+Contact person
+Relevant MC Refrigeration team (no named recipient used without a verified direct mailbox)
+
+Subject
+Cold-chain faults, scoped faster
+
+Main message
+Hi MC Refrigeration team,
+
+MC Refrigeration supports commercial systems in retail, airports and transport environments where a cooling fault can quickly become an operational problem. I created an unofficial concept that focuses on plant-critical cooling fault intake with stock-risk prioritisation.
+
+Demo: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/mc-refrigeration/
+
+Worth a quick look?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/mc-refrigeration/
+MDA Growth Systems URL: https://mdagrowthsystems.com
+Status at preparation: Pending public GitHub Pages QA; Gmail draft only after successful test.

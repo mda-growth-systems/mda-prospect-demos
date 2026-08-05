@@ -1,0 +1,17 @@
+VERIFICATION NOTES — Door Maintenance Co
+Date researched: 2026-08-05
+Official website: https://www.doormaintenance.co.uk/
+Public email: info@doormaintenance.co.uk
+Public phone: 029 2066 5539
+Location/service area: Cardiff; nationwide UK support
+Industry: Industrial, fire and automatic door maintenance
+Legal/subscriber type: Company number 01783555 shown on official site; registry match not independently resolved in this run
+Commercial capability assessment: Strong (reasoned from visible service breadth, commercial focus and operating signals; not proven financial information)
+Prospect score: 91/100
+Observed opportunity: Current contact route does not visibly separate urgent security failures from planned servicing or collect door-specific fault context.
+Recommended MDA outcome: Engineer-ready fault triage and maintenance-renewal routing.
+Duplicate check: No matching Gmail outreach, GitHub prospect folder/code result or suppression entry found in the available connected checks on 2026-08-05.
+Imagery: original inline SVG illustration generated for this private concept; no staff, customer, premises, vehicle, award or project imagery is represented.
+Sources:
+- https://www.doormaintenance.co.uk/
+- https://www.doormaintenance.co.uk/contact-us/

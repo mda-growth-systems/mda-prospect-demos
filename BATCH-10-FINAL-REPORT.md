@@ -1,6 +1,6 @@
 # MDA Growth Systems — Batch 10 Final Report
 
-Status: Local build and automated desktop/mobile QA complete; GitHub deployment, public-link verification and Gmail draft creation pending final execution gates.
+Status: Complete for approval — ten demos passed desktop/mobile QA, were published through GitHub Pages, and passed public-link verification. Exactly 20 Gmail drafts were verified: 10 first-contact drafts and 10 standalone `Re:` follow-up drafts. No email was sent.
 
 ## Selected prospects
 
@@ -32,9 +32,17 @@ For every selected prospect: **No prior MDA contact, demo, GitHub folder or supp
 - Automated desktop/mobile QA passes: 10/10
 - Emails sent: 0
 
-## Pending gates
-- GitHub commit and Pages deployment
-- Signed-out public link verification
-- Ten first-contact Gmail drafts
-- Ten standalone `Re:` follow-up drafts, clearly not genuine threads until originals are sent
-- Final outreach-log and report status sync
+## Deployment and draft verification
+- Public verification commit: `2f1acaf21ed68ce55e344938694aa4da08914075`.
+- Verified UTC: `2026-08-05T12:51:45Z`.
+- Public links tested: ten prospect pages, ten thank-you pages and https://mdagrowthsystems.com/.
+- Gmail state: exactly 20 Batch 10 drafts — one original and one standalone `Re:` follow-up for each prospect.
+- Duplicate cleanup: an accidental second set created during the interrupted continuation was moved to Trash; the original verified set remains in Drafts.
+- Genuine threaded follow-ups: 0, because the first-contact emails remain unsent.
+- Emails sent: 0.
+
+## Credibility and account fixes
+- Gmail profile still reports the account name as `Ruan`, while drafts display `Michael`; manual Google account/display-name correction is still recommended.
+- Sender domain remains `mdagrowthsystems.info` while the public site is `mdagrowthsystems.com`.
+- SPF, DKIM and DMARC were not verifiable through the connected tools.
+- GitHub Pages links are used honestly; a branded `demos.mdagrowthsystems.com` domain remains recommended.

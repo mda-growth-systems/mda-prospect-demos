@@ -1,7 +1,19 @@
-FIRST CONTACT — Door Maintenance Co
-TO: info@doormaintenance.co.uk
-SUBJECT: Door faults, routed by risk
+================================================================================
+PROSPECT 1: door-maintenance-co
+================================================================================
 
+FIRST-CONTACT DRAFT
+
+Recipient email
+info@doormaintenance.co.uk
+
+Contact person
+Relevant Door Maintenance Co team (no named recipient used without a verified direct mailbox)
+
+Subject
+Door faults, routed by risk
+
+Main message
 Hi Door Maintenance Co team,
 
 Your team covers industrial doors, fire doors, shutters, gates and barriers nationwide, including 24/7 emergency call-outs. I created an unofficial concept that focuses on engineer-ready fault triage and maintenance-renewal routing.
@@ -12,16 +24,28 @@ Worth a quick look?
 
 Michael
 MDA Growth Systems
-https://mdagrowthsystems.com
+https://mda-growth-systems.github.io/mda-prospect-demos/mda-growth-systems/
 
 Not relevant? Reply “no thanks” and I will not contact you again.
 
-============================================================================
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/door-maintenance-co/
+MDA Growth Systems URL: https://mda-growth-systems.github.io/mda-prospect-demos/mda-growth-systems/
+Status: Prospect demo and MDA public profile verified publicly on 2026-08-05; Gmail draft created; not sent.
 
-FOLLOW-UP — Door Maintenance Co
-TO: info@doormaintenance.co.uk
-SUBJECT: Re: Door faults, routed by risk
 
+FOLLOW-UP DRAFT
+
+Recipient email
+info@doormaintenance.co.uk
+
+Contact person
+Relevant Door Maintenance Co team (no named recipient used without a verified direct mailbox)
+
+Subject
+Re: Door faults, routed by risk
+
+Main message
 Hi Door Maintenance Co team,
 
 A quick follow-up on the personalised concept: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/door-maintenance-co/
@@ -30,16 +54,32 @@ The operating-position and security-impact fields separate a stuck-open risk fro
 
 Michael
 MDA Growth Systems
-https://mdagrowthsystems.com
+https://mda-growth-systems.github.io/mda-prospect-demos/mda-growth-systems/
 
 Not relevant? Reply “no thanks” and I will not contact you again.
 
-============================================================================
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/door-maintenance-co/
+MDA Growth Systems URL: https://mda-growth-systems.github.io/mda-prospect-demos/mda-growth-systems/
+Status: Prospect demo and MDA public profile verified publicly on 2026-08-05; Gmail draft created; not sent.
 
-FIRST CONTACT — One Group Services
-TO: info@onegroupuk.co.uk
-SUBJECT: A clearer specialist-cleaning brief
 
+================================================================================
+PROSPECT 2: one-group-services
+================================================================================
+
+FIRST-CONTACT DRAFT
+
+Recipient email
+info@onegroupuk.co.uk
+
+Contact person
+Relevant One Group Services team (no named recipient used without a verified direct mailbox)
+
+Subject
+A clearer specialist-cleaning brief
+
+Main message
 Hi One Group Services team,
 
 One Group combines routine commercial cleaning with industrial, specialist and emergency work, so two enquiries can require completely different preparation. I created an unofficial concept that focuses on site-scoping form with service-frequency and risk routing.
@@ -50,16 +90,28 @@ Worth a quick look?
 
 Michael
 MDA Growth Systems
-https://mdagrowthsystems.com
+https://mda-growth-systems.github.io/mda-prospect-demos/mda-growth-systems/
 
 Not relevant? Reply “no thanks” and I will not contact you again.
 
-============================================================================
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/one-group-services/
+MDA Growth Systems URL: https://mda-growth-systems.github.io/mda-prospect-demos/mda-growth-systems/
+Status: Prospect demo and MDA public profile verified publicly on 2026-08-05; Gmail draft created; not sent.
 
-FOLLOW-UP — One Group Services
-TO: info@onegroupuk.co.uk
-SUBJECT: Re: A clearer specialist-cleaning brief
 
+FOLLOW-UP DRAFT
+
+Recipient email
+info@onegroupuk.co.uk
+
+Contact person
+Relevant One Group Services team (no named recipient used without a verified direct mailbox)
+
+Subject
+Re: A clearer specialist-cleaning brief
+
+Main message
 Hi One Group Services team,
 
 A quick follow-up on the personalised concept: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/one-group-services/
@@ -68,16 +120,32 @@ The access-window field helps distinguish an occupied-site clean from work that 
 
 Michael
 MDA Growth Systems
-https://mdagrowthsystems.com
+https://mda-growth-systems.github.io/mda-prospect-demos/mda-growth-systems/
 
 Not relevant? Reply “no thanks” and I will not contact you again.
 
-============================================================================
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/one-group-services/
+MDA Growth Systems URL: https://mda-growth-systems.github.io/mda-prospect-demos/mda-growth-systems/
+Status: Prospect demo and MDA public profile verified publicly on 2026-08-05; Gmail draft created; not sent.
 
-FIRST CONTACT — MC Refrigeration
-TO: info@mcrefrigeration.co.uk
-SUBJECT: Cold-chain faults, scoped faster
 
+================================================================================
+PROSPECT 3: mc-refrigeration
+================================================================================
+
+FIRST-CONTACT DRAFT
+
+Recipient email
+info@mcrefrigeration.co.uk
+
+Contact person
+Relevant MC Refrigeration team (no named recipient used without a verified direct mailbox)
+
+Subject
+Cold-chain faults, scoped faster
+
+Main message
 Hi MC Refrigeration team,
 
 MC Refrigeration supports commercial systems in retail, airports and transport environments where a cooling fault can quickly become an operational problem. I created an unofficial concept that focuses on plant-critical cooling fault intake with stock-risk prioritisation.
@@ -88,16 +156,28 @@ Worth a quick look?
 
 Michael
 MDA Growth Systems
-https://mdagrowthsystems.com
+https://mda-growth-systems.github.io/mda-prospect-demos/mda-growth-systems/
 
 Not relevant? Reply “no thanks” and I will not contact you again.
 
-============================================================================
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/mc-refrigeration/
+MDA Growth Systems URL: https://mda-growth-systems.github.io/mda-prospect-demos/mda-growth-systems/
+Status: Prospect demo and MDA public profile verified publicly on 2026-08-05; Gmail draft created; not sent.
 
-FOLLOW-UP — MC Refrigeration
-TO: info@mcrefrigeration.co.uk
-SUBJECT: Re: Cold-chain faults, scoped faster
 
+FOLLOW-UP DRAFT
+
+Recipient email
+info@mcrefrigeration.co.uk
+
+Contact person
+Relevant MC Refrigeration team (no named recipient used without a verified direct mailbox)
+
+Subject
+Re: Cold-chain faults, scoped faster
+
+Main message
 Hi MC Refrigeration team,
 
 A quick follow-up on the personalised concept: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/mc-refrigeration/
@@ -106,16 +186,32 @@ The stock-risk question gives the service team a clearer reason to prioritise on
 
 Michael
 MDA Growth Systems
-https://mdagrowthsystems.com
+https://mda-growth-systems.github.io/mda-prospect-demos/mda-growth-systems/
 
 Not relevant? Reply “no thanks” and I will not contact you again.
 
-============================================================================
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/mc-refrigeration/
+MDA Growth Systems URL: https://mda-growth-systems.github.io/mda-prospect-demos/mda-growth-systems/
+Status: Prospect demo and MDA public profile verified publicly on 2026-08-05; Gmail draft created; not sent.
 
-FIRST CONTACT — Aqua Ease
-TO: info@aquaease.co.uk
-SUBJECT: A water-compliance timeline idea
 
+================================================================================
+PROSPECT 4: aqua-ease
+================================================================================
+
+FIRST-CONTACT DRAFT
+
+Recipient email
+info@aquaease.co.uk
+
+Contact person
+Relevant Aqua Ease team (no named recipient used without a verified direct mailbox)
+
+Subject
+A water-compliance timeline idea
+
+Main message
 Hi Aqua Ease team,
 
 Aqua Ease covers Legionella risk assessment, sampling, treatment and cooling-tower services, which means the next step depends heavily on the estate and current control position. I created an unofficial concept that focuses on portfolio compliance planner with recurring inspection and monitoring reminders.
@@ -126,16 +222,28 @@ Worth a quick look?
 
 Michael
 MDA Growth Systems
-https://mdagrowthsystems.com
+https://mda-growth-systems.github.io/mda-prospect-demos/mda-growth-systems/
 
 Not relevant? Reply “no thanks” and I will not contact you again.
 
-============================================================================
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/aqua-ease/
+MDA Growth Systems URL: https://mda-growth-systems.github.io/mda-prospect-demos/mda-growth-systems/
+Status: Prospect demo and MDA public profile verified publicly on 2026-08-05; Gmail draft created; not sent.
 
-FOLLOW-UP — Aqua Ease
-TO: info@aquaease.co.uk
-SUBJECT: Re: A water-compliance timeline idea
 
+FOLLOW-UP DRAFT
+
+Recipient email
+info@aquaease.co.uk
+
+Contact person
+Relevant Aqua Ease team (no named recipient used without a verified direct mailbox)
+
+Subject
+Re: A water-compliance timeline idea
+
+Main message
 Hi Aqua Ease team,
 
 A quick follow-up on the personalised concept: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/aqua-ease/
@@ -144,16 +252,32 @@ The current-position field separates a new assessment from an overdue renewal or
 
 Michael
 MDA Growth Systems
-https://mdagrowthsystems.com
+https://mda-growth-systems.github.io/mda-prospect-demos/mda-growth-systems/
 
 Not relevant? Reply “no thanks” and I will not contact you again.
 
-============================================================================
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/aqua-ease/
+MDA Growth Systems URL: https://mda-growth-systems.github.io/mda-prospect-demos/mda-growth-systems/
+Status: Prospect demo and MDA public profile verified publicly on 2026-08-05; Gmail draft created; not sent.
 
-FIRST CONTACT — Thomas Fire Consultancy
-TO: info@thomasfire.co.uk
-SUBJECT: Fire compliance, one clear route
 
+================================================================================
+PROSPECT 5: thomas-fire-consultancy
+================================================================================
+
+FIRST-CONTACT DRAFT
+
+Recipient email
+info@thomasfire.co.uk
+
+Contact person
+Relevant Thomas Fire Consultancy team (no named recipient used without a verified direct mailbox)
+
+Subject
+Fire compliance, one clear route
+
+Main message
 Hi Thomas Fire Consultancy team,
 
 Thomas Fire Consultancy covers risk assessments, fire-door inspections, training and equipment maintenance across Northamptonshire and the Midlands. I created an unofficial concept that focuses on fire-compliance pathway with recurring inspection and renewal reminders.
@@ -164,16 +288,28 @@ Worth a quick look?
 
 Michael
 MDA Growth Systems
-https://mdagrowthsystems.com
+https://mda-growth-systems.github.io/mda-prospect-demos/mda-growth-systems/
 
 Not relevant? Reply “no thanks” and I will not contact you again.
 
-============================================================================
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/thomas-fire-consultancy/
+MDA Growth Systems URL: https://mda-growth-systems.github.io/mda-prospect-demos/mda-growth-systems/
+Status: Prospect demo and MDA public profile verified publicly on 2026-08-05; Gmail draft created; not sent.
 
-FOLLOW-UP — Thomas Fire Consultancy
-TO: info@thomasfire.co.uk
-SUBJECT: Re: Fire compliance, one clear route
 
+FOLLOW-UP DRAFT
+
+Recipient email
+info@thomasfire.co.uk
+
+Contact person
+Relevant Thomas Fire Consultancy team (no named recipient used without a verified direct mailbox)
+
+Subject
+Re: Fire compliance, one clear route
+
+Main message
 Hi Thomas Fire Consultancy team,
 
 A quick follow-up on the personalised concept: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/thomas-fire-consultancy/
@@ -182,16 +318,32 @@ The current-status question helps separate a first assessment from a renewal or 
 
 Michael
 MDA Growth Systems
-https://mdagrowthsystems.com
+https://mda-growth-systems.github.io/mda-prospect-demos/mda-growth-systems/
 
 Not relevant? Reply “no thanks” and I will not contact you again.
 
-============================================================================
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/thomas-fire-consultancy/
+MDA Growth Systems URL: https://mda-growth-systems.github.io/mda-prospect-demos/mda-growth-systems/
+Status: Prospect demo and MDA public profile verified publicly on 2026-08-05; Gmail draft created; not sent.
 
-FIRST CONTACT — Stageworks Events
-TO: info@stageworksevents.co.uk
-SUBJECT: A production brief for Stageworks
 
+================================================================================
+PROSPECT 6: stageworks-events
+================================================================================
+
+FIRST-CONTACT DRAFT
+
+Recipient email
+info@stageworksevents.co.uk
+
+Contact person
+Relevant Stageworks Events team (no named recipient used without a verified direct mailbox)
+
+Subject
+A production brief for Stageworks
+
+Main message
 Hi Stageworks Events team,
 
 Stageworks combines sound, lighting, staging and generators, so the useful first details are much more specific than a standard quote message. I created an unofficial concept that focuses on production brief builder with venue, audience, scope and power qualification.
@@ -202,16 +354,28 @@ Worth a quick look?
 
 Michael
 MDA Growth Systems
-https://mdagrowthsystems.com
+https://mda-growth-systems.github.io/mda-prospect-demos/mda-growth-systems/
 
 Not relevant? Reply “no thanks” and I will not contact you again.
 
-============================================================================
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/stageworks-events/
+MDA Growth Systems URL: https://mda-growth-systems.github.io/mda-prospect-demos/mda-growth-systems/
+Status: Prospect demo and MDA public profile verified publicly on 2026-08-05; Gmail draft created; not sent.
 
-FOLLOW-UP — Stageworks Events
-TO: info@stageworksevents.co.uk
-SUBJECT: Re: A production brief for Stageworks
 
+FOLLOW-UP DRAFT
+
+Recipient email
+info@stageworksevents.co.uk
+
+Contact person
+Relevant Stageworks Events team (no named recipient used without a verified direct mailbox)
+
+Subject
+Re: A production brief for Stageworks
+
+Main message
 Hi Stageworks Events team,
 
 A quick follow-up on the personalised concept: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/stageworks-events/
@@ -220,16 +384,32 @@ The venue-status and audience fields make it easier to separate a small equipmen
 
 Michael
 MDA Growth Systems
-https://mdagrowthsystems.com
+https://mda-growth-systems.github.io/mda-prospect-demos/mda-growth-systems/
 
 Not relevant? Reply “no thanks” and I will not contact you again.
 
-============================================================================
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/stageworks-events/
+MDA Growth Systems URL: https://mda-growth-systems.github.io/mda-prospect-demos/mda-growth-systems/
+Status: Prospect demo and MDA public profile verified publicly on 2026-08-05; Gmail draft created; not sent.
 
-FIRST CONTACT — Intielectric Ltd
-TO: info@intielectricltd.com
-SUBJECT: Live-site electrical project briefs
 
+================================================================================
+PROSPECT 7: intielectric
+================================================================================
+
+FIRST-CONTACT DRAFT
+
+Recipient email
+info@intielectricltd.com
+
+Contact person
+Relevant Intielectric Ltd team (no named recipient used without a verified direct mailbox)
+
+Subject
+Live-site electrical project briefs
+
+Main message
 Hi Intielectric Ltd team,
 
 Intielectric positions its work around commercial and industrial electrical projects, data cabling and project management across the UK. I created an unofficial concept that focuses on commercial project intake with shutdown and project-stage routing.
@@ -240,16 +420,28 @@ Worth a quick look?
 
 Michael
 MDA Growth Systems
-https://mdagrowthsystems.com
+https://mda-growth-systems.github.io/mda-prospect-demos/mda-growth-systems/
 
 Not relevant? Reply “no thanks” and I will not contact you again.
 
-============================================================================
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/intielectric/
+MDA Growth Systems URL: https://mda-growth-systems.github.io/mda-prospect-demos/mda-growth-systems/
+Status: Prospect demo and MDA public profile verified publicly on 2026-08-05; Gmail draft created; not sent.
 
-FOLLOW-UP — Intielectric Ltd
-TO: info@intielectricltd.com
-SUBJECT: Re: Live-site electrical project briefs
 
+FOLLOW-UP DRAFT
+
+Recipient email
+info@intielectricltd.com
+
+Contact person
+Relevant Intielectric Ltd team (no named recipient used without a verified direct mailbox)
+
+Subject
+Re: Live-site electrical project briefs
+
+Main message
 Hi Intielectric Ltd team,
 
 A quick follow-up on the personalised concept: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/intielectric/
@@ -258,16 +450,32 @@ The shutdown-window field tells the estimator immediately whether the site must 
 
 Michael
 MDA Growth Systems
-https://mdagrowthsystems.com
+https://mda-growth-systems.github.io/mda-prospect-demos/mda-growth-systems/
 
 Not relevant? Reply “no thanks” and I will not contact you again.
 
-============================================================================
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/intielectric/
+MDA Growth Systems URL: https://mda-growth-systems.github.io/mda-prospect-demos/mda-growth-systems/
+Status: Prospect demo and MDA public profile verified publicly on 2026-08-05; Gmail draft created; not sent.
 
-FIRST CONTACT — Cura Surveys
-TO: info@curasurveys.co.uk
-SUBJECT: Survey outputs, scoped upfront
 
+================================================================================
+PROSPECT 8: cura-surveys
+================================================================================
+
+FIRST-CONTACT DRAFT
+
+Recipient email
+info@curasurveys.co.uk
+
+Contact person
+Relevant Cura Surveys team (no named recipient used without a verified direct mailbox)
+
+Subject
+Survey outputs, scoped upfront
+
+Main message
 Hi Cura Surveys team,
 
 Cura combines CCTV drainage, topographical, PAS128 utility and measured-building surveys, often with very different deliverables and project stages. I created an unofficial concept that focuses on survey deliverables configurator and project-stage qualification.
@@ -278,16 +486,28 @@ Worth a quick look?
 
 Michael
 MDA Growth Systems
-https://mdagrowthsystems.com
+https://mda-growth-systems.github.io/mda-prospect-demos/mda-growth-systems/
 
 Not relevant? Reply “no thanks” and I will not contact you again.
 
-============================================================================
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/cura-surveys/
+MDA Growth Systems URL: https://mda-growth-systems.github.io/mda-prospect-demos/mda-growth-systems/
+Status: Prospect demo and MDA public profile verified publicly on 2026-08-05; Gmail draft created; not sent.
 
-FOLLOW-UP — Cura Surveys
-TO: info@curasurveys.co.uk
-SUBJECT: Re: Survey outputs, scoped upfront
 
+FOLLOW-UP DRAFT
+
+Recipient email
+info@curasurveys.co.uk
+
+Contact person
+Relevant Cura Surveys team (no named recipient used without a verified direct mailbox)
+
+Subject
+Re: Survey outputs, scoped upfront
+
+Main message
 Hi Cura Surveys team,
 
 A quick follow-up on the personalised concept: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/cura-surveys/
@@ -296,16 +516,32 @@ The output-format field helps distinguish a simple report from CAD, point-cloud 
 
 Michael
 MDA Growth Systems
-https://mdagrowthsystems.com
+https://mda-growth-systems.github.io/mda-prospect-demos/mda-growth-systems/
 
 Not relevant? Reply “no thanks” and I will not contact you again.
 
-============================================================================
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/cura-surveys/
+MDA Growth Systems URL: https://mda-growth-systems.github.io/mda-prospect-demos/mda-growth-systems/
+Status: Prospect demo and MDA public profile verified publicly on 2026-08-05; Gmail draft created; not sent.
 
-FIRST CONTACT — UK Solar Services Ltd
-TO: info@uksolarservicesltd.co.uk
-SUBJECT: Commercial energy feasibility route
 
+================================================================================
+PROSPECT 9: uk-solar-services
+================================================================================
+
+FIRST-CONTACT DRAFT
+
+Recipient email
+info@uksolarservicesltd.co.uk
+
+Contact person
+Relevant UK Solar Services Ltd team (no named recipient used without a verified direct mailbox)
+
+Subject
+Commercial energy feasibility route
+
+Main message
 Hi UK Solar Services Ltd team,
 
 UK Solar Services covers PV, batteries, heat pumps, inverter repair and maintenance across Staffordshire and Cheshire. I created an unofficial concept that focuses on commercial feasibility intake with roof, energy-spend and technology qualification.
@@ -316,16 +552,28 @@ Worth a quick look?
 
 Michael
 MDA Growth Systems
-https://mdagrowthsystems.com
+https://mda-growth-systems.github.io/mda-prospect-demos/mda-growth-systems/
 
 Not relevant? Reply “no thanks” and I will not contact you again.
 
-============================================================================
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/uk-solar-services/
+MDA Growth Systems URL: https://mda-growth-systems.github.io/mda-prospect-demos/mda-growth-systems/
+Status: Prospect demo and MDA public profile verified publicly on 2026-08-05; Gmail draft created; not sent.
 
-FOLLOW-UP — UK Solar Services Ltd
-TO: info@uksolarservicesltd.co.uk
-SUBJECT: Re: Commercial energy feasibility route
 
+FOLLOW-UP DRAFT
+
+Recipient email
+info@uksolarservicesltd.co.uk
+
+Contact person
+Relevant UK Solar Services Ltd team (no named recipient used without a verified direct mailbox)
+
+Subject
+Re: Commercial energy feasibility route
+
+Main message
 Hi UK Solar Services Ltd team,
 
 A quick follow-up on the personalised concept: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/uk-solar-services/
@@ -334,16 +582,32 @@ The energy-cost and roof-context questions help identify whether a commercial su
 
 Michael
 MDA Growth Systems
-https://mdagrowthsystems.com
+https://mda-growth-systems.github.io/mda-prospect-demos/mda-growth-systems/
 
 Not relevant? Reply “no thanks” and I will not contact you again.
 
-============================================================================
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/uk-solar-services/
+MDA Growth Systems URL: https://mda-growth-systems.github.io/mda-prospect-demos/mda-growth-systems/
+Status: Prospect demo and MDA public profile verified publicly on 2026-08-05; Gmail draft created; not sent.
 
-FIRST CONTACT — Harlequin Pest Control
-TO: info@harlequin-pest.co.uk
-SUBJECT: Audit-ready pest survey enquiries
 
+================================================================================
+PROSPECT 10: harlequin-pest-control
+================================================================================
+
+FIRST-CONTACT DRAFT
+
+Recipient email
+info@harlequin-pest.co.uk
+
+Contact person
+Relevant Harlequin Pest Control team (no named recipient used without a verified direct mailbox)
+
+Subject
+Audit-ready pest survey enquiries
+
+Main message
 Hi Harlequin Pest Control team,
 
 Harlequin promotes commercial pest control, multi-site support and site surveys, where reporting and audit context can matter as much as the immediate pest problem. I created an unofficial concept that focuses on audit-ready pest survey intake with multi-site and reporting qualification.
@@ -354,16 +618,28 @@ Worth a quick look?
 
 Michael
 MDA Growth Systems
-https://mdagrowthsystems.com
+https://mda-growth-systems.github.io/mda-prospect-demos/mda-growth-systems/
 
 Not relevant? Reply “no thanks” and I will not contact you again.
 
-============================================================================
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/harlequin-pest-control/
+MDA Growth Systems URL: https://mda-growth-systems.github.io/mda-prospect-demos/mda-growth-systems/
+Status: Prospect demo and MDA public profile verified publicly on 2026-08-05; Gmail draft created; not sent.
 
-FOLLOW-UP — Harlequin Pest Control
-TO: info@harlequin-pest.co.uk
-SUBJECT: Re: Audit-ready pest survey enquiries
 
+FOLLOW-UP DRAFT
+
+Recipient email
+info@harlequin-pest.co.uk
+
+Contact person
+Relevant Harlequin Pest Control team (no named recipient used without a verified direct mailbox)
+
+Subject
+Re: Audit-ready pest survey enquiries
+
+Main message
 Hi Harlequin Pest Control team,
 
 A quick follow-up on the personalised concept: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/harlequin-pest-control/
@@ -372,8 +648,12 @@ The reporting field separates a routine service record from an audit-ready or po
 
 Michael
 MDA Growth Systems
-https://mdagrowthsystems.com
+https://mda-growth-systems.github.io/mda-prospect-demos/mda-growth-systems/
 
 Not relevant? Reply “no thanks” and I will not contact you again.
 
-============================================================================
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/harlequin-pest-control/
+MDA Growth Systems URL: https://mda-growth-systems.github.io/mda-prospect-demos/mda-growth-systems/
+Status: Prospect demo and MDA public profile verified publicly on 2026-08-05; Gmail draft created; not sent.
+

@@ -2,15 +2,10 @@ name: Deploy prospect demos to GitHub Pages
 
 on:
   push:
-    branches:
-      - main
+    branches: [main]
     paths-ignore:
-      - pages-verification-batch-06.txt
-      - pages-verification-batch-07.txt
-      - pages-verification-batch-08.txt
-      - pages-verification-batch-09.txt
-      - pages-verification-batch-10.txt
-      - pages-verification-batch-11.txt
+      - pages-verification-batch-12.txt
+      - outreach-log.csv
   workflow_dispatch:
 
 permissions:
@@ -29,162 +24,81 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     runs-on: ubuntu-latest
     steps:
-      - name: Check out repository
-        uses: actions/checkout@v4
-
-      - name: Expand and save Batch 11 payload
+      - uses: actions/checkout@v4
+      - name: Expand Batch 12 payload
         shell: bash
         run: |
           set -euo pipefail
-          if [ -d batch-11-payload ]; then
-            cat batch-11-payload/chunk-* > /tmp/batch-11-payload.tar.gz.b64
-            base64 --decode /tmp/batch-11-payload.tar.gz.b64 > /tmp/batch-11-payload.tar.gz
-            gzip -t /tmp/batch-11-payload.tar.gz
-            tar -xzf /tmp/batch-11-payload.tar.gz
-            rm -rf batch-11-payload
-            python - <<'PY'
-          import csv
-          from pathlib import Path
-          master=Path('outreach-log.csv')
-          batch=Path('outreach-log-batch-11.csv')
-          if batch.exists():
-              with batch.open(newline='',encoding='utf-8-sig') as f:
-                  incoming=list(csv.DictReader(f))
-              existing=[]
-              fields=list(incoming[0].keys()) if incoming else []
-              if master.exists():
-                  with master.open(newline='',encoding='utf-8-sig') as f:
-                      reader=csv.DictReader(f)
-                      existing=list(reader)
-                      fields=reader.fieldnames or fields
-              for row in incoming:
-                  for key in row:
-                      if key not in fields:
-                          fields.append(key)
-              index={r.get('Normalised root domain','').strip().lower():i for i,r in enumerate(existing)}
-              for row in incoming:
-                  domain=row.get('Normalised root domain','').strip().lower()
-                  clean={k:row.get(k,'') for k in fields}
-                  if domain in index:
-                      existing[index[domain]].update(clean)
-                  elif domain:
-                      index[domain]=len(existing)
-                      existing.append(clean)
-              with master.open('w',newline='',encoding='utf-8') as f:
-                  writer=csv.DictWriter(f,fieldnames=fields,extrasaction='ignore')
-                  writer.writeheader(); writer.writerows(existing)
-          PY
-            git config user.name "mda-growth-systems"
-            git config user.email "michael@mdagrowthsystems.info"
-            git add -A
-            git commit -m "Add Batch 11 prospect demos and outreach records [skip ci]"
-            git push
+          if [ -d batch-12-payload ]; then
+            cat batch-12-payload/chunk-* > /tmp/batch-12.tar.gz.b64
+            base64 --decode /tmp/batch-12.tar.gz.b64 > /tmp/batch-12.tar.gz
+            gzip -t /tmp/batch-12.tar.gz
+            tar -xzf /tmp/batch-12.tar.gz
+            rm -rf batch-12-payload
           fi
-
-      - name: Finalize Batch 11 Gmail and outreach records
+      - name: Merge Batch 12 outreach log locally
         shell: bash
         run: |
-          set -euo pipefail
-          if [ -d batch-11-finalize-payload ]; then
-            cat batch-11-finalize-payload/chunk-* > /tmp/batch-11-finalize.tar.gz.b64
-            base64 --decode /tmp/batch-11-finalize.tar.gz.b64 > /tmp/batch-11-finalize.tar.gz
-            gzip -t /tmp/batch-11-finalize.tar.gz
-            tar -xzf /tmp/batch-11-finalize.tar.gz
-            rm -rf batch-11-finalize-payload
-            python - <<'PY2'
+          python - <<'PYMERGE'
           import csv
           from pathlib import Path
-          master=Path('outreach-log.csv')
-          batch=Path('outreach-log-batch-11.csv')
+          master=Path('outreach-log.csv'); batch=Path('outreach-log-batch-12.csv')
           if batch.exists():
-              with batch.open(newline='',encoding='utf-8-sig') as f:
-                  incoming=list(csv.DictReader(f))
-              existing=[]
-              fields=list(incoming[0].keys()) if incoming else []
+              with batch.open(newline='',encoding='utf-8-sig') as f: incoming=list(csv.DictReader(f))
+              existing=[]; fields=list(incoming[0].keys()) if incoming else []
               if master.exists():
                   with master.open(newline='',encoding='utf-8-sig') as f:
-                      reader=csv.DictReader(f)
-                      existing=list(reader)
-                      fields=reader.fieldnames or fields
+                      r=csv.DictReader(f); existing=list(r); fields=r.fieldnames or fields
               for row in incoming:
-                  for key in row:
-                      if key not in fields:
-                          fields.append(key)
-              index={r.get('Normalised root domain','').strip().lower():i for i,r in enumerate(existing)}
+                  for k in row:
+                      if k not in fields: fields.append(k)
+              ix={r.get('Normalised root domain','').strip().lower():i for i,r in enumerate(existing)}
               for row in incoming:
-                  domain=row.get('Normalised root domain','').strip().lower()
-                  clean={k:row.get(k,'') for k in fields}
-                  if domain in index:
-                      existing[index[domain]].update(clean)
-                  elif domain:
-                      index[domain]=len(existing)
-                      existing.append(clean)
+                  domain=row.get('Normalised root domain','').strip().lower(); clean={k:row.get(k,'') for k in fields}
+                  if domain in ix: existing[ix[domain]].update(clean)
+                  elif domain: ix[domain]=len(existing); existing.append(clean)
               with master.open('w',newline='',encoding='utf-8') as f:
-                  writer=csv.DictWriter(f,fieldnames=fields,extrasaction='ignore')
-                  writer.writeheader(); writer.writerows(existing)
-          PY2
-            git config user.name "mda-growth-systems"
-            git config user.email "michael@mdagrowthsystems.info"
-            git add -A
-            git commit -m "Finalize Batch 11 Gmail draft and outreach status [skip ci]"
-            git push
-          fi
-
-      - name: Configure GitHub Pages
-        uses: actions/configure-pages@v5
-
-      - name: Upload static website
-        uses: actions/upload-pages-artifact@v4
+                  w=csv.DictWriter(f,fieldnames=fields,extrasaction='ignore'); w.writeheader(); w.writerows(existing)
+          PYMERGE
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
         with:
           path: .
-          name: github-pages-${{ github.run_id }}-${{ github.run_attempt }}
-
-      - name: Deploy to GitHub Pages
+      - name: Deploy GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-        with:
-          artifact_name: github-pages-${{ github.run_id }}-${{ github.run_attempt }}
-
-      - name: Verify Batch 11 public pages
+      - name: Verify Batch 12 public pages
         shell: bash
         run: |
           set -euo pipefail
           base="${{ steps.deployment.outputs.page_url }}"
           paths=(
-            prospects/batt-laboratories/
-            prospects/cap-electrical/
-            prospects/industrial-cleansing-services/
-            prospects/tri-bond-roofing/
-            prospects/uk-fire-protection/
-            prospects/national-pump-services/
-            prospects/automatic-access/
-            prospects/pro-drainage/
-            prospects/ukfm-warehousing/
-            prospects/wickslx-events/
+            prospects/edge-technology-power/
+            prospects/air-compressors-equipment/
+            prospects/portcullis-site-services/
+            prospects/loading-bay-service/
+            prospects/racking-installation-company/
+            prospects/independent-forklift-services/
+            prospects/capital-water-treatment/
+            prospects/src-catering-services/
+            prospects/j-child-commercial/
+            prospects/shield-pest-management/
           )
           sleep 30
-          {
-            echo "Batch 11 GitHub Pages verification"
-            echo "Deployment: $base"
-            echo "Commit: $(git rev-parse HEAD)"
-            echo "Verified UTC: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
-            echo
-          } > pages-verification-batch-11.txt
+          { echo "Batch 12 GitHub Pages verification"; echo "Deployment: $base"; echo "Commit: $(git rev-parse HEAD)"; echo "Verified UTC: $(date -u +%Y-%m-%dT%H:%M:%SZ)"; echo; } > pages-verification-batch-12.txt
           for path in "${paths[@]}"; do
             url="${base%/}/$path"
             curl --fail --silent --show-error --location --retry 20 --retry-delay 5 --retry-all-errors "$url" >/dev/null
             curl --fail --silent --show-error --location --retry 10 --retry-delay 3 --retry-all-errors "${url}thank-you.html" >/dev/null
-            echo "PASS $url" >> pages-verification-batch-11.txt
+            echo "PASS $url" >> pages-verification-batch-12.txt
           done
           curl --fail --silent --show-error --location --retry 10 --retry-delay 3 --retry-all-errors "https://mdagrowthsystems.com/" >/dev/null
-          echo "PASS https://mdagrowthsystems.com/" >> pages-verification-batch-11.txt
-
-      - name: Save Batch 11 verification record
+          echo "PASS https://mdagrowthsystems.com/" >> pages-verification-batch-12.txt
+      - name: Save log merge and verification
         shell: bash
         run: |
-          set -euo pipefail
           git config user.name "mda-growth-systems"
           git config user.email "michael@mdagrowthsystems.info"
-          git add pages-verification-batch-11.txt
-          git commit -m "Verify Batch 11 public pages [skip ci]" || exit 0
+          git add -A
+          git commit -m "Add and verify Batch 12 prospect demos [skip ci]" || exit 0
           git push

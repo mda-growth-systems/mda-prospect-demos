@@ -10,6 +10,7 @@ on:
       - pages-verification-batch-08.txt
       - pages-verification-batch-09.txt
       - pages-verification-batch-10.txt
+      - pages-verification-batch-11.txt
   workflow_dispatch:
 
 permissions:
@@ -31,29 +32,21 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v4
 
-      - name: Expand and save Batch 10 payload
+      - name: Expand and save Batch 11 payload
         shell: bash
         run: |
           set -euo pipefail
-          if [ -d batch-10-payload ] && [ -d batch-10-payload-v2 ]; then
-            cat \
-              batch-10-payload/part-00 \
-              batch-10-payload/part-01 \
-              batch-10-payload-v2/chunk-04 \
-              batch-10-payload-v2/chunk-05 \
-              batch-10-payload-v2/chunk-06 \
-              batch-10-payload-v2/chunk-07 \
-              batch-10-payload/part-04 \
-              > /tmp/batch-10-payload.tar.gz.b64
-            base64 --decode /tmp/batch-10-payload.tar.gz.b64 > /tmp/batch-10-payload.tar.gz
-            gzip -t /tmp/batch-10-payload.tar.gz
-            tar -xzf /tmp/batch-10-payload.tar.gz
-            rm -rf batch-10-payload batch-10-payload-v2
+          if [ -d batch-11-payload ]; then
+            cat batch-11-payload/chunk-* > /tmp/batch-11-payload.tar.gz.b64
+            base64 --decode /tmp/batch-11-payload.tar.gz.b64 > /tmp/batch-11-payload.tar.gz
+            gzip -t /tmp/batch-11-payload.tar.gz
+            tar -xzf /tmp/batch-11-payload.tar.gz
+            rm -rf batch-11-payload
             python - <<'PY'
           import csv
           from pathlib import Path
           master=Path('outreach-log.csv')
-          batch=Path('outreach-log-batch-10.csv')
+          batch=Path('outreach-log-batch-11.csv')
           if batch.exists():
               with batch.open(newline='',encoding='utf-8-sig') as f:
                   incoming=list(csv.DictReader(f))
@@ -84,7 +77,7 @@ jobs:
             git config user.name "mda-growth-systems"
             git config user.email "michael@mdagrowthsystems.info"
             git add -A
-            git commit -m "Add Batch 10 prospect demos and outreach records [skip ci]"
+            git commit -m "Add Batch 11 prospect demos and outreach records [skip ci]"
             git push
           fi
 
@@ -103,46 +96,46 @@ jobs:
         with:
           artifact_name: github-pages-${{ github.run_id }}-${{ github.run_attempt }}
 
-      - name: Verify Batch 10 public pages
+      - name: Verify Batch 11 public pages
         shell: bash
         run: |
           set -euo pipefail
           base="${{ steps.deployment.outputs.page_url }}"
           paths=(
-            prospects/excel-automatic-doors/
-            prospects/a2m-tec/
-            prospects/nicad/
-            prospects/braywhite-hvac/
-            prospects/k-plant-hire/
-            prospects/rs-surveys/
-            prospects/laser-surveys/
-            prospects/eclipse-event-production/
-            prospects/thames-fire/
-            prospects/guardian-hygiene/
+            prospects/batt-laboratories/
+            prospects/cap-electrical/
+            prospects/industrial-cleansing-services/
+            prospects/tri-bond-roofing/
+            prospects/uk-fire-protection/
+            prospects/national-pump-services/
+            prospects/automatic-access/
+            prospects/pro-drainage/
+            prospects/ukfm-warehousing/
+            prospects/wickslx-events/
           )
           sleep 30
           {
-            echo "Batch 10 GitHub Pages verification"
+            echo "Batch 11 GitHub Pages verification"
             echo "Deployment: $base"
             echo "Commit: $(git rev-parse HEAD)"
             echo "Verified UTC: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
             echo
-          } > pages-verification-batch-10.txt
+          } > pages-verification-batch-11.txt
           for path in "${paths[@]}"; do
             url="${base%/}/$path"
             curl --fail --silent --show-error --location --retry 20 --retry-delay 5 --retry-all-errors "$url" >/dev/null
             curl --fail --silent --show-error --location --retry 10 --retry-delay 3 --retry-all-errors "${url}thank-you.html" >/dev/null
-            echo "PASS $url" >> pages-verification-batch-10.txt
+            echo "PASS $url" >> pages-verification-batch-11.txt
           done
           curl --fail --silent --show-error --location --retry 10 --retry-delay 3 --retry-all-errors "https://mdagrowthsystems.com/" >/dev/null
-          echo "PASS https://mdagrowthsystems.com/" >> pages-verification-batch-10.txt
+          echo "PASS https://mdagrowthsystems.com/" >> pages-verification-batch-11.txt
 
-      - name: Save Batch 10 verification record
+      - name: Save Batch 11 verification record
         shell: bash
         run: |
           set -euo pipefail
           git config user.name "mda-growth-systems"
           git config user.email "michael@mdagrowthsystems.info"
-          git add pages-verification-batch-10.txt
-          git commit -m "Verify Batch 10 public pages [skip ci]" || exit 0
+          git add pages-verification-batch-11.txt
+          git commit -m "Verify Batch 11 public pages [skip ci]" || exit 0
           git push

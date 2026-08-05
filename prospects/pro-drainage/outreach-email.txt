@@ -1,0 +1,28 @@
+Recipient email
+info@prodrainage.co.uk
+
+Contact person
+Commercial drainage team
+
+Subject
+Pro Drainage — emergency or survey
+
+Main message
+Hi Commercial drainage team,
+
+Pro Drainage promotes nationwide commercial drainage, septic work and 24/7 emergency response. I created an unofficial concept around an enquiry route that separates a live blockage from CCTV surveys, septic work and planned maintenance while capturing site impact and reporting needs.
+
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/pro-drainage/
+
+Would this make the first enquiry more useful for your team?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com/
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/pro-drainage/
+MDA Growth Systems URL: https://mdagrowthsystems.com/
+Status: Pending public deployment verification before Gmail draft creation.

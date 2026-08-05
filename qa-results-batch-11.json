@@ -1,0 +1,102 @@
+[
+  {
+    "slug": "automatic-access",
+    "mode": "desktop",
+    "status": "PASS"
+  },
+  {
+    "slug": "automatic-access",
+    "mode": "mobile",
+    "status": "PASS"
+  },
+  {
+    "slug": "batt-laboratories",
+    "mode": "desktop",
+    "status": "PASS"
+  },
+  {
+    "slug": "batt-laboratories",
+    "mode": "mobile",
+    "status": "PASS"
+  },
+  {
+    "slug": "cap-electrical",
+    "mode": "desktop",
+    "status": "PASS"
+  },
+  {
+    "slug": "cap-electrical",
+    "mode": "mobile",
+    "status": "PASS"
+  },
+  {
+    "slug": "industrial-cleansing-services",
+    "mode": "desktop",
+    "status": "PASS"
+  },
+  {
+    "slug": "industrial-cleansing-services",
+    "mode": "mobile",
+    "status": "PASS"
+  },
+  {
+    "slug": "national-pump-services",
+    "mode": "desktop",
+    "status": "PASS"
+  },
+  {
+    "slug": "national-pump-services",
+    "mode": "mobile",
+    "status": "PASS"
+  },
+  {
+    "slug": "pro-drainage",
+    "mode": "desktop",
+    "status": "PASS"
+  },
+  {
+    "slug": "pro-drainage",
+    "mode": "mobile",
+    "status": "PASS"
+  },
+  {
+    "slug": "tri-bond-roofing",
+    "mode": "desktop",
+    "status": "PASS"
+  },
+  {
+    "slug": "tri-bond-roofing",
+    "mode": "mobile",
+    "status": "PASS"
+  },
+  {
+    "slug": "uk-fire-protection",
+    "mode": "desktop",
+    "status": "PASS"
+  },
+  {
+    "slug": "uk-fire-protection",
+    "mode": "mobile",
+    "status": "PASS"
+  },
+  {
+    "slug": "ukfm-warehousing",
+    "mode": "desktop",
+    "status": "PASS"
+  },
+  {
+    "slug": "ukfm-warehousing",
+    "mode": "mobile",
+    "status": "PASS"
+  },
+  {
+    "slug": "wickslx-events",
+    "mode": "desktop",
+    "status": "PASS"
+  },
+  {
+    "slug": "wickslx-events",
+    "mode": "mobile",
+    "status": "PASS"
+  }
+]

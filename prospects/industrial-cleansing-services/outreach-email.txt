@@ -1,0 +1,28 @@
+Recipient email
+enquiries@ics-kent.co.uk
+
+Contact person
+Commercial cleaning enquiries team
+
+Subject
+A faster industrial-cleaning brief
+
+Main message
+Hi Commercial cleaning team,
+
+Industrial Cleansing Services covers tank cleaning, drain work, jetting, commercial cleaning and emergency clean-ups. I created an unofficial concept around a site-risk brief that separates emergency work from planned and recurring cleaning while capturing access and permit constraints.
+
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/industrial-cleansing-services/
+
+Would this make the first enquiry more useful for your team?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com/
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/industrial-cleansing-services/
+MDA Growth Systems URL: https://mdagrowthsystems.com/
+Status: Pending public deployment verification before Gmail draft creation.

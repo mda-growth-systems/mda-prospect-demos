@@ -1,0 +1,28 @@
+Recipient email
+info@tri-bondroofing.co.uk
+
+Contact person
+Roofing enquiries team
+
+Subject
+Tri-Bond roof survey idea
+
+Main message
+Hi Roofing team,
+
+Tri-Bond Roofing handles commercial and industrial roofing around Northampton, including installations, repairs, fascias and guttering. I created an unofficial concept around a roof-survey request that captures the building type, active-leak status, access and project timing before the estimator responds.
+
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/tri-bond-roofing/
+
+Would this make the first enquiry more useful for your team?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com/
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/tri-bond-roofing/
+MDA Growth Systems URL: https://mdagrowthsystems.com/
+Status: Pending public deployment verification before Gmail draft creation.

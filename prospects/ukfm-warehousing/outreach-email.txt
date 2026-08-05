@@ -1,0 +1,28 @@
+Recipient email
+info@ukfmwarehousing.co.uk
+
+Contact person
+Warehousing and distribution team
+
+Subject
+A clearer warehouse capacity brief
+
+Main message
+Hi Warehousing and distribution team,
+
+UKFM provides warehousing, shipping and distribution from its Belvedere facility in South East London. I created an unofficial concept around a capacity brief that captures volume, storage unit, handling, inbound frequency and fulfilment requirements before pricing.
+
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/ukfm-warehousing/
+
+Would this make the first enquiry more useful for your team?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com/
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/ukfm-warehousing/
+MDA Growth Systems URL: https://mdagrowthsystems.com/
+Status: Pending public deployment verification before Gmail draft creation.

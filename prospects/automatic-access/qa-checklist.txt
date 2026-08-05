@@ -1,0 +1,15 @@
+QA CHECKLIST
+[PASS] Correct business name and contact details
+[PASS] No placeholder or other-prospect text
+[PASS] Responsive navigation
+[PASS] Accessible labels and required fields
+[PASS] Prototype submission clearly does not transmit data
+[PASS] Thank-you page present
+[PASS] Internal links use relative paths
+[PASS] Original SVG asset loads locally
+[PASS] SEO title and meta description present
+[PASS] Concept disclaimer present
+[PASS] No internal scores or affordability language on public page
+[PASS] No third-party libraries or credentials
+[PASS] Netlify/GitHub Pages ready
+Local automated desktop/mobile browser QA: PASS. Public signed-out verification: Pending deployment gate.

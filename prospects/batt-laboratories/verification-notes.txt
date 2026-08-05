@@ -1,0 +1,12 @@
+VERIFICATION NOTES — Batt Laboratories
+Research date: 2026-08-05
+Official website: https://battlab.com/
+Public email: admin@battlab.com
+Public phone: 0247 632 3275
+Industry/location used: Veterinary diagnostic laboratory — Coventry, UK
+Public services used: Clinical pathology, Gastroenterology and genetics, Infectious disease and allergy testing
+Duplicate checks: Connected Gmail and GitHub search returned no matching prior MDA contact or prospect record for the selected identifiers.
+Commercial capability assessment: Strong (reasoned from the specialist service range, commercial positioning and current operating contact information; not a statement of finances).
+Image source: Original SVG illustration created for this private concept. No staff, premises, clients, awards or project claims are depicted.
+Public demo URL planned: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/batt-laboratories/
+MDA URL: https://mdagrowthsystems.com/

@@ -1,0 +1,27 @@
+Recipient email
+admin@battlab.com
+
+Intended subject
+Re: A clearer sample-submission route
+
+Follow-up timing
+Five business days after the approved first email is sent.
+
+Main message
+Hi Laboratory administration team,
+
+A quick follow-up on the personalised concept:
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/batt-laboratories/
+
+A required test-family field could reduce back-and-forth before collection and help the laboratory route enquiries to the right team sooner.
+
+Worth a quick look?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com/
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Threading status
+Prepared standalone Re: draft only; genuine threading is impossible until the first email is sent.

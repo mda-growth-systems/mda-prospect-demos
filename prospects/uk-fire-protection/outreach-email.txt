@@ -1,0 +1,28 @@
+Recipient email
+admin@uk-fireltd.com
+
+Contact person
+Fire safety enquiries team
+
+Subject
+Fire enquiries, sorted by urgency
+
+Main message
+Hi Fire safety team,
+
+UK Fire Protection offers extinguishers, alarms, risk assessments, training and 24/7 support from Croydon. I created an unofficial concept around a fire-safety route that separates active impairments, scheduled servicing, risk assessments and training before the first callback.
+
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/uk-fire-protection/
+
+Would this make the first enquiry more useful for your team?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com/
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/uk-fire-protection/
+MDA Growth Systems URL: https://mdagrowthsystems.com/
+Status: Pending public deployment verification before Gmail draft creation.

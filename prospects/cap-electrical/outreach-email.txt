@@ -1,0 +1,28 @@
+Recipient email
+info@capelectrical.co.uk
+
+Contact person
+Commercial projects team
+
+Subject
+CAP — project brief idea
+
+Main message
+Hi Commercial projects team,
+
+CAP Electrical positions itself for nationwide commercial work and asks prospects to share project scope and dates. I created an unofficial concept around a tender-ready project intake that separates formal bids, planned upgrades and urgent defects while collecting the documents and timing your team needs.
+
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/cap-electrical/
+
+Would this make the first enquiry more useful for your team?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com/
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/cap-electrical/
+MDA Growth Systems URL: https://mdagrowthsystems.com/
+Status: Pending public deployment verification before Gmail draft creation.

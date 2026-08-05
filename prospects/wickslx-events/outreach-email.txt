@@ -1,0 +1,28 @@
+Recipient email
+hello@wickslx.com
+
+Contact person
+Event production team
+
+Subject
+WicksLX — show brief idea
+
+Main message
+Hi Event production team,
+
+WicksLX delivers lighting, video, audio and full production for UK tours, shows and live events. I created an unofficial concept around a production brief that captures dates, venue, service scope, power and rigging status before the first technical call.
+
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/wickslx-events/
+
+Would this make the first enquiry more useful for your team?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com/
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/wickslx-events/
+MDA Growth Systems URL: https://mdagrowthsystems.com/
+Status: Pending public deployment verification before Gmail draft creation.

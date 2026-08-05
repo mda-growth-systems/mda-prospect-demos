@@ -10,11 +10,11 @@ Portcullis — bay fault routing
 Main message
 Hi Service and projects team,
 
-Portcullis supports industrial doors and loading-bay equipment nationwide, where “stuck open” and “stuck closed” create very different security and access problems. I created an unofficial concept that turns that into a clearer bay fault router.
+For an industrial door, “stuck open” creates a different security and weather risk from “stuck closed,” which can halt access completely. I prepared an unofficial Portcullis concept that routes those situations separately and captures the equipment and site impact upfront.
 
 Demo: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/portcullis-site-services/
 
-It is a private sales concept, not your official website. Would this make the first enquiry easier for your team to act on?
+Worth showing to the person who handles service enquiries?
 
 Michael
 MDA Growth Systems
@@ -25,4 +25,4 @@ Not relevant? Reply “no thanks” and I will not contact you again.
 Links verified
 Prospect demo: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/portcullis-site-services/
 MDA Growth Systems: https://mdagrowthsystems.com/
-Final public test: pending deployment workflow
+Final public test: PASS — 2026-08-05 21:46 SAST via GitHub Actions signed-out HTTPS curl checks

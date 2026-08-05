@@ -10,11 +10,11 @@ Racking projects, scoped upfront
 Main message
 Hi Racking projects team,
 
-Your team installs, inspects, repairs and relocates racking across the UK and Europe, but each route needs very different site details. I created an unofficial concept that turns that into a clearer warehouse bay planner.
+Installation, relocation, inspection and an isolated damaged bay all need different site information. I created an unofficial concept for The Racking Installation Company that lets the customer choose the job type, bay count and damage status before requesting contact.
 
-Demo: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/racking-installation-company/
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/racking-installation-company/
 
-It is a private sales concept, not your official website. Would this make the first enquiry easier for your team to act on?
+Could this make early project scoping quicker for your team?
 
 Michael
 MDA Growth Systems
@@ -25,4 +25,4 @@ Not relevant? Reply “no thanks” and I will not contact you again.
 Links verified
 Prospect demo: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/racking-installation-company/
 MDA Growth Systems: https://mdagrowthsystems.com/
-Final public test: pending deployment workflow
+Final public test: PASS — 2026-08-05 21:46 SAST via GitHub Actions signed-out HTTPS curl checks

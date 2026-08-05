@@ -10,11 +10,11 @@ Forklift downtime, diagnosed sooner
 Main message
 Hi Forklift service team,
 
-Independent Forklift Services covers repairs and servicing around Rugby and the Midlands, where a failed truck can either be an inconvenience or stop a loading shift. I created an unofficial concept that turns that into a clearer truck downtime desk.
+Around a busy Midlands warehouse, one failed truck may be manageable—or it may stop the entire loading shift. I put together an unofficial Independent Forklift Services concept that captures truck type, fault and whether a spare is available.
 
 Demo: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/independent-forklift-services/
 
-It is a private sales concept, not your official website. Would this make the first enquiry easier for your team to act on?
+Would that give your service team a better starting point for callouts?
 
 Michael
 MDA Growth Systems
@@ -25,4 +25,4 @@ Not relevant? Reply “no thanks” and I will not contact you again.
 Links verified
 Prospect demo: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/independent-forklift-services/
 MDA Growth Systems: https://mdagrowthsystems.com/
-Final public test: pending deployment workflow
+Final public test: PASS — 2026-08-05 21:46 SAST via GitHub Actions signed-out HTTPS curl checks

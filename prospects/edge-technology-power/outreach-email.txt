@@ -10,11 +10,11 @@ Edge Technology — outage intake
 Main message
 Hi Power enquiries team,
 
-Your team covers generator sales, installation and 24/7 repairs across the UK, where the first useful question is often not “how can we help?” but “what is currently keeping the site running?” I created an unofficial concept that turns that into a clearer power continuity brief.
+Generator enquiries become urgent when the caller cannot explain whether mains, ATS or standby power is currently carrying the site. I mapped a short outage-intake concept for Edge Technology that captures that before the first callback.
 
-Demo: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/edge-technology-power/
+Unofficial demo: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/edge-technology-power/
 
-It is a private sales concept, not your official website. Would this make the first enquiry easier for your team to act on?
+Could this help your engineers separate routine alarms from genuine continuity risks sooner?
 
 Michael
 MDA Growth Systems
@@ -25,4 +25,4 @@ Not relevant? Reply “no thanks” and I will not contact you again.
 Links verified
 Prospect demo: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/edge-technology-power/
 MDA Growth Systems: https://mdagrowthsystems.com/
-Final public test: pending deployment workflow
+Final public test: PASS — 2026-08-05 21:46 SAST via GitHub Actions signed-out HTTPS curl checks

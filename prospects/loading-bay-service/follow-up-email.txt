@@ -10,9 +10,11 @@ Prepared — genuine thread creation pending after the first email is approved a
 Main message
 Hi Loading-bay projects team,
 
-A quick follow-up on the unofficial concept: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/loading-bay-service/
+The most useful part may be the vehicle-to-floor section—it gives your surveyor the likely geometry and access constraints before visiting site.
 
-A simple vehicle-to-floor brief could help your team arrive at the survey with the main geometry and access constraints already known. Worth a quick look?
+Demo: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/loading-bay-service/
+
+Should I send the two-minute overview?
 
 Michael
 MDA Growth Systems
@@ -23,4 +25,4 @@ Not relevant? Reply “no thanks” and I will not contact you again.
 Links verified
 Prospect demo: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/loading-bay-service/
 MDA Growth Systems: https://mdagrowthsystems.com/
-Final public test: pending deployment workflow
+Final public test: PASS — 2026-08-05 21:46 SAST via GitHub Actions signed-out HTTPS curl checks

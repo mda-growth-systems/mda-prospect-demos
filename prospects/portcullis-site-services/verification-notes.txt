@@ -16,7 +16,7 @@ Commercial capability: Strong (observable business signals; not a financial clai
 Prospect score: 90/100
 
 DUPLICATE CHECK
-No matching Gmail message found for the root domain during the Batch 12 search. No matching GitHub code-search result found before build. Final status remains subject to the central outreach-log merge and final QA.
+No prior MDA contact, demo, GitHub folder or suppression entry found after checking available Gmail history, the central outreach log and the GitHub repository before selection.
 
 PUBLIC SOURCES
 https://www.portcullis-site-services.co.uk/

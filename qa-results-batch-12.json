@@ -1,0 +1,19 @@
+{
+  "batch": 12,
+  "date": "2026-08-05",
+  "prospects": 10,
+  "demos_public_verified": 10,
+  "first_contact_gmail_drafts": 10,
+  "follow_up_texts_prepared": 10,
+  "threaded_follow_up_drafts": 0,
+  "emails_sent": 0,
+  "mda_link_verified": true,
+  "public_verification_file": "pages-verification-batch-12.txt",
+  "github_pr": 9,
+  "credibility_blockers": [
+    ".info sending domain versus .com website",
+    "display name not yet Michael | MDA Growth Systems",
+    "SPF/DKIM/DMARC not verified",
+    "unbranded GitHub Pages demo links"
+  ]
+}

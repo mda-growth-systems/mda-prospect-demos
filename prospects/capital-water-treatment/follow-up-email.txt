@@ -10,9 +10,11 @@ Prepared — genuine thread creation pending after the first email is approved a
 Main message
 Hi Water-treatment sales team,
 
-A quick follow-up on the unofficial concept: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/capital-water-treatment/
+The application-to-system route could immediately distinguish a new RO project from a service issue or consumables request.
 
-An application-to-system route could help technical sales distinguish a new RO project from a service issue or consumables request immediately. Worth a quick look?
+Concept: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/capital-water-treatment/
+
+Would that save your team time at the qualification stage?
 
 Michael
 MDA Growth Systems
@@ -23,4 +25,4 @@ Not relevant? Reply “no thanks” and I will not contact you again.
 Links verified
 Prospect demo: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/capital-water-treatment/
 MDA Growth Systems: https://mdagrowthsystems.com/
-Final public test: pending deployment workflow
+Final public test: PASS — 2026-08-05 21:46 SAST via GitHub Actions signed-out HTTPS curl checks

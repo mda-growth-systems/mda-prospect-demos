@@ -10,11 +10,11 @@ Kitchen breakdowns, ready to dispatch
 Main message
 Hi Commercial kitchen service team,
 
-SRC repairs Rational, Lincat, Blue Seal and other commercial kitchen equipment across London and the South East, where the failed appliance and trading impact shape the response. I created an unofficial concept that turns that into a clearer kitchen breakdown triage.
+When a Rational, Lincat or Blue Seal unit fails, the appliance details and effect on trading matter before an engineer is dispatched. I built an unofficial SRC concept that asks for the equipment, fault, data plate and service impact in one short route.
 
-Demo: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/src-catering-services/
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/src-catering-services/
 
-It is a private sales concept, not your official website. Would this make the first enquiry easier for your team to act on?
+Would this reduce the back-and-forth on breakdown bookings?
 
 Michael
 MDA Growth Systems
@@ -25,4 +25,4 @@ Not relevant? Reply “no thanks” and I will not contact you again.
 Links verified
 Prospect demo: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/src-catering-services/
 MDA Growth Systems: https://mdagrowthsystems.com/
-Final public test: pending deployment workflow
+Final public test: PASS — 2026-08-05 21:46 SAST via GitHub Actions signed-out HTTPS curl checks

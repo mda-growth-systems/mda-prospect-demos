@@ -10,9 +10,11 @@ Prepared — genuine thread creation pending after the first email is approved a
 Main message
 Hi Commercial kitchen service team,
 
-A quick follow-up on the unofficial concept: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/src-catering-services/
+The data-plate prompt is there to give the engineer a stronger first brief when a core cooking line is down.
 
-A data-plate and service-impact prompt could reduce the first round of questions when a core cooking line is down. Worth a quick look?
+Demo: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/src-catering-services/
+
+Worth a quick look from the service desk’s point of view?
 
 Michael
 MDA Growth Systems
@@ -23,4 +25,4 @@ Not relevant? Reply “no thanks” and I will not contact you again.
 Links verified
 Prospect demo: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/src-catering-services/
 MDA Growth Systems: https://mdagrowthsystems.com/
-Final public test: pending deployment workflow
+Final public test: PASS — 2026-08-05 21:46 SAST via GitHub Actions signed-out HTTPS curl checks

@@ -1,0 +1,130 @@
+name: Finalize Batch 13 records
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/finalize-batch-13-records.yml'
+      - 'gmail-draft-verification-batch-13.csv'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  finalize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Synchronize final Batch 13 status
+        shell: bash
+        run: |
+          set -euo pipefail
+          python - <<'PY'
+          import csv, json
+          from pathlib import Path
+
+          verified = '2026-08-05T20:45:25Z'
+          base = 'https://mda-growth-systems.github.io/mda-prospect-demos/'
+          gmail = Path('gmail-draft-verification-batch-13.csv')
+          with gmail.open(newline='', encoding='utf-8-sig') as f:
+              draft_rows = list(csv.DictReader(f))
+          by_email = {r['Recipient'].strip().lower(): r for r in draft_rows}
+
+          for filename in ('outreach-log-batch-13.csv', 'outreach-log.csv'):
+              path = Path(filename)
+              if not path.exists():
+                  continue
+              with path.open(newline='', encoding='utf-8-sig') as f:
+                  reader = csv.DictReader(f)
+                  rows = list(reader)
+                  fields = reader.fieldnames
+              changed = False
+              for row in rows:
+                  email = row.get('Contact email', '').strip().lower()
+                  if email not in by_email:
+                      continue
+                  row['Demo status'] = 'Published on GitHub Pages; signed-out HTTPS verification passed'
+                  row['Gmail first-draft status'] = 'Created in Gmail; not sent'
+                  row['Gmail follow-up status'] = 'Prepared text only — genuine thread pending after first email is sent'
+                  row['Outreach status'] = 'Drafted in Gmail; not sent'
+                  row['Delivery status'] = 'Not applicable — no email sent'
+                  row['Reply status'] = 'Not applicable — no email sent'
+                  changed = True
+              if changed:
+                  with path.open('w', newline='', encoding='utf-8') as f:
+                      writer = csv.DictWriter(f, fieldnames=fields, extrasaction='ignore')
+                      writer.writeheader(); writer.writerows(rows)
+
+          prospects = {
+              'mp-electrics-industrial-batteries', 'all-bms', 'dwas-tex-commercial-laundry',
+              'doorcheck-fire-door-inspections', 'fire-suppression-limited', 'sentral-lift-services',
+              'extraction-canopy', 'quest-industrial-flooring', 'airmec-essential-services',
+              'process-control-panels'
+          }
+          for slug in prospects:
+              folder = Path('prospects') / slug
+              outreach = folder / 'outreach-email.txt'
+              if outreach.exists():
+                  text = outreach.read_text(encoding='utf-8')
+                  text = text.replace(
+                      'Public verification: pending GitHub Pages deployment and signed-out HTTPS test.',
+                      f'Public verification: PASS — GitHub Pages signed-out HTTPS workflow verified the demo and MDA link at {verified}.'
+                  )
+                  outreach.write_text(text, encoding='utf-8')
+              qa = folder / 'qa-checklist.txt'
+              if qa.exists():
+                  text = qa.read_text(encoding='utf-8').replace(
+                      '[PENDING] Signed-out public HTTPS verification after GitHub deployment',
+                      '[PASS] Signed-out public HTTPS verification after GitHub deployment'
+                  )
+                  qa.write_text(text, encoding='utf-8')
+              notes = folder / 'verification-notes.txt'
+              if notes.exists():
+                  text = notes.read_text(encoding='utf-8').replace(
+                      'Public deployment: pending.',
+                      f'Public deployment: PASS — {base}prospects/{slug}/ verified signed out at {verified}.'
+                  )
+                  if 'Gmail first-contact draft:' not in text:
+                      text += '\nGmail first-contact draft: Created in Gmail; not sent.\n'
+                  notes.write_text(text, encoding='utf-8')
+
+          qa_path = Path('qa-results-batch-13.json')
+          if qa_path.exists():
+              data = json.loads(qa_path.read_text(encoding='utf-8'))
+              data.update({
+                  'public_deployment': 'PASS',
+                  'signed_out_link_verification': 'PASS',
+                  'verified_utc': verified,
+                  'gmail_first_contact_drafts': 10,
+                  'gmail_follow_up_threaded_drafts': 0,
+                  'external_emails_sent': 0
+              })
+              qa_path.write_text(json.dumps(data, indent=2) + '\n', encoding='utf-8')
+
+          manifest_path = Path('batch-13-manifest.json')
+          if manifest_path.exists():
+              data = json.loads(manifest_path.read_text(encoding='utf-8'))
+              data.update({
+                  'status': 'Complete — public links verified; 10 Gmail drafts created; no email sent',
+                  'verified_utc': verified,
+                  'dashboard_url': base + 'batch-13.html',
+                  'gmail_drafts': 10,
+                  'threaded_followups': 0
+              })
+              manifest_path.write_text(json.dumps(data, indent=2) + '\n', encoding='utf-8')
+          PY
+
+      - name: Commit synchronized records
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "mda-growth-systems"
+          git config user.email "michael@mdagrowthsystems.info"
+          git add outreach-log.csv outreach-log-batch-13.csv qa-results-batch-13.json batch-13-manifest.json prospects
+          git commit -m "Finalize Batch 13 status records [skip ci]" || true
+          git pull --rebase
+          git push

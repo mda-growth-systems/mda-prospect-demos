@@ -29,7 +29,7 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v4
 
-      - name: Expand and save Batch 08 folders
+      - name: Expand and save Batch 08 payload
         shell: bash
         run: |
           set -euo pipefail
@@ -45,28 +45,31 @@ jobs:
           batch=Path('outreach-log-batch-08.csv')
           if batch.exists():
               with batch.open(newline='',encoding='utf-8') as f:
-                  new=list(csv.DictReader(f))
+                  incoming=list(csv.DictReader(f))
               existing=[]
-              fields=list(new[0].keys()) if new else []
+              fields=list(incoming[0].keys()) if incoming else []
               if master.exists():
                   with master.open(newline='',encoding='utf-8') as f:
                       reader=csv.DictReader(f)
                       existing=list(reader)
                       fields=reader.fieldnames or fields
-              known={r.get('Normalised root domain','').strip().lower() for r in existing}
-              for row in new:
+              index={r.get('Normalised root domain','').strip().lower():i for i,r in enumerate(existing)}
+              for row in incoming:
                   domain=row.get('Normalised root domain','').strip().lower()
-                  if domain and domain not in known:
-                      existing.append({k:row.get(k,'') for k in fields})
-                      known.add(domain)
+                  clean={k:row.get(k,'') for k in fields}
+                  if domain in index:
+                      existing[index[domain]].update(clean)
+                  elif domain:
+                      index[domain]=len(existing)
+                      existing.append(clean)
               with master.open('w',newline='',encoding='utf-8') as f:
-                  writer=csv.DictWriter(f,fieldnames=fields)
+                  writer=csv.DictWriter(f,fieldnames=fields,extrasaction='ignore')
                   writer.writeheader(); writer.writerows(existing)
           PY
             git config user.name "mda-growth-systems"
             git config user.email "michael@mdagrowthsystems.info"
             git add -A
-            git commit -m "Add Batch 08 prospect website folders [skip ci]"
+            git commit -m "Finalize Batch 08 records and Gmail draft status [skip ci]"
             git push
           fi
 
@@ -127,5 +130,5 @@ jobs:
           git config user.name "mda-growth-systems"
           git config user.email "michael@mdagrowthsystems.info"
           git add pages-verification-batch-08.txt
-          git commit -m "Verify Batch 08 public pages [skip ci]" || exit 0
+          git commit -m "Verify finalized Batch 08 public pages [skip ci]" || exit 0
           git push

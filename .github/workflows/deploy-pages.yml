@@ -125,9 +125,9 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          git pull --rebase
           git config user.name "mda-growth-systems"
           git config user.email "michael@mdagrowthsystems.info"
           git add pages-verification-batch-12.txt
           git commit -m "Verify Batch 12 public pages [skip ci]" || true
+          git pull --rebase
           git push

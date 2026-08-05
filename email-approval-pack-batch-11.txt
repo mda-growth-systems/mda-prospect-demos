@@ -1,3 +1,7 @@
+================================================================================
+Batt Laboratories — FIRST CONTACT
+================================================================================
+
 Recipient email
 admin@battlab.com
 
@@ -25,9 +29,13 @@ Not relevant? Reply “no thanks” and I will not contact you again.
 Links verified
 Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/batt-laboratories/
 MDA Growth Systems URL: https://mdagrowthsystems.com/
-Status: Pending public deployment verification before Gmail draft creation.
+Status: Public demo and MDA website verified at 2026-08-05T13:39:38Z; Gmail first-contact draft created; not sent. Gmail message reference: 19fd227563c8dd51.
 
---- FOLLOW-UP ---
+
+--------------------------------------------------------------------------------
+Batt Laboratories — FOLLOW-UP
+--------------------------------------------------------------------------------
+
 Recipient email
 admin@battlab.com
 
@@ -54,10 +62,19 @@ https://mdagrowthsystems.com/
 Not relevant? Reply “no thanks” and I will not contact you again.
 
 Threading status
-Prepared standalone Re: draft only; genuine threading is impossible until the first email is sent.
+Standalone Re: Gmail draft created; not sent. Genuine threading remains pending until the first email is sent. Gmail message reference: 19fd227978183136.
 
 
-==========================================================================================
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/batt-laboratories/
+MDA Growth Systems URL: https://mdagrowthsystems.com/
+Status: Both links verified publicly at 2026-08-05T13:39:38Z.
+
+
+
+================================================================================
+CAP Electrical — FIRST CONTACT
+================================================================================
 
 Recipient email
 info@capelectrical.co.uk
@@ -86,9 +103,13 @@ Not relevant? Reply “no thanks” and I will not contact you again.
 Links verified
 Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/cap-electrical/
 MDA Growth Systems URL: https://mdagrowthsystems.com/
-Status: Pending public deployment verification before Gmail draft creation.
+Status: Public demo and MDA website verified at 2026-08-05T13:39:38Z; Gmail first-contact draft created; not sent. Gmail message reference: 19fd227cf7c0dbf2.
 
---- FOLLOW-UP ---
+
+--------------------------------------------------------------------------------
+CAP Electrical — FOLLOW-UP
+--------------------------------------------------------------------------------
+
 Recipient email
 info@capelectrical.co.uk
 
@@ -115,10 +136,19 @@ https://mdagrowthsystems.com/
 Not relevant? Reply “no thanks” and I will not contact you again.
 
 Threading status
-Prepared standalone Re: draft only; genuine threading is impossible until the first email is sent.
+Standalone Re: Gmail draft created; not sent. Genuine threading remains pending until the first email is sent. Gmail message reference: 19fd22809dbb5796.
 
 
-==========================================================================================
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/cap-electrical/
+MDA Growth Systems URL: https://mdagrowthsystems.com/
+Status: Both links verified publicly at 2026-08-05T13:39:38Z.
+
+
+
+================================================================================
+Industrial Cleansing Services — FIRST CONTACT
+================================================================================
 
 Recipient email
 enquiries@ics-kent.co.uk
@@ -147,9 +177,13 @@ Not relevant? Reply “no thanks” and I will not contact you again.
 Links verified
 Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/industrial-cleansing-services/
 MDA Growth Systems URL: https://mdagrowthsystems.com/
-Status: Pending public deployment verification before Gmail draft creation.
+Status: Public demo and MDA website verified at 2026-08-05T13:39:38Z; Gmail first-contact draft created; not sent. Gmail message reference: 19fd2283a83e6552.
 
---- FOLLOW-UP ---
+
+--------------------------------------------------------------------------------
+Industrial Cleansing Services — FOLLOW-UP
+--------------------------------------------------------------------------------
+
 Recipient email
 enquiries@ics-kent.co.uk
 
@@ -176,10 +210,19 @@ https://mdagrowthsystems.com/
 Not relevant? Reply “no thanks” and I will not contact you again.
 
 Threading status
-Prepared standalone Re: draft only; genuine threading is impossible until the first email is sent.
+Standalone Re: Gmail draft created; not sent. Genuine threading remains pending until the first email is sent. Gmail message reference: 19fd2286923dc6af.
 
 
-==========================================================================================
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/industrial-cleansing-services/
+MDA Growth Systems URL: https://mdagrowthsystems.com/
+Status: Both links verified publicly at 2026-08-05T13:39:38Z.
+
+
+
+================================================================================
+Tri-Bond Roofing — FIRST CONTACT
+================================================================================
 
 Recipient email
 info@tri-bondroofing.co.uk
@@ -208,9 +251,13 @@ Not relevant? Reply “no thanks” and I will not contact you again.
 Links verified
 Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/tri-bond-roofing/
 MDA Growth Systems URL: https://mdagrowthsystems.com/
-Status: Pending public deployment verification before Gmail draft creation.
+Status: Public demo and MDA website verified at 2026-08-05T13:39:38Z; Gmail first-contact draft created; not sent. Gmail message reference: 19fd228adc76643c.
 
---- FOLLOW-UP ---
+
+--------------------------------------------------------------------------------
+Tri-Bond Roofing — FOLLOW-UP
+--------------------------------------------------------------------------------
+
 Recipient email
 info@tri-bondroofing.co.uk
 
@@ -237,10 +284,19 @@ https://mdagrowthsystems.com/
 Not relevant? Reply “no thanks” and I will not contact you again.
 
 Threading status
-Prepared standalone Re: draft only; genuine threading is impossible until the first email is sent.
+Standalone Re: Gmail draft created; not sent. Genuine threading remains pending until the first email is sent. Gmail message reference: 19fd228f00954157.
 
 
-==========================================================================================
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/tri-bond-roofing/
+MDA Growth Systems URL: https://mdagrowthsystems.com/
+Status: Both links verified publicly at 2026-08-05T13:39:38Z.
+
+
+
+================================================================================
+UK Fire Protection — FIRST CONTACT
+================================================================================
 
 Recipient email
 admin@uk-fireltd.com
@@ -269,9 +325,13 @@ Not relevant? Reply “no thanks” and I will not contact you again.
 Links verified
 Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/uk-fire-protection/
 MDA Growth Systems URL: https://mdagrowthsystems.com/
-Status: Pending public deployment verification before Gmail draft creation.
+Status: Public demo and MDA website verified at 2026-08-05T13:39:38Z; Gmail first-contact draft created; not sent. Gmail message reference: 19fd2291f4c05d90.
 
---- FOLLOW-UP ---
+
+--------------------------------------------------------------------------------
+UK Fire Protection — FOLLOW-UP
+--------------------------------------------------------------------------------
+
 Recipient email
 admin@uk-fireltd.com
 
@@ -298,10 +358,19 @@ https://mdagrowthsystems.com/
 Not relevant? Reply “no thanks” and I will not contact you again.
 
 Threading status
-Prepared standalone Re: draft only; genuine threading is impossible until the first email is sent.
+Standalone Re: Gmail draft created; not sent. Genuine threading remains pending until the first email is sent. Gmail message reference: 19fd229595f79058.
 
 
-==========================================================================================
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/uk-fire-protection/
+MDA Growth Systems URL: https://mdagrowthsystems.com/
+Status: Both links verified publicly at 2026-08-05T13:39:38Z.
+
+
+
+================================================================================
+National Pump Services — FIRST CONTACT
+================================================================================
 
 Recipient email
 enquiries@nationalpumpservices.co.uk
@@ -330,9 +399,13 @@ Not relevant? Reply “no thanks” and I will not contact you again.
 Links verified
 Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/national-pump-services/
 MDA Growth Systems URL: https://mdagrowthsystems.com/
-Status: Pending public deployment verification before Gmail draft creation.
+Status: Public demo and MDA website verified at 2026-08-05T13:39:38Z; Gmail first-contact draft created; not sent. Gmail message reference: 19fd22985619022c.
 
---- FOLLOW-UP ---
+
+--------------------------------------------------------------------------------
+National Pump Services — FOLLOW-UP
+--------------------------------------------------------------------------------
+
 Recipient email
 enquiries@nationalpumpservices.co.uk
 
@@ -359,10 +432,19 @@ https://mdagrowthsystems.com/
 Not relevant? Reply “no thanks” and I will not contact you again.
 
 Threading status
-Prepared standalone Re: draft only; genuine threading is impossible until the first email is sent.
+Standalone Re: Gmail draft created; not sent. Genuine threading remains pending until the first email is sent. Gmail message reference: 19fd229c7c907370.
 
 
-==========================================================================================
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/national-pump-services/
+MDA Growth Systems URL: https://mdagrowthsystems.com/
+Status: Both links verified publicly at 2026-08-05T13:39:38Z.
+
+
+
+================================================================================
+Automatic Access — FIRST CONTACT
+================================================================================
 
 Recipient email
 sales@automaticaccess.co.uk
@@ -391,9 +473,13 @@ Not relevant? Reply “no thanks” and I will not contact you again.
 Links verified
 Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/automatic-access/
 MDA Growth Systems URL: https://mdagrowthsystems.com/
-Status: Pending public deployment verification before Gmail draft creation.
+Status: Public demo and MDA website verified at 2026-08-05T13:39:38Z; Gmail first-contact draft created; not sent. Gmail message reference: 19fd22a074ad0216.
 
---- FOLLOW-UP ---
+
+--------------------------------------------------------------------------------
+Automatic Access — FOLLOW-UP
+--------------------------------------------------------------------------------
+
 Recipient email
 sales@automaticaccess.co.uk
 
@@ -420,10 +506,19 @@ https://mdagrowthsystems.com/
 Not relevant? Reply “no thanks” and I will not contact you again.
 
 Threading status
-Prepared standalone Re: draft only; genuine threading is impossible until the first email is sent.
+Standalone Re: Gmail draft created; not sent. Genuine threading remains pending until the first email is sent. Gmail message reference: 19fd22a34a11d83d.
 
 
-==========================================================================================
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/automatic-access/
+MDA Growth Systems URL: https://mdagrowthsystems.com/
+Status: Both links verified publicly at 2026-08-05T13:39:38Z.
+
+
+
+================================================================================
+Pro Drainage — FIRST CONTACT
+================================================================================
 
 Recipient email
 info@prodrainage.co.uk
@@ -452,9 +547,13 @@ Not relevant? Reply “no thanks” and I will not contact you again.
 Links verified
 Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/pro-drainage/
 MDA Growth Systems URL: https://mdagrowthsystems.com/
-Status: Pending public deployment verification before Gmail draft creation.
+Status: Public demo and MDA website verified at 2026-08-05T13:39:38Z; Gmail first-contact draft created; not sent. Gmail message reference: 19fd22a5f3d50bf2.
 
---- FOLLOW-UP ---
+
+--------------------------------------------------------------------------------
+Pro Drainage — FOLLOW-UP
+--------------------------------------------------------------------------------
+
 Recipient email
 info@prodrainage.co.uk
 
@@ -481,10 +580,19 @@ https://mdagrowthsystems.com/
 Not relevant? Reply “no thanks” and I will not contact you again.
 
 Threading status
-Prepared standalone Re: draft only; genuine threading is impossible until the first email is sent.
+Standalone Re: Gmail draft created; not sent. Genuine threading remains pending until the first email is sent. Gmail message reference: 19fd22a9f673922e.
 
 
-==========================================================================================
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/pro-drainage/
+MDA Growth Systems URL: https://mdagrowthsystems.com/
+Status: Both links verified publicly at 2026-08-05T13:39:38Z.
+
+
+
+================================================================================
+UKFM Warehousing — FIRST CONTACT
+================================================================================
 
 Recipient email
 info@ukfmwarehousing.co.uk
@@ -513,9 +621,13 @@ Not relevant? Reply “no thanks” and I will not contact you again.
 Links verified
 Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/ukfm-warehousing/
 MDA Growth Systems URL: https://mdagrowthsystems.com/
-Status: Pending public deployment verification before Gmail draft creation.
+Status: Public demo and MDA website verified at 2026-08-05T13:39:38Z; Gmail first-contact draft created; not sent. Gmail message reference: 19fd22ae77a14cf5.
 
---- FOLLOW-UP ---
+
+--------------------------------------------------------------------------------
+UKFM Warehousing — FOLLOW-UP
+--------------------------------------------------------------------------------
+
 Recipient email
 info@ukfmwarehousing.co.uk
 
@@ -542,10 +654,19 @@ https://mdagrowthsystems.com/
 Not relevant? Reply “no thanks” and I will not contact you again.
 
 Threading status
-Prepared standalone Re: draft only; genuine threading is impossible until the first email is sent.
+Standalone Re: Gmail draft created; not sent. Genuine threading remains pending until the first email is sent. Gmail message reference: 19fd22b212a1d84b.
 
 
-==========================================================================================
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/ukfm-warehousing/
+MDA Growth Systems URL: https://mdagrowthsystems.com/
+Status: Both links verified publicly at 2026-08-05T13:39:38Z.
+
+
+
+================================================================================
+WicksLX — FIRST CONTACT
+================================================================================
 
 Recipient email
 hello@wickslx.com
@@ -574,9 +695,13 @@ Not relevant? Reply “no thanks” and I will not contact you again.
 Links verified
 Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/wickslx-events/
 MDA Growth Systems URL: https://mdagrowthsystems.com/
-Status: Pending public deployment verification before Gmail draft creation.
+Status: Public demo and MDA website verified at 2026-08-05T13:39:38Z; Gmail first-contact draft created; not sent. Gmail message reference: 19fd22b4e8e5d63c.
 
---- FOLLOW-UP ---
+
+--------------------------------------------------------------------------------
+WicksLX — FOLLOW-UP
+--------------------------------------------------------------------------------
+
 Recipient email
 hello@wickslx.com
 
@@ -603,8 +728,12 @@ https://mdagrowthsystems.com/
 Not relevant? Reply “no thanks” and I will not contact you again.
 
 Threading status
-Prepared standalone Re: draft only; genuine threading is impossible until the first email is sent.
+Standalone Re: Gmail draft created; not sent. Genuine threading remains pending until the first email is sent. Gmail message reference: 19fd22b7d912718e.
 
 
-==========================================================================================
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/wickslx-events/
+MDA Growth Systems URL: https://mdagrowthsystems.com/
+Status: Both links verified publicly at 2026-08-05T13:39:38Z.
+
 

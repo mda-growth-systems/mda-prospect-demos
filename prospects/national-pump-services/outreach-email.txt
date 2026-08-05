@@ -25,4 +25,4 @@ Not relevant? Reply “no thanks” and I will not contact you again.
 Links verified
 Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/national-pump-services/
 MDA Growth Systems URL: https://mdagrowthsystems.com/
-Status: Pending public deployment verification before Gmail draft creation.
+Status: Public demo and MDA website verified at 2026-08-05T13:39:38Z; Gmail first-contact draft created; not sent. Gmail message reference: 19fd22985619022c.

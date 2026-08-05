@@ -13,3 +13,7 @@ QA CHECKLIST
 [PASS] No third-party libraries or credentials
 [PASS] Netlify/GitHub Pages ready
 Local automated desktop/mobile browser QA: PASS. Public signed-out verification: Pending deployment gate.
+
+Public GitHub Pages QA: PASS at 2026-08-05T13:39:38Z
+Main page and thank-you page returned successfully while unauthenticated.
+Email-link QA: PASS for prospect demo URL and https://mdagrowthsystems.com/.

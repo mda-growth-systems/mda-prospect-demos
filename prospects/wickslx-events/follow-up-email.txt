@@ -24,4 +24,10 @@ https://mdagrowthsystems.com/
 Not relevant? Reply “no thanks” and I will not contact you again.
 
 Threading status
-Prepared standalone Re: draft only; genuine threading is impossible until the first email is sent.
+Standalone Re: Gmail draft created; not sent. Genuine threading remains pending until the first email is sent. Gmail message reference: 19fd22b7d912718e.
+
+
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/wickslx-events/
+MDA Growth Systems URL: https://mdagrowthsystems.com/
+Status: Both links verified publicly at 2026-08-05T13:39:38Z.

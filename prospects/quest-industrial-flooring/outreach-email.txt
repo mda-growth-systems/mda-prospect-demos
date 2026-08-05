@@ -1,0 +1,28 @@
+Recipient email
+sales@questltd.co.uk
+
+Contact person
+Relevant Industrial flooring team; no named recipient independently verified for this outreach.
+
+Subject
+Flooring surveys, specified sooner
+
+Main message
+Hi Industrial flooring team,
+
+Quest works across resin flooring, polished concrete and floor preparation, where substrate, traffic, exposure and shutdown time can change the specification. I built an unofficial concept around those decisions:
+
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/quest-industrial-flooring/
+
+It turns a general quote request into a more useful site-survey brief. Would this help your estimators qualify projects faster?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/quest-industrial-flooring/
+MDA Growth Systems URL: https://mdagrowthsystems.com/
+Public verification: pending GitHub Pages deployment and signed-out HTTPS test.

@@ -1,0 +1,23 @@
+VERIFICATION NOTES — DWAS Tex
+
+Official website: https://dwastex.co.uk/
+Domain: dwastex.co.uk
+Public email: danish@dwastex.co.uk
+Public phone: 0333 577 0106
+Location: South London with international branches
+Verified capability: Commercial laundry equipment supplier serving laundries and commercial operators, with a South London head office and listed branches in Qatar and Saudi Arabia.
+Observed opportunity: The site presents equipment and contact details, but buyers cannot quickly distinguish a new laundry project from a machine fault or capacity upgrade.
+Recommended MDA opportunity: A laundry-load planner that captures sector, daily volume, utilities and whether the need is supply, repair or full-room design.
+Commercial capability assessment: Strong — based on visible service breadth, business-to-business relevance and operational complexity; not a claim about finances.
+Duplicate checks completed on 2026-08-05:
+- Connected Gmail searched using business domain: no result.
+- GitHub repository searched using business domain: no result.
+- Central outreach log/repository search used as a supporting source.
+Result: No prior MDA contact, demo, GitHub folder or suppression entry found in the available checks.
+
+Asset notes:
+- Hero artwork is an original inline SVG created for this private concept.
+- No staff, premises, vehicles, client logos, awards or project images were invented.
+- No third-party stock imagery or externally hosted assets are used.
+
+Public deployment: pending.

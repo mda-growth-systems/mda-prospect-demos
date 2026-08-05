@@ -1,0 +1,23 @@
+VERIFICATION NOTES — Extraction Canopy
+
+Official website: https://www.extractioncanopy.co.uk/
+Domain: extractioncanopy.co.uk
+Public email: info@extractioncanopy.co.uk
+Public phone: 01733 230378
+Location: Peterborough, Cambridgeshire; nationwide service
+Verified capability: UK supplier of commercial kitchen extraction, replacement air, gas interlock, cladding, odour-control and filter solutions.
+Observed opportunity: The current journey is product-led, while a quote depends on cooking duty, room geometry, discharge route, gas interlock and odour constraints.
+Recommended MDA opportunity: A kitchen-airflow brief that captures menu intensity, canopy length, replacement air and neighbour/odour considerations.
+Commercial capability assessment: Strong — based on visible service breadth, business-to-business relevance and operational complexity; not a claim about finances.
+Duplicate checks completed on 2026-08-05:
+- Connected Gmail searched using business domain: no result.
+- GitHub repository searched using business domain: no result.
+- Central outreach log/repository search used as a supporting source.
+Result: No prior MDA contact, demo, GitHub folder or suppression entry found in the available checks.
+
+Asset notes:
+- Hero artwork is an original inline SVG created for this private concept.
+- No staff, premises, vehicles, client logos, awards or project images were invented.
+- No third-party stock imagery or externally hosted assets are used.
+
+Public deployment: pending.

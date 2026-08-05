@@ -1,0 +1,28 @@
+Recipient email
+info@door-check.co.uk
+
+Contact person
+Relevant Fire-door inspection team; no named recipient independently verified for this outreach.
+
+Subject
+Fire-door portfolios, inspection-ready
+
+Main message
+Hi Fire-door inspection team,
+
+DoorCheck’s inspection service and app are strong capabilities, but a quote can depend on building use, door count, portfolio size and the compliance deadline. I prepared an unofficial portfolio-planning concept:
+
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/doorcheck-fire-door-inspections/
+
+It gives facilities teams a clearer way to submit single-site or multi-site inspection requirements. Would this reduce quote back-and-forth?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/doorcheck-fire-door-inspections/
+MDA Growth Systems URL: https://mdagrowthsystems.com/
+Public verification: pending GitHub Pages deployment and signed-out HTTPS test.

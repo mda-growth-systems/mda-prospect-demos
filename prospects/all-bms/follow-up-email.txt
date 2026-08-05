@@ -1,0 +1,21 @@
+Recipient email
+contact@allbms.co.uk
+
+Intended subject
+Re: BMS enquiries, routed by outcome
+
+Status
+Prepared — thread creation pending after first email is sent.
+
+Follow-up message
+Hi BMS projects team,
+
+The platform-and-outcome step is the part I would test first. It can distinguish a live Trend fault from a planned Tridium migration or energy review before anyone calls back.
+
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/all-bms/
+
+Is that distinction useful to your team?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com

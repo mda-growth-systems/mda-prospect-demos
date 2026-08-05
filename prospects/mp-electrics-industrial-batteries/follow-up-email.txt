@@ -1,0 +1,21 @@
+Recipient email
+info@mpeservice.co.uk
+
+Intended subject
+Re: Battery faults, scoped before arrival
+
+Status
+Prepared — thread creation pending after first email is sent.
+
+Follow-up message
+Hi Industrial service team,
+
+One extra thought on the concept: separating a routine battery issue from a site-stopping charger fault could help prioritise both parts and engineer response.
+
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/mp-electrics-industrial-batteries/
+
+Does your service desk already collect chemistry and operational impact?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com

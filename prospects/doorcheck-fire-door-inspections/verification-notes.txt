@@ -1,0 +1,23 @@
+VERIFICATION NOTES — DoorCheck Ltd
+
+Official website: https://www.door-check.co.uk/
+Domain: door-check.co.uk
+Public email: info@door-check.co.uk
+Public phone: 0208 553 3307
+Location: Ilford, Essex
+Verified capability: Fire-door inspection services with an inspection app and registered company number 07509148 shown on the official website.
+Observed opportunity: The older website gives basic contact information but does not capture portfolio size, building use, inspection due date or reporting requirements.
+Recommended MDA opportunity: A fire-door portfolio planner that prepares single-site and multi-site inspection requests and records reporting urgency.
+Commercial capability assessment: Strong — based on visible service breadth, business-to-business relevance and operational complexity; not a claim about finances.
+Duplicate checks completed on 2026-08-05:
+- Connected Gmail searched using business domain: no result.
+- GitHub repository searched using business domain: no result.
+- Central outreach log/repository search used as a supporting source.
+Result: No prior MDA contact, demo, GitHub folder or suppression entry found in the available checks.
+
+Asset notes:
+- Hero artwork is an original inline SVG created for this private concept.
+- No staff, premises, vehicles, client logos, awards or project images were invented.
+- No third-party stock imagery or externally hosted assets are used.
+
+Public deployment: pending.

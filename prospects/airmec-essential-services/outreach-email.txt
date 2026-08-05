@@ -1,0 +1,28 @@
+Recipient email
+enquiries@airmec.co.uk
+
+Contact person
+Relevant Compliance services team; no named recipient independently verified for this outreach.
+
+Subject
+Estate compliance, one clear calendar
+
+Main message
+Hi Compliance services team,
+
+Airmec supports air hygiene, water safety and fire-damper compliance across complex estates. The difficult part for a facilities team is often combining sites, due dates and missing records into one request. I created an unofficial estate-calendar concept:
+
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/airmec-essential-services/
+
+It organises those requirements before your team scopes the programme. Would this be useful for multi-site enquiries?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/airmec-essential-services/
+MDA Growth Systems URL: https://mdagrowthsystems.com/
+Public verification: pending GitHub Pages deployment and signed-out HTTPS test.

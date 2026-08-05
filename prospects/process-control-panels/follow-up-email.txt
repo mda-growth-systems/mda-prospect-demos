@@ -1,0 +1,21 @@
+Recipient email
+sales@pcpltd.com
+
+Intended subject
+Re: Control projects, briefed for engineering
+
+Status
+Prepared — thread creation pending after first email is sent.
+
+Follow-up message
+Hi Automation sales team,
+
+The control-project configurator also separates site commissioning from remote support, so the first brief includes the delivery boundary rather than only hardware.
+
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/process-control-panels/
+
+Would that help your engineers assess fit sooner?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com

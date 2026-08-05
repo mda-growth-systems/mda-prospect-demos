@@ -1,0 +1,28 @@
+Recipient email
+sales@pcpltd.com
+
+Contact person
+Relevant Automation sales team; no named recipient independently verified for this outreach.
+
+Subject
+Control projects, briefed for engineering
+
+Main message
+Hi Automation sales team,
+
+Process Control Panels designs, builds and commissions industrial automation, but an early enquiry may not state the process objective, controls platform, I/O or commissioning scope. I built an unofficial engineering-first concept:
+
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/process-control-panels/
+
+It turns those details into a concise project brief for review. Would this give engineering a stronger starting point?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/process-control-panels/
+MDA Growth Systems URL: https://mdagrowthsystems.com/
+Public verification: pending GitHub Pages deployment and signed-out HTTPS test.

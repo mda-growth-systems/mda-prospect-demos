@@ -1,0 +1,126 @@
+{
+  "batch": 13,
+  "generated": "2026-08-05",
+  "prospects": [
+    {
+      "n": 1,
+      "business": "M&P Electrics",
+      "slug": "mp-electrics-industrial-batteries",
+      "domain": "mpeservice.co.uk",
+      "email": "info@mpeservice.co.uk",
+      "subject": "Battery faults, diagnosed earlier",
+      "score": 88,
+      "capability": "Moderate",
+      "feature": "Battery health triage",
+      "public_demo_url": "https://mda-growth-systems.github.io/mda-prospect-demos/prospects/mp-electrics-industrial-batteries/"
+    },
+    {
+      "n": 2,
+      "business": "All BMS",
+      "slug": "all-bms",
+      "domain": "allbms.co.uk",
+      "email": "contact@allbms.co.uk",
+      "subject": "BMS enquiries, routed by outcome",
+      "score": 93,
+      "capability": "Strong",
+      "feature": "Estate priority matrix",
+      "public_demo_url": "https://mda-growth-systems.github.io/mda-prospect-demos/prospects/all-bms/"
+    },
+    {
+      "n": 3,
+      "business": "DWAS Tex",
+      "slug": "dwas-tex-commercial-laundry",
+      "domain": "dwastex.co.uk",
+      "email": "danish@dwastex.co.uk",
+      "subject": "Laundry projects, sized upfront",
+      "score": 89,
+      "capability": "Strong",
+      "feature": "Laundry load planner",
+      "public_demo_url": "https://mda-growth-systems.github.io/mda-prospect-demos/prospects/dwas-tex-commercial-laundry/"
+    },
+    {
+      "n": 4,
+      "business": "DoorCheck Ltd",
+      "slug": "doorcheck-fire-door-inspections",
+      "domain": "door-check.co.uk",
+      "email": "info@door-check.co.uk",
+      "subject": "Fire-door surveys, portfolio-ready",
+      "score": 91,
+      "capability": "Strong",
+      "feature": "Compliance portfolio planner",
+      "public_demo_url": "https://mda-growth-systems.github.io/mda-prospect-demos/prospects/doorcheck-fire-door-inspections/"
+    },
+    {
+      "n": 5,
+      "business": "Fire Suppression Ltd",
+      "slug": "fire-suppression-limited",
+      "domain": "firesuppression.co.uk",
+      "email": "sales@firesuppression.co.uk",
+      "subject": "Suppression projects, risk-first",
+      "score": 92,
+      "capability": "Strong",
+      "feature": "Protected-risk selector",
+      "public_demo_url": "https://mda-growth-systems.github.io/mda-prospect-demos/prospects/fire-suppression-limited/"
+    },
+    {
+      "n": 6,
+      "business": "Sentral Lift Services",
+      "slug": "sentral-lift-services",
+      "domain": "sentralliftservices.co.uk",
+      "email": "info@sentralliftservices.co.uk",
+      "subject": "Lift callouts, ready for dispatch",
+      "score": 90,
+      "capability": "Strong",
+      "feature": "Lift response console",
+      "public_demo_url": "https://mda-growth-systems.github.io/mda-prospect-demos/prospects/sentral-lift-services/"
+    },
+    {
+      "n": 7,
+      "business": "Extraction Canopy",
+      "slug": "extraction-canopy",
+      "domain": "extractioncanopy.co.uk",
+      "email": "info@extractioncanopy.co.uk",
+      "subject": "Kitchen extraction, briefed properly",
+      "score": 90,
+      "capability": "Strong",
+      "feature": "Kitchen airflow brief",
+      "public_demo_url": "https://mda-growth-systems.github.io/mda-prospect-demos/prospects/extraction-canopy/"
+    },
+    {
+      "n": 8,
+      "business": "Quest Industrial Flooring Ltd",
+      "slug": "quest-industrial-flooring",
+      "domain": "questltd.co.uk",
+      "email": "sales@questltd.co.uk",
+      "subject": "Flooring briefs, specification-first",
+      "score": 91,
+      "capability": "Strong",
+      "feature": "Floor specification canvas",
+      "public_demo_url": "https://mda-growth-systems.github.io/mda-prospect-demos/prospects/quest-industrial-flooring/"
+    },
+    {
+      "n": 9,
+      "business": "Airmec Essential Services",
+      "slug": "airmec-essential-services",
+      "domain": "airmec.co.uk",
+      "email": "enquiries@airmec.co.uk",
+      "subject": "Compliance visits, planned by estate",
+      "score": 94,
+      "capability": "Strong",
+      "feature": "Estate compliance calendar",
+      "public_demo_url": "https://mda-growth-systems.github.io/mda-prospect-demos/prospects/airmec-essential-services/"
+    },
+    {
+      "n": 10,
+      "business": "Process Control Panels Ltd",
+      "slug": "process-control-panels",
+      "domain": "pcpltd.com",
+      "email": "sales@pcpltd.com",
+      "subject": "Control panels, scoped before quote",
+      "score": 93,
+      "capability": "Strong",
+      "feature": "Control project configurator",
+      "public_demo_url": "https://mda-growth-systems.github.io/mda-prospect-demos/prospects/process-control-panels/"
+    }
+  ]
+}

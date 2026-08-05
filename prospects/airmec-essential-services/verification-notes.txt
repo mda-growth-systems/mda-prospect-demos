@@ -1,0 +1,23 @@
+VERIFICATION NOTES — Airmec Essential Services
+
+Official website: https://airmec.co.uk/
+Domain: airmec.co.uk
+Public email: enquiries@airmec.co.uk
+Public phone: 01454 275050
+Location: United Kingdom
+Verified capability: Independent compliance specialist supporting ventilation hygiene, water safety and fire-damper testing for estates managers and specialist facilities.
+Observed opportunity: The current site covers several compliance disciplines, but an estate manager must still translate a multi-site requirement into a general enquiry.
+Recommended MDA opportunity: An estate compliance calendar that organises air, water and fire-damper needs by site, due date and evidence status.
+Commercial capability assessment: Strong — based on visible service breadth, business-to-business relevance and operational complexity; not a claim about finances.
+Duplicate checks completed on 2026-08-05:
+- Connected Gmail searched using business domain: no result.
+- GitHub repository searched using business domain: no result.
+- Central outreach log/repository search used as a supporting source.
+Result: No prior MDA contact, demo, GitHub folder or suppression entry found in the available checks.
+
+Asset notes:
+- Hero artwork is an original inline SVG created for this private concept.
+- No staff, premises, vehicles, client logos, awards or project images were invented.
+- No third-party stock imagery or externally hosted assets are used.
+
+Public deployment: pending.

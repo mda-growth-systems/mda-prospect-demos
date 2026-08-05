@@ -1,0 +1,28 @@
+Recipient email
+info@sentralliftservices.co.uk
+
+Contact person
+Relevant Lift service team; no named recipient independently verified for this outreach.
+
+Subject
+Lift callouts, prioritised correctly
+
+Main message
+Hi Lift service team,
+
+Sentral offers maintenance, modernisation and 24/7 emergency support, but “the lift is broken” does not show whether there is entrapment, a total shutdown or an intermittent fault. I created an unofficial lift-response concept:
+
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/sentral-lift-services/
+
+It captures urgency, asset type and provider context before dispatch. Would a route like this make callout prioritisation clearer?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/sentral-lift-services/
+MDA Growth Systems URL: https://mdagrowthsystems.com/
+Public verification: pending GitHub Pages deployment and signed-out HTTPS test.

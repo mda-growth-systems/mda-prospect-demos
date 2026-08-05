@@ -1,0 +1,28 @@
+Recipient email
+danish@dwastex.co.uk
+
+Contact person
+Relevant Commercial laundry team; no named recipient independently verified for this outreach.
+
+Subject
+Laundry projects, sized upfront
+
+Main message
+Hi Commercial laundry team,
+
+DWAS Tex supports everything from machine faults to complete laundry projects. Those enquiries are difficult to compare when daily load, sector and available utilities are missing. I created an unofficial concept built around a simple laundry-load planner:
+
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/dwas-tex-commercial-laundry/
+
+It separates repairs, replacements and full-room projects from the first step. Would this help your team size opportunities sooner?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/dwas-tex-commercial-laundry/
+MDA Growth Systems URL: https://mdagrowthsystems.com/
+Public verification: pending GitHub Pages deployment and signed-out HTTPS test.

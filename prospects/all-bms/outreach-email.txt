@@ -1,0 +1,28 @@
+Recipient email
+contact@allbms.co.uk
+
+Contact person
+Relevant BMS projects team; no named recipient independently verified for this outreach.
+
+Subject
+BMS enquiries, routed by outcome
+
+Main message
+Hi BMS projects team,
+
+All BMS handles design, maintenance and remote monitoring across the UK, yet a live fault, an energy project and a platform migration need very different first questions. I mapped those routes into an unofficial concept:
+
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/all-bms/
+
+It captures platform, estate size and intended outcome before the enquiry reaches your team. Is this close to how you qualify BMS work?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/all-bms/
+MDA Growth Systems URL: https://mdagrowthsystems.com/
+Public verification: pending GitHub Pages deployment and signed-out HTTPS test.

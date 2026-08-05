@@ -1,0 +1,23 @@
+VERIFICATION NOTES — Process Control Panels Ltd
+
+Official website: https://www.pcpltd.com/
+Domain: pcpltd.com
+Public email: sales@pcpltd.com
+Public phone: 01902 329990
+Location: West Midlands, United Kingdom
+Verified capability: Independent UK automation company designing, manufacturing, installing and commissioning process-control solutions.
+Observed opportunity: The site explains capabilities and projects, but prospective clients cannot assemble a concise controls brief covering process, I/O, standards and commissioning scope.
+Recommended MDA opportunity: A control-project configurator for process objectives, panel scope, controls platform, documentation and site commissioning.
+Commercial capability assessment: Strong — based on visible service breadth, business-to-business relevance and operational complexity; not a claim about finances.
+Duplicate checks completed on 2026-08-05:
+- Connected Gmail searched using business domain: no result.
+- GitHub repository searched using business domain: no result.
+- Central outreach log/repository search used as a supporting source.
+Result: No prior MDA contact, demo, GitHub folder or suppression entry found in the available checks.
+
+Asset notes:
+- Hero artwork is an original inline SVG created for this private concept.
+- No staff, premises, vehicles, client logos, awards or project images were invented.
+- No third-party stock imagery or externally hosted assets are used.
+
+Public deployment: pending.

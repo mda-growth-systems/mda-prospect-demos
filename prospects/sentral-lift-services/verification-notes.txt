@@ -1,0 +1,23 @@
+VERIFICATION NOTES — Sentral Lift Services
+
+Official website: https://sentralliftservices.co.uk/
+Domain: sentralliftservices.co.uk
+Public email: info@sentralliftservices.co.uk
+Public phone: 020 7139 8414
+Location: London and South East England
+Verified capability: Independent lift company serving London and the South East, with 24/7 emergency availability and maintenance, repair, modernisation, installation and inspection services.
+Observed opportunity: The contact journey does not visibly capture entrapment risk, lift operating state, asset type or maintenance-provider context.
+Recommended MDA opportunity: A lift-response console that separates entrapment, lift-down, intermittent faults, LOLER work and planned modernisation.
+Commercial capability assessment: Strong — based on visible service breadth, business-to-business relevance and operational complexity; not a claim about finances.
+Duplicate checks completed on 2026-08-05:
+- Connected Gmail searched using business domain: no result.
+- GitHub repository searched using business domain: no result.
+- Central outreach log/repository search used as a supporting source.
+Result: No prior MDA contact, demo, GitHub folder or suppression entry found in the available checks.
+
+Asset notes:
+- Hero artwork is an original inline SVG created for this private concept.
+- No staff, premises, vehicles, client logos, awards or project images were invented.
+- No third-party stock imagery or externally hosted assets are used.
+
+Public deployment: pending.

@@ -1,0 +1,19 @@
+QA CHECKLIST — M&P Electrics
+
+[PASS] Correct business name, email, telephone and location
+[PASS] No placeholder copy
+[PASS] No other Batch 13 prospect name
+[PASS] No internal score or affordability rating on public pages
+[PASS] Original business-specific SVG illustration
+[PASS] Responsive navigation pattern
+[PASS] Working internal navigation anchors
+[PASS] Telephone and email links use verified public details
+[PASS] Accessible labels for all controls
+[PASS] Required fields present
+[PASS] Prototype status disclosed before submission
+[PASS] Thank-you page exists and links back
+[PASS] SEO title, description and heading structure
+[PASS] No external JavaScript or asset dependency
+[PASS] Unofficial concept disclaimer
+[PENDING] Signed-out public HTTPS verification after GitHub deployment
+[PENDING] Manual visual review in a full browser across common device widths

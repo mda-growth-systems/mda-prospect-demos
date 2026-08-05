@@ -1,0 +1,28 @@
+Recipient email
+info@mpeservice.co.uk
+
+Contact person
+Relevant Industrial service team; no named recipient independently verified for this outreach.
+
+Subject
+Battery faults, scoped before arrival
+
+Main message
+Hi Industrial service team,
+
+Your site covers industrial batteries, chargers and electric vehicles, but a breakdown enquiry can arrive without the asset type, chemistry or effect on operations. I built an unofficial M&P Electrics concept that collects those details before the callback:
+
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/mp-electrics-industrial-batteries/
+
+The idea is to help the right engineer understand urgency before travelling. Would this make service calls easier to prioritise?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/mp-electrics-industrial-batteries/
+MDA Growth Systems URL: https://mdagrowthsystems.com/
+Public verification: pending GitHub Pages deployment and signed-out HTTPS test.

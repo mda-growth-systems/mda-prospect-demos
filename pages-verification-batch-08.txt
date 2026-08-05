@@ -1,0 +1,17 @@
+Batch 08 GitHub Pages verification
+Deployment: https://mda-growth-systems.github.io/mda-prospect-demos/
+Commit: 0b600077ba2e70b6f288f1e304395bfeb1ae196b
+Verified UTC: 2026-08-05T10:18:27Z
+
+PASS https://mda-growth-systems.github.io/mda-prospect-demos/prospects/door-maintenance-co/
+PASS https://mda-growth-systems.github.io/mda-prospect-demos/prospects/one-group-services/
+PASS https://mda-growth-systems.github.io/mda-prospect-demos/prospects/mc-refrigeration/
+PASS https://mda-growth-systems.github.io/mda-prospect-demos/prospects/aqua-ease/
+PASS https://mda-growth-systems.github.io/mda-prospect-demos/prospects/thomas-fire-consultancy/
+PASS https://mda-growth-systems.github.io/mda-prospect-demos/prospects/stageworks-events/
+PASS https://mda-growth-systems.github.io/mda-prospect-demos/prospects/intielectric/
+PASS https://mda-growth-systems.github.io/mda-prospect-demos/prospects/cura-surveys/
+PASS https://mda-growth-systems.github.io/mda-prospect-demos/prospects/uk-solar-services/
+PASS https://mda-growth-systems.github.io/mda-prospect-demos/prospects/harlequin-pest-control/
+PASS https://mda-growth-systems.github.io/mda-prospect-demos/mda-growth-systems/
+DNS ISSUE https://mdagrowthsystems.com — manual DNS repair required before using the branded domain

@@ -1,6 +1,6 @@
 # MDA Growth Systems — Batch 09 Final Report
 
-Status: Ten demos completed and local desktop/mobile QA passed; GitHub deployment, signed-out public link QA and Gmail first-draft creation pending final execution gates.
+Status: Complete for approval — ten demos passed desktop/mobile QA, were published through GitHub Pages, and passed public-link verification. Exactly 20 Gmail drafts were verified: 10 first-contact drafts and 10 standalone `Re:` follow-up drafts. No email was sent.
 
 ## Selected prospects
 
@@ -46,10 +46,18 @@ For every selected prospect: **No prior MDA contact, demo, GitHub folder or supp
 - Follow-up messages written: 10
 - Total messages: 20
 - Individual GitHub-ready folders: 10
-- Public deployments: pending workflow
-- Gmail first-contact drafts: pending public-link gate
-- Genuine threaded follow-ups: 0; originals have not been sent
+- Public deployments: 10/10 verified on GitHub Pages
+- Gmail first-contact drafts: 10 created; not sent
+- Standalone `Re:` follow-up Gmail drafts: 10 created; not sent
+- Genuine threaded follow-ups: 0; originals have not been sent, so genuine threading remains pending
 - Emails sent: 0
+
+## Deployment and draft verification
+- Final public verification commit: `12afe11a7ac41a8181017f1413e4d6ea16ab0daf`.
+- Public links tested: ten prospect pages, ten thank-you pages and https://mdagrowthsystems.com/.
+- Gmail state: exactly 20 Batch 09 drafts returned by a recipient-specific Gmail search — one original and one standalone `Re:` follow-up for each prospect.
+- Follow-up state: the `Re:` drafts are not genuine reply threads because the original messages remain unsent.
+- Emails sent: 0.
 
 ## Credibility and account fixes
 See `mda-credibility-audit-batch-09.md`. The most important manual issues are the Gmail display name, `.info` / `.com` domain mismatch, personal Gmail address on the public website, unsupported public metrics and unverified email authentication.

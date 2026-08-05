@@ -1,0 +1,22 @@
+iPro Hire — Verification Notes
+Research date: 2026-08-05
+Official website: https://www.iprohire.co.uk/
+Normalised domain: iprohire.co.uk
+Industry: Plant, tool and access-equipment hire
+Location: Addlestone and Epsom, Surrey
+Legal / subscriber type: Trading as a UK limited business; exact legal entity not confirmed from the public site
+Public business email: addlestone@iprohire.co.uk
+Public phone: 08000982070
+Contact route: Addlestone depot team — Verified depot business inbox
+Operating evidence: Working official website with current service and contact information, checked during this run.
+Commercial capability assessment: Strong — based on visible service breadth, geographic reach, operational support, accreditations, project scope or multi-site capability. This is a commercial assessment, not verified financial information.
+Observed enquiry opportunity: The current enquiry route asks for contact details, depot and a free-text message, but not the equipment category, quantity, hire dates, delivery postcode or site conditions.
+Recommended concept: A guided equipment finder that gives the depot a quote-ready brief and routes the request to the right location.
+Duplicate checks: No matching domain found in the connected Gmail history, GitHub prospect repository or current outreach log. No matching opt-out or suppression entry found in the available checks.
+Image / asset source: Original inline SVG illustration created for this private concept. No staff, premises, vehicles, client logos, reviews or projects are invented.
+Factual limitation: Public copy uses only services and contact details visible on the official business website. All content remains subject to prospect review.
+
+Verification sources:
+- https://www.iprohire.co.uk/
+- https://www.iprohire.co.uk/contact
+- https://www.iprohire.co.uk/c/vacancies

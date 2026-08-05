@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Fire Alert UK | Fire-system service routing concept</title>
+<meta name="description" content="A clear route for new systems, maintenance and urgent impairment—built for sites across the South West.">
+<style>:root{--accent:#ff3b30;--accent2:#1b1b1b;}
+*{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;background:var(--bg);color:var(--ink);line-height:1.55}
+a{color:inherit}button,input,select,textarea{font:inherit}.wrap{width:min(1160px,calc(100% - 36px));margin:auto}.skip{position:absolute;left:-9999px}.skip:focus{left:16px;top:16px;z-index:99;background:#fff;padding:10px}
+header{position:sticky;top:0;z-index:20;background:color-mix(in srgb,var(--bg) 92%,transparent);backdrop-filter:blur(14px);border-bottom:1px solid var(--line)}
+nav{min-height:70px;display:flex;align-items:center;justify-content:space-between;gap:20px}.brand{font-weight:900;letter-spacing:-.03em;text-decoration:none}.navlinks{display:flex;gap:20px;align-items:center}.navlinks a{text-decoration:none;font-weight:650;font-size:.94rem}.menu{display:none;background:none;border:1px solid var(--line);padding:8px 12px;border-radius:10px}
+.hero{min-height:650px;display:grid;align-items:center;padding:70px 0}.hero-grid{display:grid;grid-template-columns:1.05fr .95fr;gap:56px;align-items:center}.eyebrow{display:inline-flex;align-items:center;gap:8px;font-weight:800;font-size:.78rem;text-transform:uppercase;letter-spacing:.13em;color:var(--accent)}h1{font-size:clamp(2.75rem,6vw,5.7rem);line-height:.94;letter-spacing:-.065em;margin:.2em 0}.lede{font-size:clamp(1.05rem,2vw,1.35rem);max-width:650px;color:var(--muted)}.actions{display:flex;flex-wrap:wrap;gap:12px;margin-top:30px}.btn{display:inline-flex;align-items:center;justify-content:center;min-height:48px;padding:0 20px;border-radius:999px;font-weight:800;text-decoration:none;border:1px solid var(--line)}.btn.primary{background:var(--accent);color:var(--button-ink);border-color:var(--accent)}.btn.secondary{background:transparent}
+.visual{position:relative;border:1px solid var(--line);border-radius:32px;padding:26px;background:var(--panel);box-shadow:0 30px 80px rgba(0,0,0,.12)}.visual svg{width:100%;height:auto;display:block}.tag{position:absolute;padding:10px 14px;border-radius:999px;background:var(--ink);color:var(--bg);font-size:.78rem;font-weight:800;box-shadow:0 12px 30px rgba(0,0,0,.18)}.tag.one{top:18px;right:18px}.tag.two{left:18px;bottom:18px}
+section{padding:90px 0;border-top:1px solid var(--line)}.section-head{display:grid;grid-template-columns:.7fr 1.3fr;gap:40px;margin-bottom:45px}.section-head h2{font-size:clamp(2rem,4vw,3.8rem);line-height:1;letter-spacing:-.045em;margin:0}.section-head p{margin:0;color:var(--muted);font-size:1.08rem}
+.services{display:grid;grid-template-columns:repeat(4,1fr);gap:14px}.service{padding:26px;border:1px solid var(--line);border-radius:22px;background:var(--panel);min-height:170px}.service b{display:block;font-size:1.05rem;margin-bottom:36px}.service span{color:var(--muted)}
+.process{display:grid;grid-template-columns:repeat(3,1fr);gap:18px}.step{padding:28px;border-left:4px solid var(--accent);background:var(--panel)}.step strong{font-size:2.5rem;color:var(--accent)}.step h3{margin:.3rem 0}
+.builder{display:grid;grid-template-columns:.85fr 1.15fr;gap:35px;align-items:start}.feature-copy{position:sticky;top:100px}.feature-copy h2{font-size:clamp(2.3rem,5vw,4.5rem);line-height:.95;letter-spacing:-.05em;margin:.2em 0}.feature-copy p{color:var(--muted);font-size:1.08rem}.summary{margin-top:25px;padding:22px;border:1px solid var(--accent);background:var(--panel);border-radius:18px}.summary small{display:block;text-transform:uppercase;letter-spacing:.12em;font-weight:800;color:var(--accent);margin-bottom:8px}.summary-output{font-weight:800}
+form{padding:30px;border-radius:26px;background:var(--form);color:var(--form-ink);border:1px solid var(--line);box-shadow:0 25px 70px rgba(0,0,0,.1)}.grid2{display:grid;grid-template-columns:1fr 1fr;gap:18px}.field{display:grid;gap:8px}.field.full{grid-column:1/-1}label{font-weight:760}select,input,textarea{width:100%;min-height:48px;border-radius:12px;border:1px solid color-mix(in srgb,var(--form-ink) 22%,transparent);padding:11px 13px;background:color-mix(in srgb,var(--form) 94%,white);color:var(--form-ink)}textarea{min-height:110px;resize:vertical}.form-note{font-size:.82rem;opacity:.72;margin:16px 0}.submit{width:100%;border:0;background:var(--accent);color:var(--button-ink);min-height:52px;border-radius:13px;font-weight:900;cursor:pointer}
+.contact-strip{display:grid;grid-template-columns:1fr auto;gap:30px;align-items:center;padding:36px;border-radius:28px;background:var(--ink);color:var(--bg)}.contact-strip h2{font-size:clamp(2rem,4vw,4rem);line-height:1;margin:0 0 10px}.contact-links{display:grid;gap:10px;text-align:right}.contact-links a{font-weight:800}
+footer{padding:30px 0 50px;color:var(--muted);font-size:.82rem}.footer-grid{display:flex;justify-content:space-between;gap:25px;flex-wrap:wrap}.concept{max-width:720px}
+body.catalogue{--bg:#f4f0e6;--ink:#111;--muted:#59564e;--panel:#fff8db;--form:#171717;--form-ink:#fff;--line:#c9c1aa;--button-ink:#111}
+body.blueprint{--bg:#eef3f7;--ink:#17324d;--muted:#5a6e7e;--panel:#fff;--form:#17324d;--form-ink:#fff;--line:#b8c9d6;--button-ink:#fff;background-image:linear-gradient(#c9d8e3 1px,transparent 1px),linear-gradient(90deg,#c9d8e3 1px,transparent 1px);background-size:28px 28px}
+body.console{--bg:#07111f;--ink:#ecf8ff;--muted:#8fa9bb;--panel:#0d1c2e;--form:#0d1c2e;--form-ink:#ecf8ff;--line:#25415a;--button-ink:#06101c}.console .hero-grid{grid-template-columns:.9fr 1.1fr}.console .visual{border-radius:12px}.console .service{border-radius:8px}.console h1{text-transform:uppercase;font-family:ui-monospace,monospace;font-size:clamp(2.5rem,5vw,4.8rem)}
+body.controlroom{--bg:#e9f7fa;--ink:#092b3b;--muted:#4c6f7c;--panel:#d7f2f8;--form:#092b3b;--form-ink:#fff;--line:#9acbd5;--button-ink:#092b3b}.controlroom .hero{padding-top:30px}.controlroom .visual{border-radius:50% 50% 24px 24px}.controlroom .service:nth-child(even){transform:translateY(18px)}
+body.dossier{--bg:#f5f8f4;--ink:#143e36;--muted:#667a74;--panel:#fff;--form:#fff;--form-ink:#143e36;--line:#c9ddd7;--button-ink:#fff}.dossier .hero-grid{grid-template-columns:1.2fr .8fr}.dossier h1{font-family:Georgia,serif;letter-spacing:-.04em}.dossier .service{border-left:5px solid var(--accent);border-radius:4px}
+body.response{--bg:#f5f1ed;--ink:#1b1b1b;--muted:#6f625b;--panel:#fff;--form:#1b1b1b;--form-ink:#fff;--line:#d4c6bd;--button-ink:#fff}.response header{background:#1b1b1b;color:#fff}.response .hero{position:relative}.response h1{text-transform:uppercase}.response .service:first-child{background:var(--accent);color:#fff}.response .btn.primary{box-shadow:6px 6px 0 #1b1b1b}
+body.command{--bg:#07130f;--ink:#effff7;--muted:#8cb3a1;--panel:#0d2119;--form:#eafff3;--form-ink:#0b1512;--line:#244638;--button-ink:#0b1512}.command .visual{border-radius:4px;box-shadow:0 0 0 1px var(--accent),0 0 60px rgba(88,227,165,.15)}.command .service{border-radius:4px}.command h1{font-size:clamp(2.6rem,5.8vw,5.4rem)}
+body.schematic{--bg:#111a0d;--ink:#f7ffe9;--muted:#a8b89b;--panel:#182312;--form:#f7ffe9;--form-ink:#15210b;--line:#3b5030;--button-ink:#15210b;background-image:radial-gradient(#455f37 1px,transparent 1px);background-size:22px 22px}.schematic h1{font-family:ui-monospace,monospace}.schematic .service{clip-path:polygon(0 0,92% 0,100% 16%,100% 100%,0 100%);border-radius:0}
+body.feasibility{--bg:#fff8e7;--ink:#0d4b3e;--muted:#5b766d;--panel:#fff;--form:#0d4b3e;--form-ink:#fff;--line:#e2d7b9;--button-ink:#173426}.feasibility .hero{background:radial-gradient(circle at 80% 10%,#ffd66d 0,transparent 35%)}.feasibility .visual{border-radius:160px 160px 28px 28px}.feasibility .service{border-radius:50px 16px 50px 16px}
+body.manifest{--bg:#edf2f6;--ink:#17314b;--muted:#607386;--panel:#fff;--form:#17314b;--form-ink:#fff;--line:#bdcad5;--button-ink:#fff}.manifest .visual{border-radius:8px;transform:rotate(1deg)}.manifest .service{border-radius:8px;border-top:6px solid var(--accent)}.manifest h1{font-size:clamp(2.6rem,5vw,5rem)}
+@media(max-width:900px){.hero-grid,.section-head,.builder{grid-template-columns:1fr}.hero{min-height:auto;padding:55px 0}.services{grid-template-columns:1fr 1fr}.process{grid-template-columns:1fr}.feature-copy{position:static}.contact-strip{grid-template-columns:1fr}.contact-links{text-align:left}.navlinks{display:none;position:absolute;top:69px;left:0;right:0;background:var(--bg);padding:20px;flex-direction:column;border-bottom:1px solid var(--line)}.navlinks.open{display:flex}.menu{display:block;color:inherit}.controlroom .service:nth-child(even){transform:none}}
+@media(max-width:600px){.wrap{width:min(100% - 24px,1160px)}h1{font-size:2.75rem}.services,.grid2{grid-template-columns:1fr}.visual{padding:15px}.hero-grid{gap:32px}section{padding:65px 0}.contact-strip{padding:24px}}
+</style>
+</head>
+<body class="response">
+<a class="skip" href="#main">Skip to content</a>
+<header>
+  <nav class="wrap" aria-label="Primary navigation">
+    <a class="brand" href="#top">Fire Alert UK</a>
+    <button class="menu" type="button" aria-expanded="false" aria-controls="navlinks">Menu</button>
+    <div class="navlinks" id="navlinks">
+      <a href="#services">Services</a><a href="#approach">Approach</a><a href="#enquire">Enquire</a><a href="#contact">Contact</a>
+    </div>
+  </nav>
+</header>
+<main id="main">
+<section class="hero" id="top">
+  <div class="wrap hero-grid">
+    <div>
+      <span class="eyebrow">Fire alarm and security systems</span>
+      <h1>Separate a live fault from planned fire-safety work</h1>
+      <p class="lede">A clear route for new systems, maintenance and urgent impairment—built for sites across the South West.</p>
+      <div class="actions">
+        <a class="btn primary" href="#enquire">Fire-system route</a>
+        <a class="btn secondary" href="tel:08009991997">Call 08009991997</a>
+      </div>
+    </div>
+    <div class="visual">
+      <svg viewBox="0 0 520 320" role="img" aria-label="Illustrated fire alarm response route">
+        <path d="M260 30c42 55 90 97 90 160a90 90 0 11-180 0c0-41 24-77 56-111 5 34 19 53 34 65 6-42 0-72 0-114z" fill="#ff3b30"/>
+        <path d="M260 145c25 28 42 49 42 75a42 42 0 11-84 0c0-18 11-35 25-52 3 17 10 28 17 34 4-23 0-39 0-57z" fill="#ffb14a"/>
+        <rect x="60" y="240" width="400" height="44" rx="22" fill="#1b1b1b"/>
+        <circle cx="102" cy="262" r="11" fill="#ff3b30"/><circle cx="260" cy="262" r="11" fill="#ffb14a"/><circle cx="418" cy="262" r="11" fill="#fff"/>
+        </svg>
+      <span class="tag one">South West coverage</span>
+      <span class="tag two">Fire + security</span>
+    </div>
+  </div>
+</section>
+<section id="services">
+  <div class="wrap">
+    <div class="section-head"><h2>Support built around the real job</h2><p>The concept organises verified service areas into a clearer route for customers who need advice, a quotation, planned work or urgent support.</p></div>
+    <div class="services"><article class="service"><b>01</b><span>Fire-alarm design and installation</span></article><article class="service"><b>02</b><span>Commissioning and maintenance</span></article><article class="service"><b>03</b><span>CCTV and security systems</span></article><article class="service"><b>04</b><span>Regional service across the South West</span></article></div>
+  </div>
+</section>
+<section id="approach">
+  <div class="wrap">
+    <div class="section-head"><h2>A simpler first conversation</h2><p>Customers do not need to know every technical term. They provide the essential context, the right team receives a useful brief, and the next step becomes clear.</p></div>
+    <div class="process">
+      <article class="step"><strong>01</strong><h3>Choose the route</h3><p>Select the service or operational need.</p></article>
+      <article class="step"><strong>02</strong><h3>Add site context</h3><p>Capture the practical details that affect advice and quoting.</p></article>
+      <article class="step"><strong>03</strong><h3>Confirm the next step</h3><p>Submit a concept brief and continue to a clear confirmation page.</p></article>
+    </div>
+  </div>
+</section>
+<section id="enquire">
+  <div class="wrap builder">
+    <div class="feature-copy">
+      <span class="eyebrow">Interactive concept</span>
+      <h2>Fire-system route</h2>
+      <p>Choose the work and current system condition to produce a priority summary.</p>
+      <div class="summary" aria-live="polite"><small>Brief preview</small><div class="summary-output" id="summary">Choose options to build the brief.</div></div>
+    </div>
+    <form action="thank-you.html" method="get" id="briefForm">
+      <div class="grid2">
+        <div class="field"><label for="work">What is required?</label><select id="work" name="work" required><option value="">Choose an option</option><option value="New fire-alarm system">New fire-alarm system</option><option value="Maintenance or inspection">Maintenance or inspection</option><option value="Fault or impairment">Fault or impairment</option><option value="CCTV or security work">CCTV or security work</option></select></div><div class="field"><label for="site">Site type</label><select id="site" name="site" required><option value="">Choose an option</option><option value="Commercial premises">Commercial premises</option><option value="Residential block">Residential block</option><option value="Care or healthcare">Care or healthcare</option><option value="Hospitality">Hospitality</option><option value="Industrial site">Industrial site</option></select></div><div class="field"><label for="condition">Current condition</label><select id="condition" name="condition" required><option value="">Choose an option</option><option value="System impaired">System impaired</option><option value="Repeated fault indication">Repeated fault indication</option><option value="Routine service due">Routine service due</option><option value="Early project planning">Early project planning</option></select></div><div class="field"><label for="area">Service area</label><select id="area" name="area" required><option value="">Choose an option</option><option value="Devon">Devon</option><option value="Cornwall">Cornwall</option><option value="Somerset or Bristol">Somerset or Bristol</option><option value="Dorset">Dorset</option><option value="Other">Other</option></select></div>
+        <div class="field"><label for="name">Name</label><input id="name" name="name" autocomplete="name" required></div>
+        <div class="field"><label for="company">Company</label><input id="company" name="company" autocomplete="organization"></div>
+        <div class="field"><label for="email">Email</label><input id="email" name="email" type="email" autocomplete="email" required></div>
+        <div class="field"><label for="phone">Phone</label><input id="phone" name="phone" type="tel" autocomplete="tel"></div>
+        <div class="field full"><label for="notes">Useful notes</label><textarea id="notes" name="notes" placeholder="Add site, equipment or project context without sharing passwords, access codes or sensitive security details."></textarea></div>
+      </div>
+      <p class="form-note">Prototype behaviour: this private concept moves to a demonstration confirmation page. It does not transmit or retain the information entered.</p>
+      <button class="submit" type="submit">Preview confirmation</button>
+    </form>
+  </div>
+</section>
+<section id="contact">
+  <div class="wrap contact-strip">
+    <div><h2>Talk to Fire Alert UK</h2><p>Dawlish, serving South West England</p></div>
+    <div class="contact-links"><a href="tel:08009991997">08009991997</a><a href="mailto:info@fire-alert.co.uk">info@fire-alert.co.uk</a><a href="https://fire-alert.co.uk/">Current official website</a></div>
+  </div>
+</section>
+</main>
+<footer><div class="wrap footer-grid"><div class="concept">Unofficial website redesign concept prepared by MDA Growth Systems. Business content, branding and imagery remain subject to client review and approval. This concept is not the official website of Fire Alert UK.</div><div>Original inline illustration · No personal data stored</div></div></footer>
+<script>
+const menu=document.querySelector(".menu"),nav=document.querySelector(".navlinks");
+menu.addEventListener("click",()=>{const open=nav.classList.toggle("open");menu.setAttribute("aria-expanded",String(open));});
+const fields=["work", "site", "condition", "area"];
+function updateSummary(){
+  const work=document.getElementById("work").value || "Not selected";
+const site=document.getElementById("site").value || "Not selected";
+const condition=document.getElementById("condition").value || "Not selected";
+const area=document.getElementById("area").value || "Not selected";
+  document.getElementById("summary").textContent=`${work} · ${site} · ${condition} · ${area}`;
+}
+fields.forEach(id=>document.getElementById(id).addEventListener("change",updateSummary));
+document.querySelectorAll('a[href^="#"]').forEach(a=>a.addEventListener("click",()=>nav.classList.remove("open")));
+</script>
+</body>
+</html>

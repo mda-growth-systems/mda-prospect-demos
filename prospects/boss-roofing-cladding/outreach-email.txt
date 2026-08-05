@@ -1,0 +1,29 @@
+Recipient email
+info@bossroofing.co.uk
+
+Contact person
+Boss Roofing team — Verified general business inbox
+
+Subject
+A survey-ready roof brief
+
+Main message
+Hi Boss Roofing team,
+
+Your site covers surveys, repairs, overcladding, reroofing and solar work for commercial and industrial buildings nationwide. I mapped a survey route that captures building type, roof need, urgency and access before the first site conversation.
+
+I prepared an unofficial concept here:
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/boss-roofing-cladding/
+
+Would this make the first survey conversation more useful?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/boss-roofing-cladding/
+MDA Growth Systems URL: https://mdagrowthsystems.com
+Testing status: Public verification pending deployment; do not send until both links pass signed-out testing.

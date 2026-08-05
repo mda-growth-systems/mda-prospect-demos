@@ -1,0 +1,23 @@
+Fire Alert UK — Creative Directions
+Selected direction: Impairment response
+
+DIRECTION 1: Impairment response
+Visual style: Bold red-and-charcoal emergency hierarchy
+Layout / customer journey: Users separate active impairment from planned work immediately
+Signature feature: Fire-system priority route
+Why it fits: Life-safety enquiries need unambiguous priority
+Difference from the other demos: Uses a response band and safety-state cards
+
+DIRECTION 2: South West coverage
+Visual style: Regional map and local service tiles
+Layout / customer journey: Customers confirm location and service availability
+Signature feature: Coverage-to-service router
+Why it fits: Makes the territory clear
+Difference from the other demos: Map-led structure is unique in the batch
+
+DIRECTION 3: Service-record journey
+Visual style: Clean maintenance ledger
+Layout / customer journey: Existing clients book recurring checks and new clients request surveys
+Signature feature: Next-service planner
+Why it fits: Supports maintenance renewals
+Difference from the other demos: Designed around records and due dates

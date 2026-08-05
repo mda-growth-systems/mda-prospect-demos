@@ -1,0 +1,23 @@
+HYDROP E.C.S. — Creative Directions
+Selected direction: Compliance dossier
+
+DIRECTION 1: Compliance dossier
+Visual style: Calm editorial green with document tabs and evidence hierarchy
+Layout / customer journey: Duty holders define estate, responsibility and required assurance
+Signature feature: Compliance scope planner
+Why it fits: The service is based on governance and evidence
+Difference from the other demos: Looks like a professional compliance dossier
+
+DIRECTION 2: Water asset map
+Visual style: Illustrated building-water network
+Layout / customer journey: Facilities teams identify assets and task coverage
+Signature feature: Asset-to-task explorer
+Why it fits: Connects naturally to COMPASS and PPM
+Difference from the other demos: Uses a network visual instead of service cards
+
+DIRECTION 3: Training and assurance hub
+Visual style: Calendar-led interface with programme pathways
+Layout / customer journey: Users choose training, consultancy or platform support
+Signature feature: Role-based learning selector
+Why it fits: Useful for responsible-person development
+Difference from the other demos: Centres the journey on roles and competence

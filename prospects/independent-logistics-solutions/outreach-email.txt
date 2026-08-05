@@ -1,0 +1,29 @@
+Recipient email
+sales@ilslimited.co.uk
+
+Contact person
+ILS sales team — Verified sales inbox
+
+Subject
+A quicker freight brief
+
+Main message
+Hi ILS sales team,
+
+ILS combines pallet distribution, same-day options and warehousing, including order picking, relabelling and cross-docking. I built a manifest-style enquiry that captures service, pallet volume, frequency and timing before pricing.
+
+I prepared an unofficial concept here:
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/independent-logistics-solutions/
+
+Would this give the sales team a better starting brief?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/independent-logistics-solutions/
+MDA Growth Systems URL: https://mdagrowthsystems.com
+Testing status: Public verification pending deployment; do not send until both links pass signed-out testing.

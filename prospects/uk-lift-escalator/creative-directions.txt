@@ -1,0 +1,23 @@
+UK Lift & Escalator Company — Creative Directions
+Selected direction: Asset status console
+
+DIRECTION 1: Asset status console
+Visual style: Dark technical dashboard with cyan status indicators
+Layout / customer journey: A caller reports asset and risk before describing symptoms
+Signature feature: Downtime priority console
+Why it fits: It reflects a 24/7 engineering operation
+Difference from the other demos: Uses live-status panels and a vertical shaft visual
+
+DIRECTION 2: Vertical journey
+Visual style: Bright corporate layout moving floor by floor
+Layout / customer journey: A buyer moves through maintenance, repair, modernisation and installation
+Signature feature: Interactive floor selector
+Why it fits: Makes the service range easy to understand
+Difference from the other demos: Navigation behaves like lift controls
+
+DIRECTION 3: Reliability ledger
+Visual style: Editorial white layout with maintenance records
+Layout / customer journey: Facilities managers compare contract coverage
+Signature feature: Maintenance-plan comparator
+Why it fits: Supports recurring service decisions
+Difference from the other demos: Centres on asset records rather than emergency response

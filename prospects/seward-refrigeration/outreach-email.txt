@@ -1,0 +1,29 @@
+Recipient email
+info@sewardrl.co.uk
+
+Contact person
+Seward Refrigeration team — Verified general business inbox
+
+Subject
+A plant-critical cooling brief
+
+Main message
+Hi Seward Refrigeration team,
+
+With service teams in Manchester, Yorkshire and East Anglia, Seward supports refrigeration where temperature and production continuity matter. I built a plant-critical route that captures the system, alarm and operational impact before an engineer responds.
+
+I prepared an unofficial concept here:
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/seward-refrigeration/
+
+Would this help your team prioritise incoming service requests?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/seward-refrigeration/
+MDA Growth Systems URL: https://mdagrowthsystems.com
+Testing status: Public verification pending deployment; do not send until both links pass signed-out testing.

@@ -1,0 +1,29 @@
+Recipient email
+info@hydrop.com
+
+Contact person
+HYDROP consultancy team — Verified general business inbox
+
+Subject
+A clearer HYDROP enquiry route
+
+Main message
+Hi HYDROP consultancy team,
+
+HYDROP already offers a deep mix of risk assessment, independent audit, Authorising Engineer support, PPM and COMPASS. I created a portfolio-aware route that helps duty holders reach the right consultancy, training or COMPASS conversation.
+
+I prepared an unofficial concept here:
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/hydrop-ecs/
+
+Would a brief walkthrough be useful?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/hydrop-ecs/
+MDA Growth Systems URL: https://mdagrowthsystems.com
+Testing status: Public verification pending deployment; do not send until both links pass signed-out testing.

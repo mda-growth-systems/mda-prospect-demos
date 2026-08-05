@@ -1,0 +1,23 @@
+iPro Hire — Creative Directions
+Selected direction: Depot-first catalogue
+
+DIRECTION 1: Depot-first catalogue
+Visual style: Industrial yellow, black and off-white with category-led navigation
+Layout / customer journey: A customer starts with the task and sees matching hire categories
+Signature feature: Interactive job-to-equipment brief
+Why it fits: It mirrors how customers think before they know an exact machine name
+Difference from the other demos: Uses a catalogue rail and depot switcher rather than a standard agency hero
+
+DIRECTION 2: Project planner
+Visual style: Clean blueprint grid with date-led planning
+Layout / customer journey: A contractor builds a temporary site setup
+Signature feature: Multi-item project checklist
+Why it fits: Useful for commercial projects needing several equipment categories
+Difference from the other demos: Focuses on planning rather than browsing
+
+DIRECTION 3: Rapid quote card
+Visual style: Compact mobile-first cards with strong phone access
+Layout / customer journey: A customer sends the minimum quote details in under a minute
+Signature feature: Progressive four-step quote card
+Why it fits: Fits urgent local hire behaviour
+Difference from the other demos: Designed as a fast mobile utility

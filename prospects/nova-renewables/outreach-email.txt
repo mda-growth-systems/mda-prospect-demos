@@ -1,0 +1,29 @@
+Recipient email
+info@novarenewables.co.uk
+
+Contact person
+Nova Renewables team — Verified general business inbox
+
+Subject
+Commercial solar feasibility idea
+
+Main message
+Hi Nova Renewables team,
+
+Nova takes commercial solar from initial feasibility through design, DNO approval, installation and commissioning. I built a feasibility-first brief using property type, roof context, electricity use and battery interest.
+
+I prepared an unofficial concept here:
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/nova-renewables/
+
+Would this improve the quality of first feasibility requests?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/nova-renewables/
+MDA Growth Systems URL: https://mdagrowthsystems.com
+Testing status: Public verification pending deployment; do not send until both links pass signed-out testing.

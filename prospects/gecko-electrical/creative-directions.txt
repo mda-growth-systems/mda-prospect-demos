@@ -1,0 +1,23 @@
+Gecko Electrical Services — Creative Directions
+Selected direction: Electrical scope board
+
+DIRECTION 1: Electrical scope board
+Visual style: Charcoal schematic grid with lime circuit markers
+Layout / customer journey: Facilities teams define service, estate and access constraints
+Signature feature: Multi-site electrical scope board
+Why it fits: The offer is compliance-heavy and operational
+Difference from the other demos: Uses circuit lines and live-site switches
+
+DIRECTION 2: Compliance calendar
+Visual style: Bright calendar and certificate timeline
+Layout / customer journey: Managers plan EICR and emergency-lighting deadlines
+Signature feature: Deadline planner
+Why it fits: Supports recurring compliance work
+Difference from the other demos: Organised by due dates instead of services
+
+DIRECTION 3: National portfolio map
+Visual style: Regional operations dashboard
+Layout / customer journey: Multi-site clients group locations and service requirements
+Signature feature: Portfolio batch builder
+Why it fits: Highlights nationwide capability
+Difference from the other demos: Map-and-list interface differs from all other demos

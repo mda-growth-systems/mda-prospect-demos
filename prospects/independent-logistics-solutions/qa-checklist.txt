@@ -1,0 +1,18 @@
+Independent Logistics Solutions — QA Checklist
+[PASS] Correct business name and prospect-specific content
+[PASS] No placeholder text or other prospect names
+[PASS] No fake reviews, logos, awards, staff, projects or statistics
+[PASS] Internal score and affordability assessment excluded from public pages
+[PASS] Responsive navigation included
+[PASS] Calls to action and internal anchors present
+[PASS] Telephone link uses 01435866650
+[PASS] Email link uses sales@ilslimited.co.uk
+[PASS] Accessible labels on all form controls
+[PASS] Prototype form behaviour disclosed; no silent data loss
+[PASS] thank-you.html included
+[PASS] SEO title and meta description included
+[PASS] Original inline illustration with accessible label
+[PASS] Unofficial-concept disclaimer included
+[PENDING] Signed-out public deployment check
+[PENDING] Public SSL and exact URL check
+[PENDING] Gmail draft link check after deployment

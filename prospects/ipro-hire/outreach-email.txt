@@ -1,0 +1,29 @@
+Recipient email
+addlestone@iprohire.co.uk
+
+Contact person
+Addlestone depot team — Verified depot business inbox
+
+Subject
+iPro hire brief idea
+
+Main message
+Hi Addlestone depot team,
+
+Your Addlestone and Epsom depots cover everything from powered access and diggers to site power, welfare and pumping equipment. I mapped a quicker equipment brief that captures the job, hire period, delivery choice and site access before the depot calls back.
+
+I prepared an unofficial concept here:
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/ipro-hire/
+
+Would this make quote requests easier for the depot team?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/ipro-hire/
+MDA Growth Systems URL: https://mdagrowthsystems.com
+Testing status: Public verification pending deployment; do not send until both links pass signed-out testing.

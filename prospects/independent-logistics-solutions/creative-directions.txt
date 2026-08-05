@@ -1,0 +1,23 @@
+Independent Logistics Solutions — Creative Directions
+Selected direction: Digital manifest
+
+DIRECTION 1: Digital manifest
+Visual style: Navy-and-orange transport manifest with route stamps
+Layout / customer journey: A customer creates a quote-ready movement brief
+Signature feature: Movement brief builder
+Why it fits: Freight pricing depends on volume, route and timing
+Difference from the other demos: Uses manifest cards and a route timeline
+
+DIRECTION 2: Warehouse capacity planner
+Visual style: Industrial grid with storage zones
+Layout / customer journey: Customers scope storage and fulfilment separately
+Signature feature: Storage requirement planner
+Why it fits: Highlights the 300,000+ sq ft network claim from the site
+Difference from the other demos: Centres on warehouse operations
+
+DIRECTION 3: Service lane selector
+Visual style: Map-like lane cards
+Layout / customer journey: Customers choose UK, Europe, same-day or combined solutions
+Signature feature: Lane-and-deadline router
+Why it fits: Makes multiple delivery options easy to compare
+Difference from the other demos: Navigation resembles dispatch lanes

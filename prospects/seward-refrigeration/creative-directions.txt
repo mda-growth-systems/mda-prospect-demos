@@ -1,0 +1,23 @@
+Seward Refrigeration — Creative Directions
+Selected direction: Cold-chain control room
+
+DIRECTION 1: Cold-chain control room
+Visual style: Deep blue control-room panels with icy data accents
+Layout / customer journey: Operations teams classify risk before requesting support
+Signature feature: Temperature-and-production risk snapshot
+Why it fits: Industrial refrigeration is operationally critical
+Difference from the other demos: Uses gauges and alarm panels rather than generic service cards
+
+DIRECTION 2: Engineering schematic
+Visual style: White technical drawings and pipe routes
+Layout / customer journey: Project teams scope new systems and upgrades
+Signature feature: System-design requirement map
+Why it fits: Fits design and commissioning projects
+Difference from the other demos: Centres on system architecture
+
+DIRECTION 3: Three-region service map
+Visual style: Regional layout linking Manchester, Yorkshire and East Anglia
+Layout / customer journey: Customers select the nearest service region
+Signature feature: Branch-aware incident router
+Why it fits: Reflects the real three-office structure
+Difference from the other demos: Map-led hero differentiates it from other demos

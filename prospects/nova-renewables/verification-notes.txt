@@ -1,0 +1,21 @@
+Nova Renewables — Verification Notes
+Research date: 2026-08-05
+Official website: https://www.novarenewables.co.uk/
+Normalised domain: novarenewables.co.uk
+Industry: Commercial solar, battery and EV charging
+Location: Pevensey, East Sussex; UK commercial projects
+Legal / subscriber type: Nova Renewables Ltd; company number 07848739
+Public business email: info@novarenewables.co.uk
+Public phone: 01323461200
+Contact route: Nova Renewables team — Verified general business inbox
+Operating evidence: Working official website with current service and contact information, checked during this run.
+Commercial capability assessment: Moderate — based on visible service breadth, geographic reach, operational support, accreditations, project scope or multi-site capability. This is a commercial assessment, not verified financial information.
+Observed enquiry opportunity: The current quote form asks for name, email, phone and a message, but does not visibly capture roof type, annual electricity use, daytime load, DNO status or battery interest.
+Recommended concept: A feasibility-first calculator that gathers the information needed for a meaningful initial solar conversation rather than a generic callback.
+Duplicate checks: No matching domain found in the connected Gmail history, GitHub prospect repository or current outreach log. No matching opt-out or suppression entry found in the available checks.
+Image / asset source: Original inline SVG illustration created for this private concept. No staff, premises, vehicles, client logos, reviews or projects are invented.
+Factual limitation: Public copy uses only services and contact details visible on the official business website. All content remains subject to prospect review.
+
+Verification sources:
+- https://www.novarenewables.co.uk/
+- https://www.novarenewables.co.uk/commercial

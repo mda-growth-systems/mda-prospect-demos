@@ -1,0 +1,23 @@
+Nova Renewables — Creative Directions
+Selected direction: Feasibility landscape
+
+DIRECTION 1: Feasibility landscape
+Visual style: Warm solar gradient with roof-and-load visualisation
+Layout / customer journey: Businesses test whether a site is ready for a feasibility conversation
+Signature feature: Solar feasibility snapshot
+Why it fits: Commercial solar depends on site and load data
+Difference from the other demos: Uses a sun-path and load-profile illustration
+
+DIRECTION 2: Project pathway
+Visual style: Clean green step sequence
+Layout / customer journey: Buyers see feasibility, design, DNO, installation and commissioning
+Signature feature: DNO readiness checklist
+Why it fits: Explains a complex buying process
+Difference from the other demos: Centres on approvals and project stages
+
+DIRECTION 3: Energy opportunity board
+Visual style: Data-led dashboard
+Layout / customer journey: Facilities teams compare solar, battery and EV charging priorities
+Signature feature: Energy-stack selector
+Why it fits: Supports cross-sell without overwhelming the user
+Difference from the other demos: Looks like an energy planning tool

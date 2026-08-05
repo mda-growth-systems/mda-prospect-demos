@@ -1,0 +1,29 @@
+Recipient email
+info@ukliftandescalator.co.uk
+
+Contact person
+Customer support team — Verified general business inbox
+
+Subject
+Lift downtime, routed clearly
+
+Main message
+Hi Customer support team,
+
+Your 24/7 in-house support and nationwide engineering coverage make the first breakdown details especially important. I built a concept that separates entrapment or unsafe conditions from routine faults, maintenance and modernisation enquiries.
+
+I prepared an unofficial concept here:
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/uk-lift-escalator/
+
+Is this close to how your support team currently triages calls?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/uk-lift-escalator/
+MDA Growth Systems URL: https://mdagrowthsystems.com
+Testing status: Public verification pending deployment; do not send until both links pass signed-out testing.

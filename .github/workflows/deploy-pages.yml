@@ -35,11 +35,20 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          if [ -d batch-10-payload ]; then
-            cat batch-10-payload/part-* > /tmp/batch-10-payload.tar.gz.b64
+          if [ -d batch-10-payload ] && [ -d batch-10-payload-v2 ]; then
+            cat \
+              batch-10-payload/part-00 \
+              batch-10-payload/part-01 \
+              batch-10-payload-v2/chunk-04 \
+              batch-10-payload-v2/chunk-05 \
+              batch-10-payload-v2/chunk-06 \
+              batch-10-payload-v2/chunk-07 \
+              batch-10-payload/part-04 \
+              > /tmp/batch-10-payload.tar.gz.b64
             base64 --decode /tmp/batch-10-payload.tar.gz.b64 > /tmp/batch-10-payload.tar.gz
+            gzip -t /tmp/batch-10-payload.tar.gz
             tar -xzf /tmp/batch-10-payload.tar.gz
-            rm -rf batch-10-payload
+            rm -rf batch-10-payload batch-10-payload-v2
             python - <<'PY'
           import csv
           from pathlib import Path

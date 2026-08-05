@@ -28,7 +28,7 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v4
 
-      - name: Expand Batch 07 payload when present
+      - name: Expand and save Batch 07 folders
         shell: bash
         run: |
           set -euo pipefail
@@ -37,6 +37,11 @@ jobs:
             base64 --decode /tmp/batch-07.tar.gz.b64 > /tmp/batch-07.tar.gz
             tar -xzf /tmp/batch-07.tar.gz
             rm -rf batch-07-payload
+            git config user.name "mda-growth-systems"
+            git config user.email "michael@mdagrowthsystems.info"
+            git add -A
+            git commit -m "Add Batch 07 prospect website folders [skip ci]"
+            git push
           fi
 
       - name: Configure GitHub Pages
@@ -71,27 +76,26 @@ jobs:
             prospects/nova-renewables/
             prospects/independent-logistics-solutions/
           )
-          sleep 20
+          sleep 30
           {
             echo "Batch 07 GitHub Pages verification"
             echo "Deployment: $base"
-            echo "Commit: $GITHUB_SHA"
+            echo "Commit: $(git rev-parse HEAD)"
             echo "Verified UTC: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
             echo
           } > pages-verification-batch-07.txt
           for path in "${paths[@]}"; do
             url="${base%/}/$path"
-            curl --fail --silent --show-error --location --retry 10 --retry-delay 5 --retry-all-errors "$url" >/dev/null
+            curl --fail --silent --show-error --location --retry 20 --retry-delay 5 --retry-all-errors "$url" >/dev/null
             echo "PASS $url" >> pages-verification-batch-07.txt
           done
 
-      - name: Save expanded Batch 07 folders and verification
+      - name: Save Batch 07 verification record
         shell: bash
         run: |
           set -euo pipefail
           git config user.name "mda-growth-systems"
           git config user.email "michael@mdagrowthsystems.info"
-          git add -A prospects pages-verification-batch-07.txt batch-07-payload .github/workflows/deploy-pages.yml 2>/dev/null || true
-          git add -A
-          git commit -m "Publish and verify Batch 07 prospect websites [skip ci]" || exit 0
+          git add pages-verification-batch-07.txt
+          git commit -m "Verify Batch 07 public pages [skip ci]" || exit 0
           git push

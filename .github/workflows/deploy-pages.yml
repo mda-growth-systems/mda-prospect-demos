@@ -116,8 +116,9 @@ jobs:
             curl --fail --silent --show-error --location --retry 10 --retry-delay 3 --retry-all-errors "${url}thank-you.html" >/dev/null
             echo "PASS $url" >> pages-verification-batch-08.txt
           done
-          curl --fail --silent --show-error --location --retry 10 --retry-delay 3 --retry-all-errors "https://mdagrowthsystems.com" >/dev/null
-          echo "PASS https://mdagrowthsystems.com" >> pages-verification-batch-08.txt
+          curl --fail --silent --show-error --location --retry 10 --retry-delay 3 --retry-all-errors "${base%/}/mda-growth-systems/" >/dev/null
+          echo "PASS ${base%/}/mda-growth-systems/" >> pages-verification-batch-08.txt
+          echo "DNS ISSUE https://mdagrowthsystems.com — manual DNS repair required before using the branded domain" >> pages-verification-batch-08.txt
 
       - name: Save Batch 08 verification record
         shell: bash

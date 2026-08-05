@@ -1,0 +1,134 @@
+name: Deploy Batch 13 prospect demos
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'batch-13-payload/**'
+      - '.github/workflows/deploy-batch-13.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages-${{ github.repository }}
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Expand Batch 13 payload
+        shell: bash
+        run: |
+          set -euo pipefail
+          cat batch-13-payload/chunk-* > /tmp/batch-13.tar.gz.b64
+          base64 --decode /tmp/batch-13.tar.gz.b64 > /tmp/batch-13.tar.gz
+          echo "cd72e5f81e04c95318cd9444a171a868c4009714c92946b493ecd270552e2e0f  /tmp/batch-13.tar.gz" | sha256sum -c -
+          gzip -t /tmp/batch-13.tar.gz
+          tar -xzf /tmp/batch-13.tar.gz
+          rm -rf batch-13-payload
+
+      - name: Merge Batch 13 outreach log
+        shell: bash
+        run: |
+          python - <<'PYMERGE'
+          import csv
+          from pathlib import Path
+          master=Path('outreach-log.csv'); batch=Path('outreach-log-batch-13.csv')
+          with batch.open(newline='',encoding='utf-8-sig') as f:
+              incoming=list(csv.DictReader(f))
+          existing=[]; fields=list(incoming[0].keys()) if incoming else []
+          if master.exists():
+              with master.open(newline='',encoding='utf-8-sig') as f:
+                  r=csv.DictReader(f); existing=list(r); fields=r.fieldnames or fields
+          for row in incoming:
+              for key in row:
+                  if key not in fields: fields.append(key)
+          index={r.get('Normalised root domain','').strip().lower():i for i,r in enumerate(existing)}
+          for row in incoming:
+              domain=row.get('Normalised root domain','').strip().lower()
+              clean={k:row.get(k,'') for k in fields}
+              if domain in index: existing[index[domain]].update(clean)
+              elif domain: index[domain]=len(existing); existing.append(clean)
+          with master.open('w',newline='',encoding='utf-8') as f:
+              w=csv.DictWriter(f,fieldnames=fields,extrasaction='ignore'); w.writeheader(); w.writerows(existing)
+          PYMERGE
+
+      - name: Persist Batch 13 source files
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "mda-growth-systems"
+          git config user.email "michael@mdagrowthsystems.info"
+          git add -A
+          git commit -m "Persist Batch 13 prospect demos [skip ci]"
+          git push
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: .
+
+      - name: Deploy GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+      - name: Verify Batch 13 public pages
+        shell: bash
+        run: |
+          set -euo pipefail
+          base="${{ steps.deployment.outputs.page_url }}"
+          paths=(
+            prospects/mp-electrics-industrial-batteries/
+            prospects/all-bms/
+            prospects/dwas-tex-commercial-laundry/
+            prospects/doorcheck-fire-door-inspections/
+            prospects/fire-suppression-limited/
+            prospects/sentral-lift-services/
+            prospects/extraction-canopy/
+            prospects/quest-industrial-flooring/
+            prospects/airmec-essential-services/
+            prospects/process-control-panels/
+          )
+          sleep 45
+          {
+            echo "Batch 13 GitHub Pages verification"
+            echo "Deployment: $base"
+            echo "Commit: $(git rev-parse HEAD)"
+            echo "Verified UTC: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            echo
+          } > pages-verification-batch-13.txt
+          curl --fail --silent --show-error --location --retry 20 --retry-delay 4 --retry-all-errors "${base%/}/batch-13.html" >/dev/null
+          echo "PASS ${base%/}/batch-13.html" >> pages-verification-batch-13.txt
+          for path in "${paths[@]}"; do
+            url="${base%/}/$path"
+            curl --fail --silent --show-error --location --retry 30 --retry-delay 4 --retry-all-errors "$url" >/dev/null
+            curl --fail --silent --show-error --location --retry 20 --retry-delay 4 --retry-all-errors "${url}index.html" >/dev/null
+            curl --fail --silent --show-error --location --retry 20 --retry-delay 4 --retry-all-errors "${url}thank-you.html" >/dev/null
+            echo "PASS $url" >> pages-verification-batch-13.txt
+          done
+          curl --fail --silent --show-error --location --retry 15 --retry-delay 4 --retry-all-errors "https://mdagrowthsystems.com/" >/dev/null
+          echo "PASS https://mdagrowthsystems.com/" >> pages-verification-batch-13.txt
+
+      - name: Save Batch 13 verification record
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name "mda-growth-systems"
+          git config user.email "michael@mdagrowthsystems.info"
+          git add pages-verification-batch-13.txt
+          git commit -m "Verify Batch 13 public pages [skip ci]"
+          git pull --rebase
+          git push

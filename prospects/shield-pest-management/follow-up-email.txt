@@ -1,0 +1,26 @@
+Recipient email
+info@shieldpest.co.uk
+
+Intended subject
+Re: Audit-ready pest contract briefs
+
+Status
+Prepared — genuine thread creation pending after the first email is approved and sent.
+
+Main message
+Hi Commercial pest management team,
+
+A quick follow-up on the unofficial concept: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/shield-pest-management/
+
+An audit-standard and next-audit-date route could help separate urgent pest activity from a planned commercial contract review. Worth a quick look?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com/
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Links verified
+Prospect demo: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/shield-pest-management/
+MDA Growth Systems: https://mdagrowthsystems.com/
+Final public test: pending deployment workflow

@@ -1,0 +1,22 @@
+SRC Catering Services — creative directions
+
+DIRECTION 1: Service ticket
+Visual style: Receipt-inspired mobile layout
+Layout / journey: Appliance and error first
+Signature feature: Live ticket summary
+Why it fits: Feels fast and practical for a kitchen manager.
+
+DIRECTION 2: Kitchen line
+Visual style: Horizontal equipment layout
+Layout / journey: Choose the failed station
+Signature feature: Interactive kitchen line
+Why it fits: Makes multi-equipment service visual.
+
+DIRECTION 3: Brand service desk
+Visual style: Clean brand-grid layout
+Layout / journey: Manufacturer route first
+Signature feature: Brand-specific checklist
+Why it fits: Matches the service-agent positioning.
+
+SELECTED
+Service ticket — it is immediately usable on mobile and gives the engineer a concise appliance brief.

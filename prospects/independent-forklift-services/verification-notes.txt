@@ -1,0 +1,26 @@
+BUSINESS
+Independent Forklift Services (Midlands)
+Website: https://www.iforklifts.co.uk/
+Domain: iforklifts.co.uk
+Email: info@iforklifts.co.uk
+Phone: 07990 725988
+Industry: Forklift repair, service and support
+Location: Rugby and surrounding Midlands areas
+Legal / subscriber type: Active private limited company (09793334)
+Contact route: Forklift service team — General business inbox
+
+OBSERVED OPPORTUNITY (INTERNAL)
+A general enquiry could be improved by capturing truck type, power source and operational impact.
+Recommended MDA opportunity: Forklift breakdown triage
+Commercial capability: Moderate (observable business signals; not a financial claim)
+Prospect score: 86/100
+
+DUPLICATE CHECK
+No matching Gmail message found for the root domain during the Batch 12 search. No matching GitHub code-search result found before build. Final status remains subject to the central outreach-log merge and final QA.
+
+PUBLIC SOURCES
+https://www.iforklifts.co.uk/
+https://find-and-update.company-information.service.gov.uk/company/09793334
+
+ASSETS
+Original CSS-based abstract illustration and interface graphics created for this private concept. No stock photos, copied staff imagery, customer logos or invented project imagery used.

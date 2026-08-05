@@ -1,0 +1,22 @@
+Shield Pest Management — creative directions
+
+DIRECTION 1: Audit evidence board
+Visual style: Clean compliance dashboard
+Layout / journey: Audit standard and evidence gap first
+Signature feature: Audit-readiness mapper
+Why it fits: Adds value beyond the already strong visual website.
+
+DIRECTION 2: Estate heatmap
+Visual style: Multi-site map layout
+Layout / journey: Portfolio locations and risk first
+Signature feature: Estate site counter
+Why it fits: Targets facilities and warehouse groups.
+
+DIRECTION 3: Rapid response
+Visual style: High-contrast incident layout
+Layout / journey: Active issue versus contract route
+Signature feature: Infestation urgency selector
+Why it fits: Keeps emergencies separate from commercial onboarding.
+
+SELECTED
+Audit evidence board — the existing website is already polished, so the demo focuses on contract qualification and audit onboarding rather than appearance.

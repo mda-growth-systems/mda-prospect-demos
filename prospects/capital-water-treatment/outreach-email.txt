@@ -1,0 +1,28 @@
+Recipient email
+sales@capitalwater.co.uk
+
+Contact person
+Water-treatment sales team (Sales inbox; active directors publicly listed)
+
+Subject
+Water systems, one clear brief
+
+Main message
+Hi Water-treatment sales team,
+
+Capital Water supports healthcare, laboratory and industrial systems, so the useful starting point is the water duty and application—not just a generic quote request. I created an unofficial concept that turns that into a clearer water duty pathway.
+
+Demo: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/capital-water-treatment/
+
+It is a private sales concept, not your official website. Would this make the first enquiry easier for your team to act on?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com/
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Links verified
+Prospect demo: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/capital-water-treatment/
+MDA Growth Systems: https://mdagrowthsystems.com/
+Final public test: pending deployment workflow

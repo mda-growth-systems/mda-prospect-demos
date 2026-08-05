@@ -1,0 +1,26 @@
+BUSINESS
+Air Compressors & Equipment Ltd
+Website: https://www.aircompressorequipment.co.uk/
+Domain: aircompressorequipment.co.uk
+Email: info@aircompressorequipment.co.uk
+Phone: 0808 304 8186
+Industry: Compressed-air equipment, service and hire
+Location: North West England; nationwide support
+Legal / subscriber type: Active private limited company (05375081)
+Contact route: Compressed-air service team — General business inbox; active directors publicly listed
+
+OBSERVED OPPORTUNITY (INTERNAL)
+A broad contact route does not visibly capture compressor symptom, pressure or production impact.
+Recommended MDA opportunity: Compressed-air fault qualification
+Commercial capability: Strong (observable business signals; not a financial claim)
+Prospect score: 91/100
+
+DUPLICATE CHECK
+No matching Gmail message found for the root domain during the Batch 12 search. No matching GitHub code-search result found before build. Final status remains subject to the central outreach-log merge and final QA.
+
+PUBLIC SOURCES
+https://www.aircompressorequipment.co.uk/
+https://find-and-update.company-information.service.gov.uk/company/05375081
+
+ASSETS
+Original CSS-based abstract illustration and interface graphics created for this private concept. No stock photos, copied staff imagery, customer logos or invented project imagery used.

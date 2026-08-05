@@ -1,0 +1,22 @@
+Loading Bay Service — creative directions
+
+DIRECTION 1: Dock geometry
+Visual style: Blueprint-inspired layout
+Layout / journey: Survey inputs before product selection
+Signature feature: Vehicle-to-floor matcher
+Why it fits: Turns a complex survey into an understandable first step.
+
+DIRECTION 2: Product runway
+Visual style: Horizontal product narrative
+Layout / journey: Compare ramp and leveller routes
+Signature feature: Equipment comparison slider
+Why it fits: Helps buyers understand options.
+
+DIRECTION 3: Operations first
+Visual style: Case-led logistics layout
+Layout / journey: Start with vehicle flow and throughput
+Signature feature: Peak-hour calculator
+Why it fits: Frames the project around operational value.
+
+SELECTED
+Dock geometry — it feels specific to loading bays and creates a useful pre-survey brief without pretending to replace engineering design.

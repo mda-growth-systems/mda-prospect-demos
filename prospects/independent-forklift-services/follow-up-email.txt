@@ -1,0 +1,26 @@
+Recipient email
+info@iforklifts.co.uk
+
+Intended subject
+Re: Forklift downtime, diagnosed sooner
+
+Status
+Prepared — genuine thread creation pending after the first email is approved and sent.
+
+Main message
+Hi Forklift service team,
+
+A quick follow-up on the unofficial concept: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/independent-forklift-services/
+
+The shift-impact field could tell the service team whether there is a spare truck available or the loading operation is fully blocked. Worth a quick look?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com/
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Links verified
+Prospect demo: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/independent-forklift-services/
+MDA Growth Systems: https://mdagrowthsystems.com/
+Final public test: pending deployment workflow

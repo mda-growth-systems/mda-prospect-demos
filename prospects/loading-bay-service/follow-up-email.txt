@@ -1,0 +1,26 @@
+Recipient email
+info@rampsales.co.uk
+
+Intended subject
+Re: Loading-bay surveys, better briefed
+
+Status
+Prepared — genuine thread creation pending after the first email is approved and sent.
+
+Main message
+Hi Loading-bay projects team,
+
+A quick follow-up on the unofficial concept: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/loading-bay-service/
+
+A simple vehicle-to-floor brief could help your team arrive at the survey with the main geometry and access constraints already known. Worth a quick look?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com/
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Links verified
+Prospect demo: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/loading-bay-service/
+MDA Growth Systems: https://mdagrowthsystems.com/
+Final public test: pending deployment workflow

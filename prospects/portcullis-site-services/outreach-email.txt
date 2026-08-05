@@ -1,0 +1,28 @@
+Recipient email
+enquiries@portcullis-site-services.co.uk
+
+Contact person
+Service and projects team (General business inbox)
+
+Subject
+Portcullis — bay fault routing
+
+Main message
+Hi Service and projects team,
+
+Portcullis supports industrial doors and loading-bay equipment nationwide, where “stuck open” and “stuck closed” create very different security and access problems. I created an unofficial concept that turns that into a clearer bay fault router.
+
+Demo: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/portcullis-site-services/
+
+It is a private sales concept, not your official website. Would this make the first enquiry easier for your team to act on?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com/
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Links verified
+Prospect demo: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/portcullis-site-services/
+MDA Growth Systems: https://mdagrowthsystems.com/
+Final public test: pending deployment workflow

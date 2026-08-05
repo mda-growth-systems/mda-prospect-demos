@@ -1,0 +1,22 @@
+Portcullis Site Services — creative directions
+
+DIRECTION 1: Bay status board
+Visual style: Bold split-screen industrial layout
+Layout / journey: Fault state before service type
+Signature feature: Door-state selector
+Why it fits: Directly mirrors the engineer’s first triage questions.
+
+DIRECTION 2: Maintenance calendar
+Visual style: Timeline-led layout
+Layout / journey: Asset servicing and renewals
+Signature feature: Asset renewal planner
+Why it fits: Supports recurring maintenance contracts.
+
+DIRECTION 3: Project aperture
+Visual style: Wide architectural layout
+Layout / journey: New installation and specification
+Signature feature: Opening-dimension visualiser
+Why it fits: Works for capital projects and replacements.
+
+SELECTED
+Bay status board — it makes the safety and access consequence visible within seconds, which is stronger than a broad redesign pitch.

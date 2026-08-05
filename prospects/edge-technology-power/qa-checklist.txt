@@ -1,0 +1,15 @@
+WEBSITE QA — LOCAL STATIC PASS (2026-08-05)
+[x] Correct prospect name and isolated folder
+[x] All eight required project files present
+[x] No placeholder or cross-prospect content detected
+[x] Public contact details match recorded verification notes
+[x] All form controls have accessible labels
+[x] Prototype disclosure states no data is transmitted
+[x] Thank-you page exists and is linked by the prototype script
+[x] Responsive CSS includes desktop, tablet and 390px mobile breakpoints
+[x] No external image dependency
+[x] SEO title and description present
+[x] Both required links present in first and follow-up messages
+[x] Follow-up Re: subject exactly matches original subject
+[ ] Local Chromium runtime test unavailable: browser navigation blocked by administrator policy
+[ ] Public GitHub Pages HTTPS verification pending deployment workflow

@@ -1,0 +1,28 @@
+Recipient email
+info@rampsales.co.uk
+
+Contact person
+Loading-bay projects team (General business inbox; director details publicly filed)
+
+Subject
+Loading-bay surveys, better briefed
+
+Main message
+Hi Loading-bay projects team,
+
+Loading Bay Service works across dock levellers, ramps and site surveys, where vehicle mix and floor height matter long before a product is chosen. I created an unofficial concept that turns that into a clearer bay configurator.
+
+Demo: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/loading-bay-service/
+
+It is a private sales concept, not your official website. Would this make the first enquiry easier for your team to act on?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com/
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Links verified
+Prospect demo: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/loading-bay-service/
+MDA Growth Systems: https://mdagrowthsystems.com/
+Final public test: pending deployment workflow

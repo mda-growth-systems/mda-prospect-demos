@@ -1,0 +1,28 @@
+Recipient email
+info@jchildplumbing.co.uk
+
+Contact person
+Commercial mechanical team (Verified general inbox)
+
+Subject
+Plant-room enquiries, organised
+
+Main message
+Hi Commercial mechanical team,
+
+J Child focuses on commercial boilers and plant rooms, where “no heating” and “no hot water” can have very different consequences depending on the building. I created an unofficial concept that turns that into a clearer plant-room intake.
+
+Demo: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/j-child-commercial/
+
+It is a private sales concept, not your official website. Would this make the first enquiry easier for your team to act on?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com/
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Links verified
+Prospect demo: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/j-child-commercial/
+MDA Growth Systems: https://mdagrowthsystems.com/
+Final public test: pending deployment workflow

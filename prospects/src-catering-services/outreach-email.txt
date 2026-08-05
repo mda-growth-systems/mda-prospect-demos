@@ -1,0 +1,28 @@
+Recipient email
+service@srccateringservices.co.uk
+
+Contact person
+Commercial kitchen service team (Verified service inbox)
+
+Subject
+Kitchen breakdowns, ready to dispatch
+
+Main message
+Hi Commercial kitchen service team,
+
+SRC repairs Rational, Lincat, Blue Seal and other commercial kitchen equipment across London and the South East, where the failed appliance and trading impact shape the response. I created an unofficial concept that turns that into a clearer kitchen breakdown triage.
+
+Demo: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/src-catering-services/
+
+It is a private sales concept, not your official website. Would this make the first enquiry easier for your team to act on?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com/
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Links verified
+Prospect demo: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/src-catering-services/
+MDA Growth Systems: https://mdagrowthsystems.com/
+Final public test: pending deployment workflow

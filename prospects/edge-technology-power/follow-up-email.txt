@@ -1,0 +1,26 @@
+Recipient email
+enquiries@edgetechnology.co.uk
+
+Intended subject
+Re: Edge Technology — outage intake
+
+Status
+Prepared — genuine thread creation pending after the first email is approved and sent.
+
+Main message
+Hi Power enquiries team,
+
+A quick follow-up on the unofficial concept: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/edge-technology-power/
+
+Adding ATS status and operational impact could help distinguish a routine alarm from a site-continuity risk before the engineer calls. Worth a quick look?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com/
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Links verified
+Prospect demo: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/edge-technology-power/
+MDA Growth Systems: https://mdagrowthsystems.com/
+Final public test: pending deployment workflow

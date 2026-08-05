@@ -1,0 +1,25 @@
+BUSINESS
+SRC Catering Services
+Website: https://www.srccateringservices.co.uk/
+Domain: srccateringservices.co.uk
+Email: service@srccateringservices.co.uk
+Phone: 01689 661167
+Industry: Commercial catering equipment repair and service
+Location: London, Kent, Surrey, Sussex and surrounding areas
+Legal / subscriber type: Trading business; public company listing found, exact legal entity not independently confirmed in this run
+Contact route: Commercial kitchen service team — Verified service inbox
+
+OBSERVED OPPORTUNITY (INTERNAL)
+The current contact form could capture appliance, brand, energy source and kitchen impact before dispatch.
+Recommended MDA opportunity: Commercial kitchen breakdown triage
+Commercial capability: Moderate (observable business signals; not a financial claim)
+Prospect score: 87/100
+
+DUPLICATE CHECK
+No matching Gmail message found for the root domain during the Batch 12 search. No matching GitHub code-search result found before build. Final status remains subject to the central outreach-log merge and final QA.
+
+PUBLIC SOURCES
+https://www.srccateringservices.co.uk/
+
+ASSETS
+Original CSS-based abstract illustration and interface graphics created for this private concept. No stock photos, copied staff imagery, customer logos or invented project imagery used.

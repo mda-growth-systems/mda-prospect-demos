@@ -1,0 +1,26 @@
+BUSINESS
+Edge Technology Power
+Website: https://www.edgetechnology.co.uk/
+Domain: edgetechnology.co.uk
+Email: enquiries@edgetechnology.co.uk
+Phone: 01270 306822
+Industry: Industrial generator sales, installation and repair
+Location: Crewe, Cheshire; UK-wide service
+Legal / subscriber type: Active private limited company (Edge Technology Power Ltd, 05242175)
+Contact route: Power enquiries team — General business inbox; director Michael Harold John Barry verified
+
+OBSERVED OPPORTUNITY (INTERNAL)
+The current journey can be strengthened by collecting outage impact and generator context before a callback.
+Recommended MDA opportunity: Generator fault and project-intake triage
+Commercial capability: Strong (observable business signals; not a financial claim)
+Prospect score: 92/100
+
+DUPLICATE CHECK
+No matching Gmail message found for the root domain during the Batch 12 search. No matching GitHub code-search result found before build. Final status remains subject to the central outreach-log merge and final QA.
+
+PUBLIC SOURCES
+https://www.edgetechnology.co.uk/
+https://find-and-update.company-information.service.gov.uk/company/05242175
+
+ASSETS
+Original CSS-based abstract illustration and interface graphics created for this private concept. No stock photos, copied staff imagery, customer logos or invented project imagery used.

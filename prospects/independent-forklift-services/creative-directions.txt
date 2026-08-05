@@ -1,0 +1,22 @@
+Independent Forklift Services (Midlands) — creative directions
+
+DIRECTION 1: Downtime desk
+Visual style: Mobile service-card layout
+Layout / journey: Fault and shift impact first
+Signature feature: Truck-state quick select
+Why it fits: Designed for a supervisor standing beside a failed truck.
+
+DIRECTION 2: Fleet planner
+Visual style: Table-led dashboard
+Layout / journey: Recurring servicing by fleet size
+Signature feature: Service interval planner
+Why it fits: Supports maintenance contracts.
+
+DIRECTION 3: Workshop notebook
+Visual style: Tactile field-service layout
+Layout / journey: Photos and symptoms first
+Signature feature: Engineer note builder
+Why it fits: Feels practical and independent.
+
+SELECTED
+Downtime desk — its mobile-first structure suits urgent breakdown use and makes dispatch information clearer.

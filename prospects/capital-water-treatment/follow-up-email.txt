@@ -1,0 +1,26 @@
+Recipient email
+sales@capitalwater.co.uk
+
+Intended subject
+Re: Water systems, one clear brief
+
+Status
+Prepared — genuine thread creation pending after the first email is approved and sent.
+
+Main message
+Hi Water-treatment sales team,
+
+A quick follow-up on the unofficial concept: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/capital-water-treatment/
+
+An application-to-system route could help technical sales distinguish a new RO project from a service issue or consumables request immediately. Worth a quick look?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com/
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+Links verified
+Prospect demo: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/capital-water-treatment/
+MDA Growth Systems: https://mdagrowthsystems.com/
+Final public test: pending deployment workflow

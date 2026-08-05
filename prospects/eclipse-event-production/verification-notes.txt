@@ -1,0 +1,25 @@
+Verification notes — Eclipse Event Staging & Production
+Research date: 2026-08-05
+
+Official website: https://eclipseuk.co.uk/
+Primary verification source: https://eclipseuk.co.uk/
+Public email: info@eclipseuk.co.uk
+Public phone: 01473 527 527
+Location/coverage: Ipswich with UK event coverage
+Legal/subscriber type: Commercial trading business; legal company number not relied upon in this concept
+Operating evidence: Official site lists festival staging, full production, outdoor stages, touring sound, lighting, pop-up stages and venue installations.
+
+Observed opportunity (internal only)
+The current journey mainly asks visitors to email, without collecting audience, venue, production scope, power, rigging or access details.
+
+Recommended MDA outcome (internal only)
+Production-ready event brief separating hire, full production and installs
+
+Duplicate/suppression check
+No prior MDA contact, demo, GitHub folder or suppression entry found after the available Gmail, GitHub repository and central outreach-log checks on 2026-08-05.
+
+Image and asset notes
+The concept uses an original SVG line illustration generated specifically for this prospect. No staff, premises, customer, accreditation, project or testimonial imagery was invented or copied.
+
+Factual constraints
+Only services, coverage and contact details supported by the official public website are used. The concept does not claim that its form, CRM or automation is operational.

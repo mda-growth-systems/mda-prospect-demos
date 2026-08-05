@@ -1,0 +1,25 @@
+Verification notes — Thames Fire
+Research date: 2026-08-05
+
+Official website: https://www.thamesfire.com/
+Primary verification source: https://www.thamesfire.com/about
+Public email: info@thamesfire.com
+Public phone: 0800 955 1005
+Location/coverage: London and surrounding areas
+Legal/subscriber type: Independent fire-protection business; legal company number not relied upon in this concept
+Operating evidence: Official site lists current installation and maintenance services, risk assessments, training, PAT testing and 24/7 emergency callout.
+
+Observed opportunity (internal only)
+The generic message form does not distinguish an impaired fire system from annual servicing, new installation or a risk-assessment requirement.
+
+Recommended MDA outcome (internal only)
+Fire-compliance planner separating impairments, servicing and assessments
+
+Duplicate/suppression check
+No prior MDA contact, demo, GitHub folder or suppression entry found after the available Gmail, GitHub repository and central outreach-log checks on 2026-08-05.
+
+Image and asset notes
+The concept uses an original SVG line illustration generated specifically for this prospect. No staff, premises, customer, accreditation, project or testimonial imagery was invented or copied.
+
+Factual constraints
+Only services, coverage and contact details supported by the official public website are used. The concept does not claim that its form, CRM or automation is operational.

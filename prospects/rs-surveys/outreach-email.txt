@@ -1,0 +1,29 @@
+    Recipient email
+    Richard@rssurveysltd.co.uk
+
+    Contact person
+    Commercial surveys team — Public enquiries address
+
+    Subject
+    Drainage scopes, survey-ready
+
+    Main message
+    Hi Commercial surveys team,
+
+R S Surveys combines CCTV drainage, tanker work, repairs, planned maintenance and specialist confined-space services.
+
+I built an unofficial concept focused on commercial drainage scope builder with output and access routing:
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/rs-surveys/
+
+It is designed to help enquiries arrive with the details needed for the right next step. Worth a quick look?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com/
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+    Links verified
+    Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/rs-surveys/
+    MDA Growth Systems URL: https://mdagrowthsystems.com/
+    Status: Prepared; Gmail draft pending successful public deployment and link QA.

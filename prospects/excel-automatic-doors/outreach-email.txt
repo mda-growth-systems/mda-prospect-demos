@@ -1,0 +1,29 @@
+    Recipient email
+    info@exceldoors.co.uk
+
+    Contact person
+    Door projects team — General business inbox
+
+    Subject
+    Door faults, ready for dispatch
+
+    Main message
+    Hi Door projects team,
+
+Your team covers automatic doors, shop fronts, shutters and 24-hour emergency repairs from Warrington across the UK.
+
+I built an unofficial concept focused on emergency door-fault triage with planned-installation routing:
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/excel-automatic-doors/
+
+It is designed to help enquiries arrive with the details needed for the right next step. Worth a quick look?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com/
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+    Links verified
+    Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/excel-automatic-doors/
+    MDA Growth Systems URL: https://mdagrowthsystems.com/
+    Status: Prepared; Gmail draft pending successful public deployment and link QA.

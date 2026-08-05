@@ -1,0 +1,25 @@
+Verification notes — Braywhite & Co Ltd
+Research date: 2026-08-05
+
+Official website: https://www.braywhite.co.uk/
+Primary verification source: https://www.braywhite.co.uk/
+Public email: info@braywhite.co.uk
+Public phone: 0121 551 6001
+Location/coverage: Birmingham and the West Midlands
+Legal/subscriber type: Private limited company; company number 01080090 shown on official website
+Operating evidence: Official site shows operation since 1966, commercial HVAC/refrigeration/chiller services and 24/7 emergency support for account clients.
+
+Observed opportunity (internal only)
+The broad contact route does not capture equipment type, temperature impact, stock or production risk, or account-client status.
+
+Recommended MDA outcome (internal only)
+Cold-chain and chiller fault triage for faster service decisions
+
+Duplicate/suppression check
+No prior MDA contact, demo, GitHub folder or suppression entry found after the available Gmail, GitHub repository and central outreach-log checks on 2026-08-05.
+
+Image and asset notes
+The concept uses an original SVG line illustration generated specifically for this prospect. No staff, premises, customer, accreditation, project or testimonial imagery was invented or copied.
+
+Factual constraints
+Only services, coverage and contact details supported by the official public website are used. The concept does not claim that its form, CRM or automation is operational.

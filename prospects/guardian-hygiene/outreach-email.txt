@@ -1,0 +1,29 @@
+    Recipient email
+    enquiries@guardian-group.co.uk
+
+    Contact person
+    Water hygiene advisors — General enquiries inbox
+
+    Subject
+    Water compliance, one clear brief
+
+    Main message
+    Hi Water hygiene advisors,
+
+Guardian supports water-hygiene and Legionella work for commercial, industrial, agricultural and retail clients across the UK.
+
+I built an unofficial concept focused on estate-based water-compliance plan with recurring-service routing:
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/guardian-hygiene/
+
+It is designed to help enquiries arrive with the details needed for the right next step. Worth a quick look?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com/
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+    Links verified
+    Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/guardian-hygiene/
+    MDA Growth Systems URL: https://mdagrowthsystems.com/
+    Status: Prepared; Gmail draft pending successful public deployment and link QA.

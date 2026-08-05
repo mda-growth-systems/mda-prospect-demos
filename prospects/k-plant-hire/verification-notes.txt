@@ -1,0 +1,25 @@
+Verification notes — K Plant Hire Ltd
+Research date: 2026-08-05
+
+Official website: https://kplanthire.uk.com/
+Primary verification source: https://kplanthire.uk.com/contact/
+Public email: hire@kplanthire.uk.com
+Public phone: 01189 775 742
+Location/coverage: Wokingham, London and South East England
+Legal/subscriber type: K Plant Ltd is shown on the official website; company number not relied upon in this concept
+Operating evidence: Official site lists current plant, tool, access and welfare categories, trade accounts, delivery coverage and opening hours.
+
+Observed opportunity (internal only)
+The enquiry form does not collect the equipment, quantity, hire dates, delivery postcode or site conditions needed to prepare availability and transport.
+
+Recommended MDA outcome (internal only)
+Dispatch-ready equipment finder with dates and access details
+
+Duplicate/suppression check
+No prior MDA contact, demo, GitHub folder or suppression entry found after the available Gmail, GitHub repository and central outreach-log checks on 2026-08-05.
+
+Image and asset notes
+The concept uses an original SVG line illustration generated specifically for this prospect. No staff, premises, customer, accreditation, project or testimonial imagery was invented or copied.
+
+Factual constraints
+Only services, coverage and contact details supported by the official public website are used. The concept does not claim that its form, CRM or automation is operational.

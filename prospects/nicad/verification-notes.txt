@@ -1,0 +1,25 @@
+Verification notes — NICAD
+Research date: 2026-08-05
+
+Official website: https://www.nicad.co.uk/
+Primary verification source: https://www.nicad.co.uk/
+Public email: info@nicad.co.uk
+Public phone: 0161 536 4121
+Location/coverage: Manchester with nationwide commercial coverage
+Legal/subscriber type: NICAD Ltd; company number 12686163 shown on official website
+Operating evidence: Official site lists an in-house engineering team serving HVAC, facilities maintenance and energy projects in Manchester and nationwide.
+
+Observed opportunity (internal only)
+The three broad service areas share a generic quote route, making it difficult to understand operational impact, urgency and whether the enquiry spans multiple trades.
+
+Recommended MDA outcome (internal only)
+Facilities priority matrix with operational-impact routing
+
+Duplicate/suppression check
+No prior MDA contact, demo, GitHub folder or suppression entry found after the available Gmail, GitHub repository and central outreach-log checks on 2026-08-05.
+
+Image and asset notes
+The concept uses an original SVG line illustration generated specifically for this prospect. No staff, premises, customer, accreditation, project or testimonial imagery was invented or copied.
+
+Factual constraints
+Only services, coverage and contact details supported by the official public website are used. The concept does not claim that its form, CRM or automation is operational.

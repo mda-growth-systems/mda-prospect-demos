@@ -1,0 +1,25 @@
+Verification notes — Guardian Hygiene Services Ltd
+Research date: 2026-08-05
+
+Official website: https://guardian-group.co.uk/
+Primary verification source: https://guardian-group.co.uk/contact/
+Public email: enquiries@guardian-group.co.uk
+Public phone: 01522 688180
+Location/coverage: Lincoln with UK commercial coverage
+Legal/subscriber type: Guardian Hygiene Services Ltd shown on official website
+Operating evidence: Official site lists current Lincoln contact details, UK commercial/industrial coverage and CHAS, SafeContractor and Legionella Control Association references.
+
+Observed opportunity (internal only)
+The form captures a service type but not estate size, current control position, compliance deadline or whether remedial work is already known.
+
+Recommended MDA outcome (internal only)
+Estate-based water-compliance plan with recurring-service routing
+
+Duplicate/suppression check
+No prior MDA contact, demo, GitHub folder or suppression entry found after the available Gmail, GitHub repository and central outreach-log checks on 2026-08-05.
+
+Image and asset notes
+The concept uses an original SVG line illustration generated specifically for this prospect. No staff, premises, customer, accreditation, project or testimonial imagery was invented or copied.
+
+Factual constraints
+Only services, coverage and contact details supported by the official public website are used. The concept does not claim that its form, CRM or automation is operational.

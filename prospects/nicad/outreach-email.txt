@@ -1,0 +1,29 @@
+    Recipient email
+    info@nicad.co.uk
+
+    Contact person
+    Facilities team — General business inbox
+
+    Subject
+    One route for complex facilities jobs
+
+    Main message
+    Hi Facilities team,
+
+NICAD combines HVAC, facilities maintenance and energy work through an in-house engineering team.
+
+I built an unofficial concept focused on facilities priority matrix with operational-impact routing:
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/nicad/
+
+It is designed to help enquiries arrive with the details needed for the right next step. Worth a quick look?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com/
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+    Links verified
+    Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/nicad/
+    MDA Growth Systems URL: https://mdagrowthsystems.com/
+    Status: Prepared; Gmail draft pending successful public deployment and link QA.

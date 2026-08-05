@@ -1,0 +1,32 @@
+    Recipient email
+    info@a2mtec.co.uk
+
+    Intended subject
+    Re: A clearer security survey brief
+
+    Follow-up timing
+    Five business days after the approved first email is sent.
+
+    Main message
+    Hi Security projects team,
+
+A quick follow-up on the personalised concept:
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/a2m-tec/
+
+The existing-platform field could tell your team whether an enquiry is a clean installation, an extension or a repair before the first call.
+
+Would this make the first response easier for your team?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com/
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+    Threading status
+    Prepared — genuine reply-thread creation remains pending until the original first email is sent. A standalone Re: draft may be created for approval but must not be described as a genuine thread.
+
+    Links verified
+    Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/a2m-tec/
+    MDA Growth Systems URL: https://mdagrowthsystems.com/
+    Status: Prepared; Gmail draft pending successful public deployment and link QA.

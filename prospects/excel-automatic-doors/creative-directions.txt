@@ -1,0 +1,29 @@
+Creative directions — Excel Automatic Doors
+Date: 2026-08-05
+
+Direction 1 — Industrial split-screen (selected)
+Visual style: Steel visual system built around the operational language of automatic doors, shop fronts and roller shutters.
+Layout approach: A bespoke split composition with the interactive tool visible early.
+Primary customer journey: Emergency door-fault triage with planned-installation routing.
+Signature interactive feature: Emergency door triage selector.
+Why it fits: It turns the business's most valuable first conversation into a concise, usable brief.
+Difference: The layout, typography, interaction and section order are unique to this prospect.
+
+Direction 2 — Field report journal
+Visual style: Documentary project notes, annotated capabilities and proof-led service panels.
+Layout approach: Vertical project journal with anchored service navigation.
+Primary customer journey: Start from a completed-project type, then request a comparable survey or service.
+Signature interactive feature: Expandable project-scope cards.
+Why it fits: Strong for prospects that want to lead with technical experience.
+Difference: More editorial and proof-led than the selected operational intake approach.
+
+Direction 3 — Service-area command centre
+Visual style: Geographic coverage map, response bands and service-area cards.
+Layout approach: Map-first hero followed by regional service routes.
+Primary customer journey: Confirm service area, then route to the relevant team.
+Signature interactive feature: Postcode and service-area checker prototype.
+Why it fits: Useful for nationwide or multi-region coverage.
+Difference: Geography-led rather than the selected workflow-led design.
+
+Selection rationale
+Direction 1 was selected because it demonstrates a specific business outcome without criticising the existing site: emergency door-fault triage with planned-installation routing.

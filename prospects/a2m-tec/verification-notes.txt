@@ -1,0 +1,25 @@
+Verification notes — A2M TEC Ltd
+Research date: 2026-08-05
+
+Official website: https://www.a2mtec.co.uk/
+Primary verification source: https://www.a2mtec.co.uk/contact
+Public email: info@a2mtec.co.uk
+Public phone: 01473 561131
+Location/coverage: Ipswich with UK-wide installation coverage
+Legal/subscriber type: Private limited company; company number 11661761 shown on official website
+Operating evidence: Official site lists active UK installation and repair services for gates, barriers, CCTV and access control, with current contact details and accreditations.
+
+Observed opportunity (internal only)
+The current form captures only basic contact details and does not distinguish new installations, multi-site upgrades, repairs or existing platforms.
+
+Recommended MDA outcome (internal only)
+Multi-site security survey and existing-platform qualification
+
+Duplicate/suppression check
+No prior MDA contact, demo, GitHub folder or suppression entry found after the available Gmail, GitHub repository and central outreach-log checks on 2026-08-05.
+
+Image and asset notes
+The concept uses an original SVG line illustration generated specifically for this prospect. No staff, premises, customer, accreditation, project or testimonial imagery was invented or copied.
+
+Factual constraints
+Only services, coverage and contact details supported by the official public website are used. The concept does not claim that its form, CRM or automation is operational.

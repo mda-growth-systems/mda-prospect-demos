@@ -1,0 +1,29 @@
+    Recipient email
+    worcester@lasersurveys.com
+
+    Contact person
+    Survey quotations team — Worcestershire office inbox
+
+    Subject
+    Survey deliverables, defined upfront
+
+    Main message
+    Hi Survey quotations team,
+
+Laser Surveys covers land, building, underground and 3D survey work from Worcestershire and London across Great Britain.
+
+I built an unofficial concept focused on survey deliverable builder for accurate estimating and scheduling:
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/laser-surveys/
+
+It is designed to help enquiries arrive with the details needed for the right next step. Worth a quick look?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com/
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+    Links verified
+    Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/laser-surveys/
+    MDA Growth Systems URL: https://mdagrowthsystems.com/
+    Status: Prepared; Gmail draft pending successful public deployment and link QA.

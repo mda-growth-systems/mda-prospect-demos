@@ -1,0 +1,29 @@
+    Recipient email
+    hire@kplanthire.uk.com
+
+    Contact person
+    Hire desk — General hire inbox
+
+    Subject
+    Hire requests, complete first time
+
+    Main message
+    Hi Hire desk,
+
+K Plant Hire covers plant, access, tools and welfare equipment, with delivery across London and the South East.
+
+I built an unofficial concept focused on dispatch-ready equipment finder with dates and access details:
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/k-plant-hire/
+
+It is designed to help enquiries arrive with the details needed for the right next step. Worth a quick look?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com/
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+    Links verified
+    Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/k-plant-hire/
+    MDA Growth Systems URL: https://mdagrowthsystems.com/
+    Status: Prepared; Gmail draft pending successful public deployment and link QA.

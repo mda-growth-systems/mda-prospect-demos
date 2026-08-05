@@ -1,0 +1,62 @@
+[
+  {
+    "slug": "excel-automatic-doors",
+    "name": "Excel Automatic Doors",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "slug": "a2m-tec",
+    "name": "A2M TEC Ltd",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "slug": "nicad",
+    "name": "NICAD",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "slug": "braywhite-hvac",
+    "name": "Braywhite & Co Ltd",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "slug": "k-plant-hire",
+    "name": "K Plant Hire Ltd",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "slug": "rs-surveys",
+    "name": "R S Surveys",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "slug": "laser-surveys",
+    "name": "Laser Surveys Ltd",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "slug": "eclipse-event-production",
+    "name": "Eclipse Event Staging & Production",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "slug": "thames-fire",
+    "name": "Thames Fire",
+    "passed": true,
+    "errors": []
+  },
+  {
+    "slug": "guardian-hygiene",
+    "name": "Guardian Hygiene Services Ltd",
+    "passed": true,
+    "errors": []
+  }
+]

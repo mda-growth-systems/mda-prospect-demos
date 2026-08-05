@@ -1,0 +1,22 @@
+QA checklist — A2M TEC Ltd
+Local QA date: 2026-08-05 — automated Chromium desktop/mobile run
+
+[x] Correct business name throughout
+[x] No other prospect name present
+[x] No placeholder text
+[x] Verified phone and email links
+[x] Responsive desktop and mobile layout
+[x] Mobile navigation works
+[x] Internal navigation works
+[x] Form labels are accessible
+[x] Required fields validate
+[x] Prototype submission does not transmit or store data
+[x] Thank-you page loads
+[x] No horizontal overflow at 375px
+[x] No browser console errors
+[x] SEO title and meta description present
+[x] Concept disclaimer present
+[x] Public main page verified signed out
+[x] Public thank-you page verified signed out
+
+Automated result: PASS — desktop/mobile rendering, navigation, validation, browser-only preview, thank-you content, overflow and console checks passed.

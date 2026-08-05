@@ -1,0 +1,29 @@
+    Recipient email
+    info@braywhite.co.uk
+
+    Contact person
+    HVAC service team — General business inbox
+
+    Subject
+    Cold-chain faults, scoped sooner
+
+    Main message
+    Hi HVAC service team,
+
+Braywhite supports commercial refrigeration, chillers and HVAC across the West Midlands, with emergency cover for account clients.
+
+I built an unofficial concept focused on cold-chain and chiller fault triage for faster service decisions:
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/braywhite-hvac/
+
+It is designed to help enquiries arrive with the details needed for the right next step. Worth a quick look?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com/
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+    Links verified
+    Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/braywhite-hvac/
+    MDA Growth Systems URL: https://mdagrowthsystems.com/
+    Status: Prepared; Gmail draft pending successful public deployment and link QA.

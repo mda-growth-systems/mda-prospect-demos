@@ -1,0 +1,10 @@
+Email,Suppression reason,Evidence,Status
+mphtechltd@gmail.co.uk,Hard bounce / invalid recipient domain,Existing outreach log,Do not contact
+info@easaudando.com,Domain not found,Gmail delivery failure 2026-08-06,Do not contact
+info@ukrac.co.uk,Domain not found,Gmail delivery failure 2026-08-06,Do not contact
+tileryequestrian@hotmail.com,Mailbox not found or unable to receive,Gmail delivery failure 2026-08-06,Do not contact
+info@aswm.co.uk,Mailbox rejected 550 5.1.1,Gmail delivery failure 2026-08-06,Do not contact
+info@dkifire.co.uk,Domain not found,Gmail delivery failure 2026-08-06,Do not contact
+info@samewater.co.uk,Mailbox not found,Gmail delivery failure 2026-08-06,Do not contact
+info@dbseventproduction.co.uk,Domain not found,Gmail delivery failure 2026-08-06,Do not contact
+office@citadelsecurityservices.co.uk,Recipient unknown,Gmail nondelivery report 2026-08-06,Do not contact

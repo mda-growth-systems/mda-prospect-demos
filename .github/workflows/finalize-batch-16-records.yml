@@ -1,0 +1,71 @@
+name: Finalize Batch 16 status records
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/finalize-batch-16-records.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  finalize:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: {fetch-depth: 0}
+      - name: Synchronize final verified statuses
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import csv
+          slugs=['strike-control','hendon-glazing','automatic-sprinkler-solutions','critical-environment-solutions','lab-uk-asbestos','thor-safety','sea-uk-gate-automation','grease-trap-store','procter-brothers','ltc-fencing']
+          domains={'strikecontrol.co.uk','hendonglazingltd.co.uk','autosprinklersolutionsltd.co.uk','criticalenvironmentsolutions.co.uk','labukltd.co.uk','thorsafety.co.uk','seaukltd.co.uk','greasetrapstore.co.uk','procterbrothers.co.uk','ltcfencing.co.uk'}
+          for slug in slugs:
+            q=Path('prospects')/slug/'qa-checklist.txt'; t=q.read_text(encoding='utf-8')
+            t=t.replace('[ ] Public signed-out URL and SSL verification after deployment','[x] Public signed-out URL and SSL verification passed — 2026-08-06')
+            t=t.replace('[ ] Final browser console and multi-device review after deployment','[x] Desktop/tablet/mobile, links, console and form-flow browser QA passed — 2026-08-06')
+            q.write_text(t,encoding='utf-8')
+            e=Path('prospects')/slug/'outreach-email.txt'; t=e.read_text(encoding='utf-8')
+            t=t.replace('public signed-out HTTPS check required after deployment','public signed-out HTTPS and browser QA passed on 2026-08-06')
+            e.write_text(t,encoding='utf-8')
+          def update_log(path):
+            p=Path(path)
+            with p.open(newline='',encoding='utf-8-sig') as f:
+              r=csv.DictReader(f); rows=list(r); fields=list(r.fieldnames or [])
+            for row in rows:
+              if row.get('Normalised root domain','').lower() not in domains: continue
+              row['Demo status']='Published on GitHub Pages; signed-out HTTPS and browser QA passed'
+              row['GitHub branch or pull request']='main; PR #15 merged; repair commit 9dcd27c'
+              row['Gmail first-draft status']='Created in connected Gmail; not sent'
+              row['Gmail follow-up status']='Prepared text only — genuine threaded reply pending after first email is sent'
+              row['Outreach status']='First-contact Gmail draft created; follow-up copy prepared; nothing sent'
+              row['Website QA status']='PASS — desktop, tablet, mobile, console, navigation and form flow'
+              row['Link QA status']='PASS — public demo, thank-you page and MDA website verified 2026-08-06'
+            with p.open('w',newline='',encoding='utf-8') as f:
+              w=csv.DictWriter(f,fieldnames=fields,extrasaction='ignore'); w.writeheader(); w.writerows(rows)
+          update_log('outreach-log-batch-16.csv'); update_log('outreach-log.csv')
+          p=Path('batch-manifest.csv')
+          with p.open(newline='',encoding='utf-8-sig') as f:
+            r=csv.DictReader(f); rows=list(r); fields=list(r.fieldnames or [])
+          for row in rows:
+            if row.get('Domain','').lower() in domains:
+              row['Branch']='main; PR #15 merged; repair commit 9dcd27c'
+              row['Status']='Published; signed-out link and browser QA passed; Gmail first-contact draft created; not sent'
+          with p.open('w',newline='',encoding='utf-8') as f:
+            w=csv.DictWriter(f,fieldnames=fields); w.writeheader(); w.writerows(rows)
+          p=Path('BATCH-16-FINAL-REPORT.md'); t=p.read_text(encoding='utf-8')
+          t=t.replace('Status: **Build complete locally; GitHub deployment, public-link QA and Gmail draft creation pending. No email sent.**','Status: **Build, GitHub publication, public-link QA, full browser QA and ten Gmail first-contact drafts complete. Ten follow-up texts are prepared. No email was sent or scheduled. Sending remains locked below 10/10 readiness.**')
+          t=t.replace('Draft pending','Created; not sent')
+          t=t.replace('- Emails sent or scheduled: 0','- Gmail first-contact drafts created: 10\n- Follow-up texts prepared: 10\n- Genuine threaded follow-up drafts: 0; originals are unsent\n- Public main and thank-you links verified: 10/10\n- Desktop/tablet/mobile/form browser QA: 10/10 PASS\n- Emails sent or scheduled: 0')
+          marker='## Remaining gates'
+          if marker in t:
+            t=t.split(marker)[0]+'''## Final status and remaining manual actions\n- All ten demos are published and passed signed-out HTTPS checks.\n- All ten passed desktop, tablet, mobile, navigation, contact-link, console and form-flow browser QA.\n- Ten first-contact drafts exist in Gmail and are unsent.\n- Ten follow-up texts are prepared; genuine reply drafts must wait until each original exists in Sent.\n- Sending remains prohibited until the connected Gmail display name/domain, reply-to, SPF, DKIM, DMARC, website identity and reputation checks produce a 10/10 readiness score and the user explicitly approves sending.\n'''
+          p.write_text(t,encoding='utf-8')
+          PY
+      - name: Commit final records
+        run: |
+          git config user.name mda-growth-systems
+          git config user.email michael@mdagrowthsystems.info
+          git add prospects outreach-log.csv outreach-log-batch-16.csv batch-manifest.csv BATCH-16-FINAL-REPORT.md
+          git commit -m 'Finalize Batch 16 status records [skip ci]'
+          git pull --rebase
+          git push

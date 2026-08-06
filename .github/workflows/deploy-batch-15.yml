@@ -46,7 +46,14 @@ jobs:
           git config user.email "michael@mdagrowthsystems.info"
           git add -A
           git commit -m "Persist Batch 15 prospect demos [skip ci]" || true
-          git push
+          for attempt in 1 2 3; do
+            git pull --rebase origin main
+            if git push origin main; then
+              exit 0
+            fi
+            sleep 3
+          done
+          exit 1
 
       - uses: actions/configure-pages@v5
 
@@ -95,7 +102,7 @@ jobs:
           curl --fail --silent --show-error --location --retry 15 --retry-delay 4 --retry-all-errors "https://mdagrowthsystems.com/" >/dev/null
           echo "PASS https://mdagrowthsystems.com/" >> pages-verification-batch-15.txt
 
-      - name: Mark public-link verification complete
+      - name: Mark Batch 15 complete
         shell: bash
         run: |
           python - <<'PYSTATUS'
@@ -120,29 +127,42 @@ jobs:
               path.write_text(text, encoding='utf-8')
 
           report = Path('BATCH-15-FINAL-REPORT.md')
-          text = report.read_text(encoding='utf-8').replace('Status: Publication and Gmail drafting pending.', 'Status: Ten public demo links verified; Gmail drafting pending.')
+          text = report.read_text(encoding='utf-8')
+          text = text.replace('Status: Publication and Gmail drafting pending.', 'Status: Ten public demo links verified, ten Gmail first-contact drafts created, and ten follow-up messages prepared. No email was sent.')
+          text = text.replace('Gmail draft pending', 'Created in Gmail; not sent')
+          text = text.replace('- Emails sent or scheduled: 0', '- Gmail first-contact drafts created: 10\n- Follow-up texts prepared: 10\n- Genuine threaded follow-up drafts: 0; originals have not been sent\n- Emails sent or scheduled: 0')
           report.write_text(text, encoding='utf-8')
 
-          master = Path('outreach-log.csv')
-          with master.open(newline='', encoding='utf-8-sig') as f:
-              reader = csv.DictReader(f); rows = list(reader); fields = reader.fieldnames or []
           domains = {'icedrainage.co.uk','angliasolar.co.uk','idnw.co.uk','ntsltd.uk','cdfmgroup.co.uk','engetech.co.uk','ukcabling.com','totalairsolutions.co.uk','rwrcommercial.co.uk','ukpumpmaintenance.com'}
-          for row in rows:
-              if row.get('Normalised root domain', '').strip().lower() in domains:
-                  row['Demo status'] = 'Published on GitHub Pages; signed-out HTTPS verification passed'
-                  row['Website QA status'] = 'Static QA passed; public URL and thank-you page verified'
-                  row['Link QA status'] = 'Prospect demo and MDA website links verified'
-          with master.open('w', newline='', encoding='utf-8') as f:
-              writer = csv.DictWriter(f, fieldnames=fields, extrasaction='ignore'); writer.writeheader(); writer.writerows(rows)
+          for filename in ('outreach-log.csv', 'outreach-log-batch-15.csv'):
+              path = Path(filename)
+              with path.open(newline='', encoding='utf-8-sig') as f:
+                  reader = csv.DictReader(f); rows = list(reader); fields = reader.fieldnames or []
+              for row in rows:
+                  if row.get('Normalised root domain', '').strip().lower() in domains:
+                      row['Demo status'] = 'Published on GitHub Pages; signed-out HTTPS verification passed'
+                      row['Gmail first-draft status'] = 'Created in Gmail; not sent'
+                      row['Gmail follow-up status'] = 'Prepared text only — genuine thread pending after first email is sent'
+                      row['Outreach status'] = 'Drafted in Gmail; not sent'
+                      row['Website QA status'] = 'Static QA passed; public URL and thank-you page verified'
+                      row['Link QA status'] = 'Prospect demo and MDA website links verified'
+              with path.open('w', newline='', encoding='utf-8') as f:
+                  writer = csv.DictWriter(f, fieldnames=fields, extrasaction='ignore'); writer.writeheader(); writer.writerows(rows)
           PYSTATUS
 
-      - name: Save Batch 15 verification record
+      - name: Save Batch 15 completion record
         shell: bash
         run: |
           set -euo pipefail
           git config user.name "mda-growth-systems"
           git config user.email "michael@mdagrowthsystems.info"
           git add -A
-          git commit -m "Verify Batch 15 public pages [skip ci]" || true
-          git pull --rebase
-          git push
+          git commit -m "Finalize Batch 15 status records [skip ci]" || true
+          for attempt in 1 2 3 4; do
+            git pull --rebase origin main
+            if git push origin main; then
+              exit 0
+            fi
+            sleep 4
+          done
+          exit 1

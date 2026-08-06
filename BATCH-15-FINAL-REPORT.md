@@ -1,19 +1,19 @@
 # MDA Growth Systems — Batch 15 Final Report
 
-Status: Publication and Gmail drafting pending.
+Status: Ten public demo links verified, ten Gmail first-contact drafts created, and ten follow-up messages prepared. No email was sent.
 
 | # | Business | Domain | Industry | Capability | Score | Contact | Public demo | First email | Follow-up |
 |---:|---|---|---|---|---:|---|---|---|---|
-| 1 | ICE Drainage Ltd | `icedrainage.co.uk` | Commercial and industrial drainage | Strong | 93 | `enquiries@icedrainage.co.uk` | [Demo](https://mda-growth-systems.github.io/mda-prospect-demos/prospects/ice-drainage/) | Gmail draft pending | Follow-up prepared |
-| 2 | AngliaSolar | `angliasolar.co.uk` | Commercial solar energy | Strong | 91 | `surveys@angliasolar.co.uk` | [Demo](https://mda-growth-systems.github.io/mda-prospect-demos/prospects/anglia-solar/) | Gmail draft pending | Follow-up prepared |
-| 3 | Industrial Doors North West | `idnw.co.uk` | Industrial doors and roller shutters | Strong | 90 | `info@idnw.co.uk` | [Demo](https://mda-growth-systems.github.io/mda-prospect-demos/prospects/industrial-doors-north-west/) | Gmail draft pending | Follow-up prepared |
-| 4 | Naylor Technical Services Ltd | `ntsltd.uk` | Commercial kitchen engineering | Moderate | 86 | `service@ntsltd.uk` | [Demo](https://mda-growth-systems.github.io/mda-prospect-demos/prospects/nts-commercial-kitchens/) | Gmail draft pending | Follow-up prepared |
-| 5 | CDF Management Group Ltd | `cdfmgroup.co.uk` | Commercial grounds maintenance | Strong | 89 | `sales@cdfmgroup.co.uk` | [Demo](https://mda-growth-systems.github.io/mda-prospect-demos/prospects/cdf-management-group/) | Gmail draft pending | Follow-up prepared |
-| 6 | Engetech Ltd | `engetech.co.uk` | Cold-room installation and maintenance | Strong | 92 | `admin@engetech.co.uk` | [Demo](https://mda-growth-systems.github.io/mda-prospect-demos/prospects/engetech-cold-rooms/) | Gmail draft pending | Follow-up prepared |
-| 7 | UK Cabling | `ukcabling.com` | Data and structured cabling | Strong | 91 | `sales@ukcabling.com` | [Demo](https://mda-growth-systems.github.io/mda-prospect-demos/prospects/uk-cabling/) | Gmail draft pending | Follow-up prepared |
-| 8 | Total Air Solutions Ltd | `totalairsolutions.co.uk` | Fire-damper testing and remedial work | Strong | 90 | `info@totalairsolutions.co.uk` | [Demo](https://mda-growth-systems.github.io/mda-prospect-demos/prospects/total-air-solutions/) | Gmail draft pending | Follow-up prepared |
-| 9 | RWR Commercial | `rwrcommercial.co.uk` | Commercial waste and specialist cleaning | Strong | 88 | `info@rwrcommercial.co.uk` | [Demo](https://mda-growth-systems.github.io/mda-prospect-demos/prospects/rwr-commercial/) | Gmail draft pending | Follow-up prepared |
-| 10 | UK Pump Maintenance | `ukpumpmaintenance.com` | Water and wastewater pump maintenance | Moderate | 84 | `ukpumps@gmail.com` | [Demo](https://mda-growth-systems.github.io/mda-prospect-demos/prospects/uk-pump-maintenance/) | Gmail draft pending | Follow-up prepared |
+| 1 | ICE Drainage Ltd | `icedrainage.co.uk` | Commercial and industrial drainage | Strong | 93 | `enquiries@icedrainage.co.uk` | [Demo](https://mda-growth-systems.github.io/mda-prospect-demos/prospects/ice-drainage/) | Created in Gmail; not sent | Follow-up prepared |
+| 2 | AngliaSolar | `angliasolar.co.uk` | Commercial solar energy | Strong | 91 | `surveys@angliasolar.co.uk` | [Demo](https://mda-growth-systems.github.io/mda-prospect-demos/prospects/anglia-solar/) | Created in Gmail; not sent | Follow-up prepared |
+| 3 | Industrial Doors North West | `idnw.co.uk` | Industrial doors and roller shutters | Strong | 90 | `info@idnw.co.uk` | [Demo](https://mda-growth-systems.github.io/mda-prospect-demos/prospects/industrial-doors-north-west/) | Created in Gmail; not sent | Follow-up prepared |
+| 4 | Naylor Technical Services Ltd | `ntsltd.uk` | Commercial kitchen engineering | Moderate | 86 | `service@ntsltd.uk` | [Demo](https://mda-growth-systems.github.io/mda-prospect-demos/prospects/nts-commercial-kitchens/) | Created in Gmail; not sent | Follow-up prepared |
+| 5 | CDF Management Group Ltd | `cdfmgroup.co.uk` | Commercial grounds maintenance | Strong | 89 | `sales@cdfmgroup.co.uk` | [Demo](https://mda-growth-systems.github.io/mda-prospect-demos/prospects/cdf-management-group/) | Created in Gmail; not sent | Follow-up prepared |
+| 6 | Engetech Ltd | `engetech.co.uk` | Cold-room installation and maintenance | Strong | 92 | `admin@engetech.co.uk` | [Demo](https://mda-growth-systems.github.io/mda-prospect-demos/prospects/engetech-cold-rooms/) | Created in Gmail; not sent | Follow-up prepared |
+| 7 | UK Cabling | `ukcabling.com` | Data and structured cabling | Strong | 91 | `sales@ukcabling.com` | [Demo](https://mda-growth-systems.github.io/mda-prospect-demos/prospects/uk-cabling/) | Created in Gmail; not sent | Follow-up prepared |
+| 8 | Total Air Solutions Ltd | `totalairsolutions.co.uk` | Fire-damper testing and remedial work | Strong | 90 | `info@totalairsolutions.co.uk` | [Demo](https://mda-growth-systems.github.io/mda-prospect-demos/prospects/total-air-solutions/) | Created in Gmail; not sent | Follow-up prepared |
+| 9 | RWR Commercial | `rwrcommercial.co.uk` | Commercial waste and specialist cleaning | Strong | 88 | `info@rwrcommercial.co.uk` | [Demo](https://mda-growth-systems.github.io/mda-prospect-demos/prospects/rwr-commercial/) | Created in Gmail; not sent | Follow-up prepared |
+| 10 | UK Pump Maintenance | `ukpumpmaintenance.com` | Water and wastewater pump maintenance | Moderate | 84 | `ukpumps@gmail.com` | [Demo](https://mda-growth-systems.github.io/mda-prospect-demos/prospects/uk-pump-maintenance/) | Created in Gmail; not sent | Follow-up prepared |
 
 ## Work completed
 - Candidates researched and compared: more than 20
@@ -23,6 +23,9 @@ Status: Publication and Gmail drafting pending.
 - First-contact texts: 10
 - Follow-up texts with exact Re: subjects: 10
 - Total message files containing both required links: 20
+- Gmail first-contact drafts created: 10
+- Follow-up texts prepared: 10
+- Genuine threaded follow-up drafts: 0; originals have not been sent
 - Emails sent or scheduled: 0
 
 ## Rejected candidates

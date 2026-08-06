@@ -15,4 +15,4 @@ https://mdagrowthsystems.com
 Links verified
 Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/cdf-management-group/
 MDA Growth Systems URL: https://mdagrowthsystems.com
-Status: Public-link testing required after GitHub deployment.
+Status: Public links verified by signed-out HTTPS requests in GitHub Actions on 2026-08-06T07:25:43Z.

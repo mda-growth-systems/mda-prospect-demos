@@ -10,5 +10,5 @@ QA checklist — UK Pump Maintenance
 [x] Concept disclaimer included
 [x] Signature feature and tailored field set included
 [x] Both message files contain the prospect demo and MDA website links
-[ ] Public URL verified signed out
+[x] Public URL verified signed out by GitHub Actions
 [ ] Final multi-device visual browser review before approved sending

@@ -1,0 +1,148 @@
+{
+  "ok": false,
+  "verified_utc": "2026-08-06T10:03:40.717Z",
+  "results": [
+    {
+      "slug": "strike-control",
+      "passes": [
+        "desktop: load/layout/links",
+        "tablet: load/layout/links",
+        "mobile: load/layout/links",
+        "form: validation and confirmation"
+      ],
+      "failures": [
+        "desktop: console errors Failed to load resource: the server responded with a status of 404 ()"
+      ]
+    },
+    {
+      "slug": "hendon-glazing",
+      "passes": [
+        "desktop: load/layout/links",
+        "tablet: load/layout/links",
+        "mobile: load/layout/links",
+        "form: validation and confirmation"
+      ],
+      "failures": [
+        "desktop: tel missing",
+        "tablet: tel missing",
+        "mobile: tel missing"
+      ]
+    },
+    {
+      "slug": "automatic-sprinkler-solutions",
+      "passes": [
+        "desktop: load/layout/links",
+        "tablet: load/layout/links",
+        "mobile: load/layout/links",
+        "form: validation and confirmation"
+      ],
+      "failures": [
+        "desktop: tel missing",
+        "tablet: tel missing",
+        "mobile: tel missing"
+      ]
+    },
+    {
+      "slug": "critical-environment-solutions",
+      "passes": [
+        "desktop: load/layout/links",
+        "tablet: load/layout/links",
+        "mobile: load/layout/links",
+        "form: validation and confirmation"
+      ],
+      "failures": [
+        "desktop: tel missing",
+        "tablet: tel missing",
+        "mobile: tel missing"
+      ]
+    },
+    {
+      "slug": "lab-uk-asbestos",
+      "passes": [
+        "desktop: load/layout/links",
+        "tablet: load/layout/links",
+        "mobile: load/layout/links",
+        "form: validation and confirmation"
+      ],
+      "failures": [
+        "desktop: tel missing",
+        "desktop: missing anchor #analysis",
+        "tablet: horizontal overflow",
+        "tablet: tel missing",
+        "tablet: missing anchor #analysis",
+        "mobile: tel missing",
+        "mobile: missing anchor #analysis"
+      ]
+    },
+    {
+      "slug": "thor-safety",
+      "passes": [
+        "desktop: load/layout/links",
+        "tablet: load/layout/links",
+        "mobile: load/layout/links",
+        "form: validation and confirmation"
+      ],
+      "failures": [
+        "desktop: tel missing",
+        "tablet: tel missing",
+        "mobile: tel missing"
+      ]
+    },
+    {
+      "slug": "sea-uk-gate-automation",
+      "passes": [
+        "desktop: load/layout/links",
+        "tablet: load/layout/links",
+        "mobile: load/layout/links",
+        "form: validation and confirmation"
+      ],
+      "failures": [
+        "desktop: tel missing",
+        "tablet: tel missing",
+        "mobile: tel missing"
+      ]
+    },
+    {
+      "slug": "grease-trap-store",
+      "passes": [
+        "desktop: load/layout/links",
+        "tablet: load/layout/links",
+        "mobile: load/layout/links",
+        "form: validation and confirmation"
+      ],
+      "failures": [
+        "desktop: tel missing",
+        "tablet: tel missing",
+        "mobile: tel missing"
+      ]
+    },
+    {
+      "slug": "procter-brothers",
+      "passes": [
+        "desktop: load/layout/links",
+        "tablet: load/layout/links",
+        "mobile: load/layout/links",
+        "form: validation and confirmation"
+      ],
+      "failures": [
+        "desktop: tel missing",
+        "tablet: tel missing",
+        "mobile: tel missing"
+      ]
+    },
+    {
+      "slug": "ltc-fencing",
+      "passes": [
+        "desktop: load/layout/links",
+        "tablet: load/layout/links",
+        "mobile: load/layout/links",
+        "form: validation and confirmation"
+      ],
+      "failures": [
+        "desktop: tel missing",
+        "tablet: tel missing",
+        "mobile: tel missing"
+      ]
+    }
+  ]
+}

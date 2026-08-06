@@ -11,5 +11,5 @@ QA checklist — Procter Brothers Ltd
 [x] No invented reviews, staff, clients, projects, prices or certifications
 [x] Unofficial concept disclaimer
 [x] Prospect-specific interactive feature
-[ ] Public signed-out URL and SSL verification after deployment
-[ ] Final browser console and multi-device review after deployment
+[x] Public signed-out URL and SSL verification passed — 2026-08-06
+[x] Desktop/tablet/mobile, links, console and form-flow browser QA passed — 2026-08-06

@@ -1,19 +1,19 @@
 # MDA Growth Systems — Batch 16 final approval report
 
-Status: **Build complete locally; GitHub deployment, public-link QA and Gmail draft creation pending. No email sent.**
+Status: **Build, GitHub publication, public-link QA, full browser QA and ten Gmail first-contact drafts complete. Ten follow-up texts are prepared. No email was sent or scheduled. Sending remains locked below 10/10 readiness.**
 
 | # | Business | Domain | Industry | Score | Recipient | Demo path | First draft | Follow-up |
 |---:|---|---|---|---:|---|---|---|---|
-| 1 | Strike Control Ltd | `strikecontrol.co.uk` | Lightning protection, testing and surge protection | 94 | `sales@strikecontrol.co.uk` | `strike-control` | Draft pending | Follow-up prepared |
-| 2 | Hendon Glazing Limited | `hendonglazingltd.co.uk` | Commercial and emergency glazing | 89 | `info@hendonglazingltd.co.uk` | `hendon-glazing` | Draft pending | Follow-up prepared |
-| 3 | Automatic Sprinkler Solutions Ltd | `autosprinklersolutionsltd.co.uk` | Fire sprinkler design, installation and maintenance | 91 | `info@autosprinklersolutionsltd.co.uk` | `automatic-sprinkler-solutions` | Draft pending | Follow-up prepared |
-| 4 | Critical Environment Solutions Ltd | `criticalenvironmentsolutions.co.uk` | Cleanroom consumables and garment laundry services | 90 | `sales@cesltd.uk.com` | `critical-environment-solutions` | Draft pending | Follow-up prepared |
-| 5 | LAB (UK) Limited | `labukltd.co.uk` | Asbestos surveying, sampling and laboratory analysis | 92 | `enquiries@labukltd.co.uk` | `lab-uk-asbestos` | Draft pending | Follow-up prepared |
-| 6 | THOR Safety Ltd | `thorsafety.co.uk` | Machine guarding and workplace safety systems | 95 | `Ben@thorsafety.co.uk` | `thor-safety` | Draft pending | Follow-up prepared |
-| 7 | SEA UK Ltd | `seaukltd.co.uk` | Gate automation, access control and traffic barriers | 90 | `sales@seaukltd.co.uk` | `sea-uk-gate-automation` | Draft pending | Follow-up prepared |
-| 8 | Cater Steel Ltd / Grease Trap Store | `greasetrapstore.co.uk` | Commercial kitchen grease-trap supply | 87 | `sales@greasetrapstore.co.uk` | `grease-trap-store` | Draft pending | Follow-up prepared |
-| 9 | Procter Brothers Ltd | `procterbrothers.co.uk` | Machine guarding, fencing contracting and fencing supply | 88 | `enquiries@procterbrothers.co.uk` | `procter-brothers` | Draft pending | Follow-up prepared |
-| 10 | LTC Fencing and Timber Specialist Ltd | `ltcfencing.co.uk` | Commercial fencing, acoustic fencing and temporary fencing | 86 | `ltcfencing@gmail.com` | `ltc-fencing` | Draft pending | Follow-up prepared |
+| 1 | Strike Control Ltd | `strikecontrol.co.uk` | Lightning protection, testing and surge protection | 94 | `sales@strikecontrol.co.uk` | `strike-control` | Created; not sent | Follow-up prepared |
+| 2 | Hendon Glazing Limited | `hendonglazingltd.co.uk` | Commercial and emergency glazing | 89 | `info@hendonglazingltd.co.uk` | `hendon-glazing` | Created; not sent | Follow-up prepared |
+| 3 | Automatic Sprinkler Solutions Ltd | `autosprinklersolutionsltd.co.uk` | Fire sprinkler design, installation and maintenance | 91 | `info@autosprinklersolutionsltd.co.uk` | `automatic-sprinkler-solutions` | Created; not sent | Follow-up prepared |
+| 4 | Critical Environment Solutions Ltd | `criticalenvironmentsolutions.co.uk` | Cleanroom consumables and garment laundry services | 90 | `sales@cesltd.uk.com` | `critical-environment-solutions` | Created; not sent | Follow-up prepared |
+| 5 | LAB (UK) Limited | `labukltd.co.uk` | Asbestos surveying, sampling and laboratory analysis | 92 | `enquiries@labukltd.co.uk` | `lab-uk-asbestos` | Created; not sent | Follow-up prepared |
+| 6 | THOR Safety Ltd | `thorsafety.co.uk` | Machine guarding and workplace safety systems | 95 | `Ben@thorsafety.co.uk` | `thor-safety` | Created; not sent | Follow-up prepared |
+| 7 | SEA UK Ltd | `seaukltd.co.uk` | Gate automation, access control and traffic barriers | 90 | `sales@seaukltd.co.uk` | `sea-uk-gate-automation` | Created; not sent | Follow-up prepared |
+| 8 | Cater Steel Ltd / Grease Trap Store | `greasetrapstore.co.uk` | Commercial kitchen grease-trap supply | 87 | `sales@greasetrapstore.co.uk` | `grease-trap-store` | Created; not sent | Follow-up prepared |
+| 9 | Procter Brothers Ltd | `procterbrothers.co.uk` | Machine guarding, fencing contracting and fencing supply | 88 | `enquiries@procterbrothers.co.uk` | `procter-brothers` | Created; not sent | Follow-up prepared |
+| 10 | LTC Fencing and Timber Specialist Ltd | `ltcfencing.co.uk` | Commercial fencing, acoustic fencing and temporary fencing | 86 | `ltcfencing@gmail.com` | `ltc-fencing` | Created; not sent | Follow-up prepared |
 
 ## Work completed
 - Candidates researched and compared: 20
@@ -24,6 +24,11 @@ Status: **Build complete locally; GitHub deployment, public-link QA and Gmail dr
 - First-contact texts: 10
 - Follow-up texts: 10
 - Total message files containing both required links: 20
+- Gmail first-contact drafts created: 10
+- Follow-up texts prepared: 10
+- Genuine threaded follow-up drafts: 0; originals are unsent
+- Public main and thank-you links verified: 10/10
+- Desktop/tablet/mobile/form browser QA: 10/10 PASS
 - Emails sent or scheduled: 0
 
 ## MDA readiness
@@ -41,9 +46,9 @@ The pre-send score is 2/10. Sending remains locked because the connected Gmail d
 - **RGR Facilities Ltd** — Already combines ecommerce, site surveys and equipment servicing.
 - **Accessafe UK** — Current content, brochures and technical resources make it more digitally mature than selected prospects.
 
-## Remaining gates
-- Publish through GitHub and verify every exact URL signed out over HTTPS.
-- Complete browser/mobile/button/form/thank-you QA.
-- Create ten Gmail first-contact drafts only after link verification.
-- Update the central outreach log through the repository workflow.
-- Do not send without explicit approval and a 10/10 readiness recheck.
+## Final status and remaining manual actions
+- All ten demos are published and passed signed-out HTTPS checks.
+- All ten passed desktop, tablet, mobile, navigation, contact-link, console and form-flow browser QA.
+- Ten first-contact drafts exist in Gmail and are unsent.
+- Ten follow-up texts are prepared; genuine reply drafts must wait until each original exists in Sent.
+- Sending remains prohibited until the connected Gmail display name/domain, reply-to, SPF, DKIM, DMARC, website identity and reputation checks produce a 10/10 readiness score and the user explicitly approves sending.

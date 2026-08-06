@@ -26,4 +26,4 @@ Not relevant? Reply “no thanks” and I will not contact you again.
 ### Links verified
 - Demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/sea-uk-gate-automation/
 - MDA URL: https://mdagrowthsystems.com
-- Test method: public signed-out HTTPS check required after deployment
+- Test method: public signed-out HTTPS and browser QA passed on 2026-08-06

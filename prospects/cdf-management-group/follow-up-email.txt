@@ -1,0 +1,18 @@
+Intended subject: Re: CDF — portfolio quote planner
+Status: Prepared — thread creation pending after first email is sent.
+Due: Five business days after the actual approved send date.
+
+Hello CDF Management Group team,
+
+A brief follow-up on the concept: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/cdf-management-group/
+
+A site-by-site schedule field could reduce the need to reconstruct mixed weekly and seasonal requirements by email. Is this close to how your team currently qualifies these enquiries?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com
+
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/cdf-management-group/
+MDA Growth Systems URL: https://mdagrowthsystems.com
+Status: Public-link testing required after GitHub deployment.

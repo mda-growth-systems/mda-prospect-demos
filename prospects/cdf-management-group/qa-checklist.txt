@@ -1,0 +1,14 @@
+QA checklist — CDF Management Group Ltd
+[x] Correct business name and verified public contact details
+[x] No placeholder or cross-prospect wording
+[x] Responsive viewport and mobile breakpoints
+[x] Working internal navigation and thank-you route
+[x] Accessible labels, title, description and heading structure
+[x] No external libraries or broken asset dependencies
+[x] No fake reviews, clients, staff, projects, accreditations or statistics
+[x] Internal prospect score and audit language excluded from public page
+[x] Concept disclaimer included
+[x] Signature feature and tailored field set included
+[x] Both message files contain the prospect demo and MDA website links
+[ ] Public URL verified signed out
+[ ] Final multi-device visual browser review before approved sending

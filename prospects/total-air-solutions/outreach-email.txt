@@ -1,0 +1,29 @@
+### Recipient email
+info@totalairsolutions.co.uk
+
+### Contact person
+Relevant operational or commercial team; named person not independently verified
+
+### Subject
+Total Air — compliance planner
+
+### Main message
+Hello Total Air Solutions team,
+
+Total Air Solutions provides fire-damper testing, reporting and remedial support from Greater Manchester. Compliance enquiries become more actionable when building count, estimated damper volume, last test date and remedial status are captured together.
+
+I created an unofficial concept showing a clearer damper compliance planner:
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/total-air-solutions/
+
+Would this make the first conversation easier for your team?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+### Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/total-air-solutions/
+MDA Growth Systems URL: https://mdagrowthsystems.com
+Status: Public-link testing required after GitHub deployment.

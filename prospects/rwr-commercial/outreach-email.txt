@@ -1,0 +1,29 @@
+### Recipient email
+info@rwrcommercial.co.uk
+
+### Contact person
+Relevant operational or commercial team; named person not independently verified
+
+### Subject
+RWR — waste-stream brief
+
+### Main message
+Hello RWR Commercial team,
+
+RWR Commercial covers commercial waste, recycling, tank cleaning and specialist services from Essex. Waste enquiries are easier to quote when material type, estimated volume, current storage and collection frequency arrive upfront.
+
+I created an unofficial concept showing a clearer waste-stream audit:
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/rwr-commercial/
+
+Would this make the first conversation easier for your team?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+### Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/rwr-commercial/
+MDA Growth Systems URL: https://mdagrowthsystems.com
+Status: Public-link testing required after GitHub deployment.

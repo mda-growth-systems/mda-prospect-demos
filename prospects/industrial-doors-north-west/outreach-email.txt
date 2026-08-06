@@ -1,0 +1,29 @@
+### Recipient email
+info@idnw.co.uk
+
+### Contact person
+Relevant operational or commercial team; named person not independently verified
+
+### Subject
+IDNW — door fault routing
+
+### Main message
+Hello IDNW team,
+
+Industrial Doors North West handles industrial doors, roller shutters, repairs and installations from its Manchester base. A fault request is easier to dispatch when the current door state, security risk and site access are known immediately.
+
+I created an unofficial concept showing a clearer door-state emergency router:
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/industrial-doors-north-west/
+
+Would this make the first conversation easier for your team?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+### Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/industrial-doors-north-west/
+MDA Growth Systems URL: https://mdagrowthsystems.com
+Status: Public-link testing required after GitHub deployment.

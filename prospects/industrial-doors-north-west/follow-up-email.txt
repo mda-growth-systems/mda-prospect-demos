@@ -1,0 +1,18 @@
+Intended subject: Re: IDNW — door fault routing
+Status: Prepared — thread creation pending after first email is sent.
+Due: Five business days after the actual approved send date.
+
+Hello IDNW team,
+
+A brief follow-up on the concept: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/industrial-doors-north-west/
+
+A security-risk selector could separate a stuck-open loading-bay door from a non-urgent operating fault. Is this close to how your team currently qualifies these enquiries?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com
+
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/industrial-doors-north-west/
+MDA Growth Systems URL: https://mdagrowthsystems.com
+Status: Public-link testing required after GitHub deployment.

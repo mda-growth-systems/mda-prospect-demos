@@ -1,0 +1,29 @@
+### Recipient email
+service@ntsltd.uk
+
+### Contact person
+Relevant operational or commercial team; named person not independently verified
+
+### Subject
+NTS — kitchen downtime brief
+
+### Main message
+Hello NTS team,
+
+NTS supports commercial kitchens across London and the South East with repair, maintenance and installation services. A breakdown message often arrives without the appliance, fault code, operational impact or access window needed to plan attendance.
+
+I created an unofficial concept showing a clearer kitchen downtime diagnostic:
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/nts-commercial-kitchens/
+
+Would this make the first conversation easier for your team?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+### Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/nts-commercial-kitchens/
+MDA Growth Systems URL: https://mdagrowthsystems.com
+Status: Public-link testing required after GitHub deployment.

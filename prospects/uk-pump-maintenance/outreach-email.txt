@@ -1,0 +1,29 @@
+### Recipient email
+ukpumps@gmail.com
+
+### Contact person
+Relevant operational or commercial team; named person not independently verified
+
+### Subject
+UK Pump — fault intake
+
+### Main message
+Hello UK Pump Maintenance team,
+
+UK Pump Maintenance supports water and wastewater pump installation, maintenance and breakdowns nationwide from West Suffolk. A breakdown request is more useful when pump type, alarm status, duty/standby condition and site impact arrive before the callback.
+
+I created an unofficial concept showing a clearer pump fault triage:
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/uk-pump-maintenance/
+
+Would this make the first conversation easier for your team?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+### Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/uk-pump-maintenance/
+MDA Growth Systems URL: https://mdagrowthsystems.com
+Status: Public-link testing required after GitHub deployment.

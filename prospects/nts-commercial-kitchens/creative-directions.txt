@@ -1,0 +1,23 @@
+Creative directions for Naylor Technical Services Ltd
+
+1. SELECTED — Kitchen downtime diagnostic
+Visual style: editorial composition using an original abstract operational visual.
+Layout: Business-specific hero, verified service routes and a tailored intake journey.
+Primary journey: Reduced breakdown callbacks.
+Signature feature: Kitchen downtime diagnostic.
+Why it fits: It captures the operational details that affect the first response.
+Difference: The interaction and field structure are unique to this prospect.
+
+2. Capability atlas
+Visual style: Editorial service map.
+Layout: Service categories first, followed by proof and contact.
+Primary journey: General capability discovery.
+Signature feature: Filterable service atlas.
+Why not selected: Less focused on the strongest enquiry friction.
+
+3. Project casebook
+Visual style: Image-led project narrative.
+Layout: Project types and process milestones.
+Primary journey: Trust-building before contact.
+Signature feature: Project-stage navigator.
+Why not selected: Verified project assets were not available for safe use.

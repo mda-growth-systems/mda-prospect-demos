@@ -1,0 +1,29 @@
+### Recipient email
+admin@engetech.co.uk
+
+### Contact person
+Relevant operational or commercial team; named person not independently verified
+
+### Subject
+Engetech — cold-room brief
+
+### Main message
+Hello Engetech team,
+
+Engetech handles cold-room installation, maintenance and emergency support across several commercial sectors. A new-room or breakdown enquiry needs different technical information, yet both can begin through the same general route.
+
+I created an unofficial concept showing a clearer cold-room specification builder:
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/engetech-cold-rooms/
+
+Would this make the first conversation easier for your team?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+### Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/engetech-cold-rooms/
+MDA Growth Systems URL: https://mdagrowthsystems.com
+Status: Public-link testing required after GitHub deployment.

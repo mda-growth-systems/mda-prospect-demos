@@ -1,0 +1,29 @@
+### Recipient email
+sales@ukcabling.com
+
+### Contact person
+Relevant operational or commercial team; named person not independently verified
+
+### Subject
+UK Cabling — survey-ready briefs
+
+### Main message
+Hello UK Cabling team,
+
+UK Cabling delivers structured and fibre cabling across the UK, including work from Sheffield, Birmingham and London. Project enquiries are easier to assess when site count, outlet volume, fibre needs and programme are captured together.
+
+I created an unofficial concept showing a clearer network survey planner:
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/uk-cabling/
+
+Would this make the first conversation easier for your team?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+### Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/uk-cabling/
+MDA Growth Systems URL: https://mdagrowthsystems.com
+Status: Public-link testing required after GitHub deployment.

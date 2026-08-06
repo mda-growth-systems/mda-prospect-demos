@@ -1,0 +1,29 @@
+### Recipient email
+enquiries@icedrainage.co.uk
+
+### Contact person
+Relevant operational or commercial team; named person not independently verified
+
+### Subject
+ICE Drainage — incident triage
+
+### Main message
+Hello ICE Drainage team,
+
+ICE Drainage supports commercial and industrial sites nationwide, including 24/7 emergency response, CCTV surveys and planned drainage work. A general enquiry can still leave the team chasing the site type, operational impact and whether the issue is live or planned.
+
+I created an unofficial concept showing a clearer incident triage console:
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/ice-drainage/
+
+Would this make the first conversation easier for your team?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+### Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/ice-drainage/
+MDA Growth Systems URL: https://mdagrowthsystems.com
+Status: Public-link testing required after GitHub deployment.

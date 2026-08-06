@@ -1,0 +1,29 @@
+### Recipient email
+sales@cdfmgroup.co.uk
+
+### Contact person
+Relevant operational or commercial team; named person not independently verified
+
+### Subject
+CDF — portfolio quote planner
+
+### Main message
+Hello CDF Management Group team,
+
+CDF Management Group provides commercial grounds maintenance and related services from the West Midlands. Portfolio enquiries are easier to price when site count, approximate area, visit frequency and seasonal services arrive upfront.
+
+I created an unofficial concept showing a clearer grounds portfolio planner:
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/cdf-management-group/
+
+Would this make the first conversation easier for your team?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+### Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/cdf-management-group/
+MDA Growth Systems URL: https://mdagrowthsystems.com
+Status: Public-link testing required after GitHub deployment.

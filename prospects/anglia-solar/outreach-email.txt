@@ -1,0 +1,29 @@
+### Recipient email
+surveys@angliasolar.co.uk
+
+### Contact person
+Relevant operational or commercial team; named person not independently verified
+
+### Subject
+AngliaSolar — survey-ready leads
+
+### Main message
+Hello AngliaSolar team,
+
+AngliaSolar offers commercial solar surveys and installation support across several UK regions. Early enquiries are more useful when roof type, daytime energy use, ownership and project stage arrive together.
+
+I created an unofficial concept showing a clearer solar feasibility canvas:
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/anglia-solar/
+
+Would this make the first conversation easier for your team?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+### Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/anglia-solar/
+MDA Growth Systems URL: https://mdagrowthsystems.com
+Status: Public-link testing required after GitHub deployment.

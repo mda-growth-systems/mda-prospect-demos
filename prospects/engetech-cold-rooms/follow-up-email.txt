@@ -1,0 +1,18 @@
+Intended subject: Re: Engetech — cold-room brief
+Status: Prepared — thread creation pending after first email is sent.
+Due: Five business days after the actual approved send date.
+
+Hello Engetech team,
+
+A brief follow-up on the concept: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/engetech-cold-rooms/
+
+A target-temperature field would immediately separate chilled, frozen and specialist controlled-environment enquiries. Is this close to how your team currently qualifies these enquiries?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com
+
+Links verified
+Prospect demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/engetech-cold-rooms/
+MDA Growth Systems URL: https://mdagrowthsystems.com
+Status: Public-link testing required after GitHub deployment.

@@ -1,0 +1,80 @@
+name: Publish Batch 16 prospect demos
+on:
+  push:
+    branches: [main]
+    paths: ['batch-16-xz-payload/**','.github/workflows/deploy-batch-16.yml']
+  workflow_dispatch:
+permissions: {contents: write, pages: write, id-token: write}
+concurrency: {group: batch-16-pages, cancel-in-progress: false}
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with: {fetch-depth: 0}
+      - name: Expand verified payload
+        shell: bash
+        run: |
+          set -euo pipefail
+          cat batch-16-xz-payload/chunk-* > /tmp/payload.b64
+          base64 --decode /tmp/payload.b64 > /tmp/batch-16.tar.xz
+          echo '3b54b8131f192e90e5c69a1b71837eb6d38bf84a5481c83d5cef7d290ad807e0  /tmp/batch-16.tar.xz' | sha256sum -c -
+          tar -xJf /tmp/batch-16.tar.xz
+          rm -rf batch-16-xz-payload batch-16-payload
+      - name: Merge outreach log
+        shell: bash
+        run: |
+          python - <<'PY'
+          import csv
+          from pathlib import Path
+          m=Path('outreach-log.csv'); b=Path('outreach-log-batch-16.csv')
+          with b.open(newline='',encoding='utf-8-sig') as f: inc=list(csv.DictReader(f))
+          old=[]; fields=list(inc[0])
+          if m.exists():
+            with m.open(newline='',encoding='utf-8-sig') as f:
+              r=csv.DictReader(f); old=list(r); fields=list(r.fieldnames or fields)
+          for row in inc:
+            for k in row:
+              if k not in fields: fields.append(k)
+          ix={r.get('Normalised root domain','').lower():i for i,r in enumerate(old)}
+          for row in inc:
+            d=row.get('Normalised root domain','').lower(); clean={k:row.get(k,'') for k in fields}
+            if d in ix: old[ix[d]].update(clean)
+            elif d: ix[d]=len(old); old.append(clean)
+          with m.open('w',newline='',encoding='utf-8') as f:
+            w=csv.DictWriter(f,fieldnames=fields,extrasaction='ignore'); w.writeheader(); w.writerows(old)
+          PY
+      - name: Persist source files
+        run: |
+          git config user.name mda-growth-systems
+          git config user.email michael@mdagrowthsystems.info
+          git add -A && git commit -m 'Persist Batch 16 demos [skip ci]' || true
+          git push
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v4
+        with: {path: .}
+      - name: Deploy Pages
+        id: deploy
+        uses: actions/deploy-pages@v4
+      - name: Verify public pages
+        shell: bash
+        run: |
+          set -euo pipefail
+          base='${{ steps.deploy.outputs.page_url }}'
+          slugs=(strike-control hendon-glazing automatic-sprinkler-solutions critical-environment-solutions lab-uk thor-safety sea-uk grease-trap-store procter-brothers ltc-fencing)
+          sleep 45
+          printf 'Batch 16 verification\nDeployment: %s\nVerified UTC: %s\n\n' "$base" "$(date -u +%FT%TZ)" > pages-verification-batch-16.txt
+          for s in "${slugs[@]}"; do
+            u="${base%/}/prospects/$s/"
+            curl -fsSL --retry 24 --retry-delay 5 --retry-all-errors "$u" >/dev/null
+            curl -fsSL --retry 12 --retry-delay 4 --retry-all-errors "${u}thank-you.html" >/dev/null
+            echo "PASS $u" >> pages-verification-batch-16.txt
+          done
+          curl -fsSL --retry 12 --retry-delay 4 --retry-all-errors https://mdagrowthsystems.com/ >/dev/null
+          echo 'PASS https://mdagrowthsystems.com/' >> pages-verification-batch-16.txt
+          git add pages-verification-batch-16.txt
+          git commit -m 'Verify Batch 16 pages [skip ci]' || true
+          git pull --rebase && git push

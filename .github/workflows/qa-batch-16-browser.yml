@@ -19,10 +19,9 @@ jobs:
       - name: Test desktop tablet mobile and forms
         shell: bash
         run: |
-          cat > /tmp/qa.mjs <<'JS'
+          cat > qa-batch-16.mjs <<'JS'
           import { chromium } from 'playwright-core';
           import fs from 'node:fs';
-          import { execSync } from 'node:child_process';
           const base='https://mda-growth-systems.github.io/mda-prospect-demos/prospects';
           const slugs=['strike-control','hendon-glazing','automatic-sprinkler-solutions','critical-environment-solutions','lab-uk-asbestos','thor-safety','sea-uk-gate-automation','grease-trap-store','procter-brothers','ltc-fencing'];
           const viewports=[['desktop',1440,900],['tablet',768,1024],['mobile',390,844]];
@@ -92,10 +91,11 @@ jobs:
           fs.writeFileSync('browser-qa-batch-16.md',md);
           if(!ok) process.exit(2);
           JS
-          node /tmp/qa.mjs
+          node qa-batch-16.mjs
       - name: Persist QA evidence
         if: always()
         run: |
+          test -f browser-qa-batch-16.json && test -f browser-qa-batch-16.md
           git config user.name mda-growth-systems
           git config user.email michael@mdagrowthsystems.info
           git add browser-qa-batch-16.json browser-qa-batch-16.md

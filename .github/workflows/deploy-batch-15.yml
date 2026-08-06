@@ -4,7 +4,7 @@ on:
   push:
     branches: [main]
     paths:
-      - 'batch-15-payload/**'
+      - '.github/scripts/generate-batch-15.py'
       - '.github/workflows/deploy-batch-15.yml'
   workflow_dispatch:
 
@@ -14,7 +14,7 @@ permissions:
   id-token: write
 
 concurrency:
-  group: pages-${{ github.repository }}
+  group: batch15-pages-${{ github.repository }}
   cancel-in-progress: true
 
 jobs:
@@ -28,58 +28,15 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Expand Batch 15 payload
+      - name: Generate Batch 15 projects and records
         shell: bash
         run: |
           set -euo pipefail
-          base64 --decode batch-15-payload/payload.b64 > /tmp/batch-15.tar.gz
-          gzip -t /tmp/batch-15.tar.gz
-          tar -xzf /tmp/batch-15.tar.gz
+          python .github/scripts/generate-batch-15.py
           rm -rf batch-15-payload
-
-      - name: Merge Batch 15 outreach log
-        shell: bash
-        run: |
-          python - <<'PYMERGE'
-          import csv
-          from pathlib import Path
-
-          master = Path('outreach-log.csv')
-          batch = Path('outreach-log-batch-15.csv')
-          if not batch.exists():
-              raise SystemExit('Missing outreach-log-batch-15.csv')
-
-          with batch.open(newline='', encoding='utf-8-sig') as f:
-              incoming = list(csv.DictReader(f))
-          existing = []
-          fields = list(incoming[0].keys()) if incoming else []
-          if master.exists():
-              with master.open(newline='', encoding='utf-8-sig') as f:
-                  reader = csv.DictReader(f)
-                  existing = list(reader)
-                  fields = reader.fieldnames or fields
-          for row in incoming:
-              for key in row:
-                  if key not in fields:
-                      fields.append(key)
-          index = {
-              row.get('Normalised root domain', '').strip().lower(): i
-              for i, row in enumerate(existing)
-              if row.get('Normalised root domain', '').strip()
-          }
-          for row in incoming:
-              domain = row.get('Normalised root domain', '').strip().lower()
-              clean = {key: row.get(key, '') for key in fields}
-              if domain in index:
-                  existing[index[domain]].update(clean)
-              elif domain:
-                  index[domain] = len(existing)
-                  existing.append(clean)
-          with master.open('w', newline='', encoding='utf-8') as f:
-              writer = csv.DictWriter(f, fieldnames=fields, extrasaction='ignore')
-              writer.writeheader()
-              writer.writerows(existing)
-          PYMERGE
+          test -f batch-15.html
+          test -f BATCH-15-FINAL-REPORT.md
+          test "$(find prospects -mindepth 2 -maxdepth 2 -path '*/outreach-email.txt' | grep -E 'ice-drainage|anglia-solar|industrial-doors-north-west|nts-commercial-kitchens|cdf-management-group|engetech-cold-rooms|uk-cabling|total-air-solutions|rwr-commercial|uk-pump-maintenance' | wc -l)" -eq 10
 
       - name: Persist Batch 15 source files
         shell: bash
@@ -150,40 +107,33 @@ jobs:
           verified = verified_line.replace('Verified UTC:', '').strip()
           pending = 'Status: Public-link testing required after GitHub deployment.'
           complete = f'Status: Public links verified by signed-out HTTPS requests in GitHub Actions on {verified}.'
-          for path in Path('prospects').glob('*/outreach-email.txt'):
-              path.write_text(path.read_text(encoding='utf-8').replace(pending, complete), encoding='utf-8')
-          for path in Path('prospects').glob('*/follow-up-email.txt'):
-              path.write_text(path.read_text(encoding='utf-8').replace(pending, complete), encoding='utf-8')
-          for path in Path('prospects').glob('*/qa-checklist.txt'):
-              text = path.read_text(encoding='utf-8')
-              text = text.replace('[ ] Public URL verified signed out', '[x] Public URL verified signed out by GitHub Actions')
+          targets = {
+              'ice-drainage','anglia-solar','industrial-doors-north-west','nts-commercial-kitchens','cdf-management-group',
+              'engetech-cold-rooms','uk-cabling','total-air-solutions','rwr-commercial','uk-pump-maintenance'
+          }
+          for slug in targets:
+              for filename in ('outreach-email.txt', 'follow-up-email.txt'):
+                  path = Path('prospects') / slug / filename
+                  path.write_text(path.read_text(encoding='utf-8').replace(pending, complete), encoding='utf-8')
+              path = Path('prospects') / slug / 'qa-checklist.txt'
+              text = path.read_text(encoding='utf-8').replace('[ ] Public URL verified signed out', '[x] Public URL verified signed out by GitHub Actions')
               path.write_text(text, encoding='utf-8')
 
           report = Path('BATCH-15-FINAL-REPORT.md')
-          if report.exists():
-              text = report.read_text(encoding='utf-8')
-              text = text.replace('Status: Publication and Gmail drafting pending.', 'Status: Ten public demo links verified; Gmail drafting pending.')
-              report.write_text(text, encoding='utf-8')
+          text = report.read_text(encoding='utf-8').replace('Status: Publication and Gmail drafting pending.', 'Status: Ten public demo links verified; Gmail drafting pending.')
+          report.write_text(text, encoding='utf-8')
 
           master = Path('outreach-log.csv')
-          if master.exists():
-              with master.open(newline='', encoding='utf-8-sig') as f:
-                  reader = csv.DictReader(f)
-                  rows = list(reader)
-                  fields = reader.fieldnames or []
-              targets = {
-                  'icedrainage.co.uk','angliasolar.co.uk','idnw.co.uk','ntsltd.uk','cdfmgroup.co.uk',
-                  'engetech.co.uk','ukcabling.com','totalairsolutions.co.uk','rwrcommercial.co.uk','ukpumpmaintenance.com'
-              }
-              for row in rows:
-                  if row.get('Normalised root domain', '').strip().lower() in targets:
-                      row['Demo status'] = 'Published on GitHub Pages; signed-out HTTPS verification passed'
-                      row['Website QA status'] = 'Static QA passed; public URL and thank-you page verified'
-                      row['Link QA status'] = 'Prospect demo and MDA website links verified'
-              with master.open('w', newline='', encoding='utf-8') as f:
-                  writer = csv.DictWriter(f, fieldnames=fields, extrasaction='ignore')
-                  writer.writeheader()
-                  writer.writerows(rows)
+          with master.open(newline='', encoding='utf-8-sig') as f:
+              reader = csv.DictReader(f); rows = list(reader); fields = reader.fieldnames or []
+          domains = {'icedrainage.co.uk','angliasolar.co.uk','idnw.co.uk','ntsltd.uk','cdfmgroup.co.uk','engetech.co.uk','ukcabling.com','totalairsolutions.co.uk','rwrcommercial.co.uk','ukpumpmaintenance.com'}
+          for row in rows:
+              if row.get('Normalised root domain', '').strip().lower() in domains:
+                  row['Demo status'] = 'Published on GitHub Pages; signed-out HTTPS verification passed'
+                  row['Website QA status'] = 'Static QA passed; public URL and thank-you page verified'
+                  row['Link QA status'] = 'Prospect demo and MDA website links verified'
+          with master.open('w', newline='', encoding='utf-8') as f:
+              writer = csv.DictWriter(f, fieldnames=fields, extrasaction='ignore'); writer.writeheader(); writer.writerows(rows)
           PYSTATUS
 
       - name: Save Batch 15 verification record

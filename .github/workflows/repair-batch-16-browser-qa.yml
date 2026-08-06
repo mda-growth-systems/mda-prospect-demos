@@ -1,0 +1,121 @@
+name: Repair and QA Batch 16 demos
+on:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/repair-batch-16-browser-qa.yml']
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  repair-and-test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with: {fetch-depth: 0}
+      - uses: actions/setup-node@v4
+        with: {node-version: '20'}
+      - name: Repair confirmed QA failures
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          phones={
+            'strike-control':('01635 953533','01635953533'),
+            'hendon-glazing':('020 8068 0429','02080680429'),
+            'automatic-sprinkler-solutions':('01689 885 043','01689885043'),
+            'critical-environment-solutions':('01793 512505','01793512505'),
+            'lab-uk-asbestos':('01268 590768','01268590768'),
+            'thor-safety':('01384 476457','01384476457'),
+            'sea-uk-gate-automation':('0121 433 3348','01214333348'),
+            'grease-trap-store':('0151 329 3000','01513293000'),
+            'procter-brothers':('02920 882 222','02920882222'),
+            'ltc-fencing':('0131 608 5015','01316085015'),
+          }
+          for slug,(display,dial) in phones.items():
+            folder=Path('prospects')/slug
+            for name in ('index.html','thank-you.html'):
+              p=folder/name; text=p.read_text(encoding='utf-8')
+              if 'rel="icon"' not in text:
+                text=text.replace('</head>','<link rel="icon" href="data:,"></head>',1)
+              p.write_text(text,encoding='utf-8')
+            p=folder/'index.html'; text=p.read_text(encoding='utf-8')
+            if 'href="tel:' not in text and display in text:
+              text=text.replace(display,f'<a href="tel:{dial}">{display}</a>',1)
+            if slug=='lab-uk-asbestos':
+              text=text.replace('<table class="specs">','<table id="analysis" class="specs">',1)
+              text=text.replace('@media(max-width:760px)','@media(max-width:900px)',1)
+            p.write_text(text,encoding='utf-8')
+          PY
+      - name: Install browser driver
+        run: npm install --no-save playwright-core@1.54.2
+      - name: Run full browser QA
+        shell: bash
+        run: |
+          python -m http.server 8765 >/tmp/batch16-http.log 2>&1 &
+          SERVER=$!
+          trap 'kill $SERVER || true' EXIT
+          sleep 2
+          cat > qa-repair-batch-16.mjs <<'JS'
+          import { chromium } from 'playwright-core';
+          import fs from 'node:fs';
+          const base='http://127.0.0.1:8765/prospects';
+          const slugs=['strike-control','hendon-glazing','automatic-sprinkler-solutions','critical-environment-solutions','lab-uk-asbestos','thor-safety','sea-uk-gate-automation','grease-trap-store','procter-brothers','ltc-fencing'];
+          const viewports=[['desktop',1440,900],['tablet',768,1024],['mobile',390,844]];
+          let executable; for(const c of ['/usr/bin/google-chrome','/usr/bin/google-chrome-stable','/usr/bin/chromium-browser','/usr/bin/chromium']) if(fs.existsSync(c)){executable=c;break;}
+          if(!executable) throw new Error('No browser found');
+          const browser=await chromium.launch({executablePath:executable,headless:true,args:['--no-sandbox']});
+          const results=[];
+          for(const slug of slugs){
+            const r={slug,failures:[]};
+            for(const [label,width,height] of viewports){
+              const context=await browser.newContext({viewport:{width,height}}); const page=await context.newPage(); const errors=[];
+              page.on('console',m=>{if(m.type()==='error') errors.push(m.text())}); page.on('pageerror',e=>errors.push(String(e)));
+              try{
+                const response=await page.goto(`${base}/${slug}/`,{waitUntil:'networkidle',timeout:20000});
+                if(!response?.ok()) r.failures.push(`${label}: HTTP ${response?.status()}`);
+                if(await page.evaluate(()=>document.documentElement.scrollWidth>document.documentElement.clientWidth+1)) r.failures.push(`${label}: horizontal overflow`);
+                if(!(await page.locator('h1').first().isVisible())) r.failures.push(`${label}: h1 missing`);
+                const body=(await page.locator('body').innerText()).toLowerCase();
+                if(!body.includes('unofficial')||!body.includes('concept')) r.failures.push(`${label}: disclaimer missing`);
+                const hrefs=await page.locator('a').evaluateAll(es=>es.map(e=>e.getAttribute('href')).filter(Boolean));
+                if(!hrefs.some(x=>x.startsWith('mailto:'))) r.failures.push(`${label}: mailto missing`);
+                if(!hrefs.some(x=>x.startsWith('tel:'))) r.failures.push(`${label}: tel missing`);
+                const bad=await page.locator('a[href^="#"]').evaluateAll(es=>es.map(e=>e.getAttribute('href')).filter(h=>h&&h!=='#'&&!document.querySelector(h)));
+                for(const h of bad) r.failures.push(`${label}: missing anchor ${h}`);
+                if(errors.length) r.failures.push(`${label}: console errors ${errors.slice(0,2).join(' | ')}`);
+              }catch(e){r.failures.push(`${label}: ${e.message}`)}
+              await context.close();
+            }
+            const context=await browser.newContext({viewport:{width:1440,height:900}}); const page=await context.newPage(); const errors=[];
+            page.on('console',m=>{if(m.type()==='error') errors.push(m.text())}); page.on('pageerror',e=>errors.push(String(e)));
+            try{
+              await page.goto(`${base}/${slug}/`,{waitUntil:'networkidle',timeout:20000});
+              const form=page.locator('form').first(); const submit=form.locator('button[type="submit"],input[type="submit"],button').last();
+              await submit.click(); if(await page.locator(':invalid').count()===0) r.failures.push('form: required validation missing');
+              for(const sel of await form.locator('select').all()) if(await sel.locator('option').count()>1) await sel.selectOption({index:1});
+              for(const input of await form.locator('input').all()){
+                const t=((await input.getAttribute('type'))||'text').toLowerCase(); if(['submit','button','hidden'].includes(t)) continue;
+                if(['checkbox','radio'].includes(t)){await input.check();continue;} await input.fill(t==='email'?'test@example.com':t==='tel'?'07123456789':'Test');
+              }
+              for(const ta of await form.locator('textarea').all()) await ta.fill('Test enquiry');
+              await submit.click(); await page.waitForURL(/thank-you\.html/,{timeout:10000});
+              if(!(await page.locator('body').innerText()).trim()) r.failures.push('form: blank confirmation');
+              if(errors.length) r.failures.push(`form: console errors ${errors.slice(0,2).join(' | ')}`);
+            }catch(e){r.failures.push(`form: ${e.message}`)}
+            await context.close(); results.push(r);
+          }
+          await browser.close(); const ok=results.every(r=>!r.failures.length); const verified=new Date().toISOString();
+          fs.writeFileSync('browser-qa-batch-16.json',JSON.stringify({ok,verified_utc:verified,results},null,2));
+          let md=`# Batch 16 browser QA\n\nVerified UTC: ${verified}\n\nOverall: **${ok?'PASS':'FAIL'}**\n\n| Demo | Desktop | Tablet | Mobile | Form | Result |\n|---|---|---|---|---|---|\n`;
+          for(const r of results) md+=`| ${r.slug} | ${r.failures.some(x=>x.startsWith('desktop'))?'FAIL':'PASS'} | ${r.failures.some(x=>x.startsWith('tablet'))?'FAIL':'PASS'} | ${r.failures.some(x=>x.startsWith('mobile'))?'FAIL':'PASS'} | ${r.failures.some(x=>x.startsWith('form'))?'FAIL':'PASS'} | ${r.failures.length?'FAIL':'PASS'} |\n`;
+          if(!ok){md+='\n## Failures\n'; for(const r of results) for(const f of r.failures) md+=`- ${r.slug}: ${f}\n`;}
+          fs.writeFileSync('browser-qa-batch-16.md',md); if(!ok) process.exit(2);
+          JS
+          node qa-repair-batch-16.mjs
+      - name: Commit repaired demos and QA evidence
+        run: |
+          git config user.name mda-growth-systems
+          git config user.email michael@mdagrowthsystems.info
+          git add prospects browser-qa-batch-16.json browser-qa-batch-16.md
+          git commit -m 'Repair and validate Batch 16 demos [skip ci]'
+          git pull --rebase
+          git push

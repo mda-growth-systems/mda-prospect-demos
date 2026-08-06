@@ -1,0 +1,29 @@
+### Recipient email
+sales@cesltd.uk.com
+
+### Contact person and role
+Cleanroom sales team
+
+### Subject
+Cleanroom programmes, qualified
+
+### Main message
+Hello Cleanroom sales team,
+
+Your cleanroom laundry service offers traceability and garment management, but enquiries do not visibly guide customers through garment volume, class and collection frequency.
+
+I built an unofficial concept showing a clearer cleanroom programme builder:
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/critical-environment-solutions/
+
+Would this make the first conversation easier for your team?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+### Links verified
+- Demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/critical-environment-solutions/
+- MDA URL: https://mdagrowthsystems.com
+- Test method: public signed-out HTTPS check required after deployment

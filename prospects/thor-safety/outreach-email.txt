@@ -1,0 +1,29 @@
+### Recipient email
+Ben@thorsafety.co.uk
+
+### Contact person and role
+Ben / workplace safety team
+
+### Subject
+Machine safety, briefed upfront
+
+### Main message
+Hello Ben / workplace safety team,
+
+Your site includes strong technical capability, but some service pages still show placeholder service names and unfinished template copy.
+
+I built an unofficial concept showing a clearer machine safety audit:
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/thor-safety/
+
+Would this make the first conversation easier for your team?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+### Links verified
+- Demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/thor-safety/
+- MDA URL: https://mdagrowthsystems.com
+- Test method: public signed-out HTTPS check required after deployment

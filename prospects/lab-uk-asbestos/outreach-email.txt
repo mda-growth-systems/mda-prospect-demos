@@ -1,0 +1,29 @@
+### Recipient email
+enquiries@labukltd.co.uk
+
+### Contact person and role
+Asbestos consultancy team
+
+### Subject
+Asbestos surveys, correctly routed
+
+### Main message
+Hello Asbestos consultancy team,
+
+Your site covers surveys, bulk analysis, air monitoring and remediation, while the quote route remains broad for very different compliance needs.
+
+I built an unofficial concept showing a clearer asbestos survey selector:
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/lab-uk-asbestos/
+
+Would this make the first conversation easier for your team?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+### Links verified
+- Demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/lab-uk-asbestos/
+- MDA URL: https://mdagrowthsystems.com
+- Test method: public signed-out HTTPS check required after deployment

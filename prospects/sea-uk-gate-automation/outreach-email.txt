@@ -1,0 +1,29 @@
+### Recipient email
+sales@seaukltd.co.uk
+
+### Contact person and role
+Gate automation sales team
+
+### Subject
+Gate systems, matched faster
+
+### Main message
+Hello Gate automation sales team,
+
+Your product range is extensive, but a customer or installer must navigate many product pages before narrowing the right motor, duty cycle and safety devices.
+
+I built an unofficial concept showing a clearer gate system configurator:
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/sea-uk-gate-automation/
+
+Would this make the first conversation easier for your team?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+### Links verified
+- Demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/sea-uk-gate-automation/
+- MDA URL: https://mdagrowthsystems.com
+- Test method: public signed-out HTTPS check required after deployment

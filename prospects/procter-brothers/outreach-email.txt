@@ -1,0 +1,29 @@
+### Recipient email
+enquiries@procterbrothers.co.uk
+
+### Contact person and role
+Procter Brothers enquiries team
+
+### Subject
+Routing Procter enquiries clearly
+
+### Main message
+Hello Procter Brothers enquiries team,
+
+Your group operates several distinct divisions with separate emails and phone numbers, which can make first-time visitors uncertain where to route a mixed requirement.
+
+I built an unofficial concept showing a clearer division route planner:
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/procter-brothers/
+
+Would this make the first conversation easier for your team?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+### Links verified
+- Demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/procter-brothers/
+- MDA URL: https://mdagrowthsystems.com
+- Test method: public signed-out HTTPS check required after deployment

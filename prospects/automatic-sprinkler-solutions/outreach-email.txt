@@ -1,0 +1,29 @@
+### Recipient email
+info@autosprinklersolutionsltd.co.uk
+
+### Contact person and role
+Sprinkler projects team
+
+### Subject
+Sprinkler projects, scoped earlier
+
+### Main message
+Hello Sprinkler projects team,
+
+Your site demonstrates project experience, but the main contact form does not distinguish a new design, retrofit, maintenance visit or urgent fault.
+
+I built an unofficial concept showing a clearer sprinkler scope blueprint:
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/automatic-sprinkler-solutions/
+
+Would this make the first conversation easier for your team?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+### Links verified
+- Demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/automatic-sprinkler-solutions/
+- MDA URL: https://mdagrowthsystems.com
+- Test method: public signed-out HTTPS check required after deployment

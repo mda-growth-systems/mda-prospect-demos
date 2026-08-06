@@ -1,0 +1,15 @@
+QA checklist — LAB (UK) Limited
+[x] Correct business and verified public contact details
+[x] No cross-prospect wording or placeholder copy
+[x] Materially distinct batch layout and navigation
+[x] Responsive desktop/tablet/mobile CSS
+[x] Working internal navigation where present
+[x] Required form fields and prototype confirmation route
+[x] Correct mailto and telephone values
+[x] Accessible labels, headings, title and meta description
+[x] No external asset dependency
+[x] No invented reviews, staff, clients, projects, prices or certifications
+[x] Unofficial concept disclaimer
+[x] Prospect-specific interactive feature
+[ ] Public signed-out URL and SSL verification after deployment
+[ ] Final browser console and multi-device review after deployment

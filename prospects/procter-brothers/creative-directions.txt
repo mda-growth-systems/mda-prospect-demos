@@ -1,0 +1,20 @@
+1. Selected — Division route planner
+Visual/layout: Unique batch template 9
+Primary journey: A division-routing portal could identify whether the need is guarding, installed fencing, materials supply or a combined industrial project.
+Signature feature: Division route planner
+Why it fits: Purpose-built interaction and information architecture focused on the highest-value enquiry friction.
+Difference from other demos: unique navigation, section order, visual rhythm and interaction.
+
+2. Capability atlas — Filterable service and sector map
+Visual/layout: Alternative direction
+Primary journey: A division-routing portal could identify whether the need is guarding, installed fencing, materials supply or a combined industrial project.
+Signature feature: Filterable service and sector map
+Why it fits: Useful for discovery, but less direct than the chosen conversion journey.
+Difference from other demos: unique navigation, section order, visual rhythm and interaction.
+
+3. Project casebook — Project-stage and proof-led narrative
+Visual/layout: Alternative direction
+Primary journey: A division-routing portal could identify whether the need is guarding, installed fencing, materials supply or a combined industrial project.
+Signature feature: Project-stage and proof-led narrative
+Why it fits: Not selected because verified project media was not available for safe reuse.
+Difference from other demos: unique navigation, section order, visual rhythm and interaction.

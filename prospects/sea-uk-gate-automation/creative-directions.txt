@@ -1,0 +1,20 @@
+1. Selected — Gate system configurator
+Visual/layout: Unique batch template 7
+Primary journey: A gate specification builder could route by gate type, weight, usage, power and access-control requirement.
+Signature feature: Gate system configurator
+Why it fits: Purpose-built interaction and information architecture focused on the highest-value enquiry friction.
+Difference from other demos: unique navigation, section order, visual rhythm and interaction.
+
+2. Capability atlas — Filterable service and sector map
+Visual/layout: Alternative direction
+Primary journey: A gate specification builder could route by gate type, weight, usage, power and access-control requirement.
+Signature feature: Filterable service and sector map
+Why it fits: Useful for discovery, but less direct than the chosen conversion journey.
+Difference from other demos: unique navigation, section order, visual rhythm and interaction.
+
+3. Project casebook — Project-stage and proof-led narrative
+Visual/layout: Alternative direction
+Primary journey: A gate specification builder could route by gate type, weight, usage, power and access-control requirement.
+Signature feature: Project-stage and proof-led narrative
+Why it fits: Not selected because verified project media was not available for safe reuse.
+Difference from other demos: unique navigation, section order, visual rhythm and interaction.

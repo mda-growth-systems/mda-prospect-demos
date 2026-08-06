@@ -1,0 +1,29 @@
+### Recipient email
+sales@greasetrapstore.co.uk
+
+### Contact person and role
+Grease Trap Store sales team
+
+### Subject
+Grease traps, sized with confidence
+
+### Main message
+Hello Grease Trap Store sales team,
+
+Your store offers specialist sizing advice and a calculator, but buyers still need to translate sink, flow and kitchen details into a confident product choice.
+
+I built an unofficial concept showing a clearer kitchen grease-load calculator:
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/grease-trap-store/
+
+Would this make the first conversation easier for your team?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+### Links verified
+- Demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/grease-trap-store/
+- MDA URL: https://mdagrowthsystems.com
+- Test method: public signed-out HTTPS check required after deployment

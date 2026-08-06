@@ -1,0 +1,29 @@
+### Recipient email
+ltcfencing@gmail.com
+
+### Contact person and role
+Commercial fencing team
+
+### Subject
+Commercial fencing, scoped visually
+
+### Main message
+Hello Commercial fencing team,
+
+Your commercial page covers several very different fencing uses, while the contact route does not visibly collect boundary length, security level, ground type or programme.
+
+I built an unofficial concept showing a clearer fence scope visualiser:
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/ltc-fencing/
+
+Would this make the first conversation easier for your team?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+### Links verified
+- Demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/ltc-fencing/
+- MDA URL: https://mdagrowthsystems.com
+- Test method: public signed-out HTTPS check required after deployment

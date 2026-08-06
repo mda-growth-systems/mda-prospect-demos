@@ -1,0 +1,29 @@
+### Recipient email
+sales@strikecontrol.co.uk
+
+### Contact person and role
+Lightning protection team
+
+### Subject
+Strike Control risk brief
+
+### Main message
+Hello Lightning protection team,
+
+Your site presents testing, risk assessment, design and surge protection, but several service areas still contain visible template placeholder text.
+
+I built an unofficial concept showing a clearer lightning risk triage board:
+https://mda-growth-systems.github.io/mda-prospect-demos/prospects/strike-control/
+
+Would this make the first conversation easier for your team?
+
+Michael
+MDA Growth Systems
+https://mdagrowthsystems.com
+
+Not relevant? Reply “no thanks” and I will not contact you again.
+
+### Links verified
+- Demo URL: https://mda-growth-systems.github.io/mda-prospect-demos/prospects/strike-control/
+- MDA URL: https://mdagrowthsystems.com
+- Test method: public signed-out HTTPS check required after deployment
